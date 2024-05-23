@@ -1,0 +1,1088 @@
+2024-05-23 18:33:47 INFO  :25 - Google Cloud homepage opened
+2024-05-23 18:44:23 INFO  :25 - Google Cloud homepage opened
+2024-05-23 19:12:41 INFO  :25 - Google Cloud homepage opened
+2024-05-23 20:50:19 INFO  :25 - Google Cloud homepage opened
+2024-05-23 20:51:22 INFO  :25 - Google Cloud homepage opened
+2024-05-23 20:53:12 INFO  :24 - Google Cloud homepage opened
+2024-05-23 20:53:24 INFO  :39 - Trying to click web element [[FirefoxDriver: firefox on windows (dc431d51-745d-4db8-9c1d-ae39e73649b2)] -> xpath: //div[@jsname='Ohx1pb']]
+2024-05-23 20:53:25 INFO  :50 - Web element [[FirefoxDriver: firefox on windows (dc431d51-745d-4db8-9c1d-ae39e73649b2)] -> xpath: //div[@jsname='Ohx1pb']]clicked
+2024-05-23 20:53:25 INFO  :37 - Search request + 'Google Cloud Pricing Calculator' sent
+2024-05-23 20:53:26 INFO  :39 - Trying to click web element [[FirefoxDriver: firefox on windows (dc431d51-745d-4db8-9c1d-ae39e73649b2)] -> xpath: //a[contains(text(), 'Google Cloud Pricing Calculator')]]
+2024-05-23 20:53:30 INFO  :50 - Web element Proxy element for: DefaultElementLocator 'By.xpath: //a[contains(text(), 'Google Cloud Pricing Calculator')]'clicked
+2024-05-23 20:53:30 INFO  :26 - Google Cloud Pricing Calculator page opened
+2024-05-23 20:53:30 INFO  :35 - [[FirefoxDriver: firefox on windows (dc431d51-745d-4db8-9c1d-ae39e73649b2)] -> xpath: //c-wiz[1]//button] clicked
+2024-05-23 20:53:31 INFO  :35 - [[FirefoxDriver: firefox on windows (dc431d51-745d-4db8-9c1d-ae39e73649b2)] -> xpath: //div[h2/text()='Compute Engine']] clicked
+2024-05-23 21:14:02 INFO  :24 - Google Cloud homepage opened
+2024-05-23 21:14:07 INFO  :39 - Trying to click web element [[FirefoxDriver: firefox on windows (9918b624-fe1f-40cf-a666-a65873c217de)] -> xpath: //div[@jsname='Ohx1pb']]
+2024-05-23 21:14:07 INFO  :50 - Web element [[FirefoxDriver: firefox on windows (9918b624-fe1f-40cf-a666-a65873c217de)] -> xpath: //div[@jsname='Ohx1pb']]clicked
+2024-05-23 21:14:08 INFO  :37 - Search request + 'Google Cloud Pricing Calculator' sent
+2024-05-23 21:14:09 INFO  :39 - Trying to click web element [[FirefoxDriver: firefox on windows (9918b624-fe1f-40cf-a666-a65873c217de)] -> xpath: //a[contains(text(), 'Google Cloud Pricing Calculator')]]
+2024-05-23 21:14:11 INFO  :50 - Web element Proxy element for: DefaultElementLocator 'By.xpath: //a[contains(text(), 'Google Cloud Pricing Calculator')]'clicked
+2024-05-23 21:14:11 INFO  :26 - Google Cloud Pricing Calculator page opened
+2024-05-23 21:14:11 INFO  :35 - [[FirefoxDriver: firefox on windows (9918b624-fe1f-40cf-a666-a65873c217de)] -> xpath: //c-wiz[1]//button] clicked
+2024-05-23 21:14:12 INFO  :35 - [[FirefoxDriver: firefox on windows (9918b624-fe1f-40cf-a666-a65873c217de)] -> xpath: //div[h2/text()='Compute Engine']] clicked
+2024-05-23 21:14:37 INFO  :24 - Google Cloud homepage opened
+2024-05-23 21:14:41 INFO  :39 - Trying to click web element [[FirefoxDriver: firefox on windows (4ac40dca-eab3-414a-84ae-e24bdfc6bc85)] -> xpath: //div[@jsname='Ohx1pb']]
+2024-05-23 21:14:42 INFO  :50 - Web element [[FirefoxDriver: firefox on windows (4ac40dca-eab3-414a-84ae-e24bdfc6bc85)] -> xpath: //div[@jsname='Ohx1pb']]clicked
+2024-05-23 21:14:42 INFO  :37 - Search request + 'Google Cloud Pricing Calculator' sent
+2024-05-23 21:14:43 INFO  :39 - Trying to click web element [[FirefoxDriver: firefox on windows (4ac40dca-eab3-414a-84ae-e24bdfc6bc85)] -> xpath: //a[contains(text(), 'Google Cloud Pricing Calculator')]]
+2024-05-23 21:14:45 INFO  :50 - Web element Proxy element for: DefaultElementLocator 'By.xpath: //a[contains(text(), 'Google Cloud Pricing Calculator')]'clicked
+2024-05-23 21:14:45 INFO  :26 - Google Cloud Pricing Calculator page opened
+2024-05-23 21:14:45 INFO  :35 - [[FirefoxDriver: firefox on windows (4ac40dca-eab3-414a-84ae-e24bdfc6bc85)] -> xpath: //c-wiz[1]//button] clicked
+2024-05-23 21:14:46 INFO  :35 - [[FirefoxDriver: firefox on windows (4ac40dca-eab3-414a-84ae-e24bdfc6bc85)] -> xpath: //div[h2/text()='Compute Engine']] clicked
+2024-05-23 21:34:36 INFO  :24 - Google Cloud homepage opened
+2024-05-23 21:34:39 INFO  :39 - Trying to click web element [[FirefoxDriver: firefox on windows (8cf9079a-88a9-4e25-982a-7bfd3d54013b)] -> xpath: //div[@jsname='Ohx1pb']]
+2024-05-23 21:34:40 INFO  :50 - Web element [[FirefoxDriver: firefox on windows (8cf9079a-88a9-4e25-982a-7bfd3d54013b)] -> xpath: //div[@jsname='Ohx1pb']]clicked
+2024-05-23 21:34:40 INFO  :37 - Search request + 'Google Cloud Pricing Calculator' sent
+2024-05-23 21:34:41 INFO  :39 - Trying to click web element [[FirefoxDriver: firefox on windows (8cf9079a-88a9-4e25-982a-7bfd3d54013b)] -> xpath: //a[contains(text(), 'Google Cloud Pricing Calculator')]]
+2024-05-23 21:34:44 INFO  :50 - Web element Proxy element for: DefaultElementLocator 'By.xpath: //a[contains(text(), 'Google Cloud Pricing Calculator')]'clicked
+2024-05-23 21:34:44 INFO  :26 - Google Cloud Pricing Calculator page opened
+2024-05-23 21:34:44 INFO  :35 - [[FirefoxDriver: firefox on windows (8cf9079a-88a9-4e25-982a-7bfd3d54013b)] -> xpath: //c-wiz[1]//button] clicked
+2024-05-23 21:34:45 INFO  :35 - [[FirefoxDriver: firefox on windows (8cf9079a-88a9-4e25-982a-7bfd3d54013b)] -> xpath: //div[h2/text()='Compute Engine']] clicked
+2024-05-23 21:34:46 INFO  :56 - Number of instances '4' selected
+2024-05-23 21:34:46 INFO  :39 - Trying to click web element [[FirefoxDriver: firefox on windows (8cf9079a-88a9-4e25-982a-7bfd3d54013b)] -> xpath: //span[contains(text(), 'Operating System / Software')]/ancestor::div[2]]
+2024-05-23 21:34:46 INFO  :50 - Web element [[FirefoxDriver: firefox on windows (8cf9079a-88a9-4e25-982a-7bfd3d54013b)] -> xpath: //span[contains(text(), 'Operating System / Software')]/ancestor::div[2]]clicked
+2024-05-23 21:34:47 INFO  :39 - Trying to click web element [[FirefoxDriver: firefox on windows (8cf9079a-88a9-4e25-982a-7bfd3d54013b)] -> xpath: //span[contains(text(), 'Free: Debian, CentOS, CoreOS, Ubuntu or BYOL (Bring Your Own License)')]/ancestor::li]
+2024-05-23 21:34:47 INFO  :50 - Web element [[FirefoxDriver: firefox on windows (8cf9079a-88a9-4e25-982a-7bfd3d54013b)] -> xpath: //span[contains(text(), 'Free: Debian, CentOS, CoreOS, Ubuntu or BYOL (Bring Your Own License)')]/ancestor::li]clicked
+2024-05-23 21:34:47 INFO  :60 - Operation system software 'Free: Debian, CentOS, CoreOS, Ubuntu or BYOL (Bring Your Own License)' selected
+2024-05-23 21:34:47 INFO  :39 - Trying to click web element [[FirefoxDriver: firefox on windows (8cf9079a-88a9-4e25-982a-7bfd3d54013b)] -> xpath: //label[contains(text(), 'Regular')]/parent::*]
+2024-05-23 21:34:47 INFO  :50 - Web element [[FirefoxDriver: firefox on windows (8cf9079a-88a9-4e25-982a-7bfd3d54013b)] -> xpath: //label[contains(text(), 'Regular')]/parent::*]clicked
+2024-05-23 21:34:47 INFO  :63 - Provision model 'Regular' selected
+2024-05-23 21:34:47 INFO  :39 - Trying to click web element [[FirefoxDriver: firefox on windows (8cf9079a-88a9-4e25-982a-7bfd3d54013b)] -> xpath: //span[contains(text(), 'Machine Family')]/ancestor::div[2]]
+2024-05-23 21:34:48 INFO  :50 - Web element [[FirefoxDriver: firefox on windows (8cf9079a-88a9-4e25-982a-7bfd3d54013b)] -> xpath: //span[contains(text(), 'Machine Family')]/ancestor::div[2]]clicked
+2024-05-23 21:34:48 INFO  :39 - Trying to click web element [[FirefoxDriver: firefox on windows (8cf9079a-88a9-4e25-982a-7bfd3d54013b)] -> xpath: //span[contains(text(), 'General Purpose')]/ancestor::li]
+2024-05-23 21:34:48 INFO  :50 - Web element [[FirefoxDriver: firefox on windows (8cf9079a-88a9-4e25-982a-7bfd3d54013b)] -> xpath: //span[contains(text(), 'General Purpose')]/ancestor::li]clicked
+2024-05-23 21:34:48 INFO  :67 - Machine family 'General Purpose' selected
+2024-05-23 21:34:48 INFO  :39 - Trying to click web element [[FirefoxDriver: firefox on windows (8cf9079a-88a9-4e25-982a-7bfd3d54013b)] -> xpath: //span[contains(text(), 'Series')]/ancestor::div[2]]
+2024-05-23 21:34:48 INFO  :50 - Web element [[FirefoxDriver: firefox on windows (8cf9079a-88a9-4e25-982a-7bfd3d54013b)] -> xpath: //span[contains(text(), 'Series')]/ancestor::div[2]]clicked
+2024-05-23 21:34:48 INFO  :39 - Trying to click web element [[FirefoxDriver: firefox on windows (8cf9079a-88a9-4e25-982a-7bfd3d54013b)] -> xpath: //span[contains(text(), 'N1')]/ancestor::li]
+2024-05-23 21:34:49 INFO  :50 - Web element [[FirefoxDriver: firefox on windows (8cf9079a-88a9-4e25-982a-7bfd3d54013b)] -> xpath: //span[contains(text(), 'N1')]/ancestor::li]clicked
+2024-05-23 21:34:49 INFO  :71 - Series 'N1' selected
+2024-05-23 21:34:49 INFO  :39 - Trying to click web element [[FirefoxDriver: firefox on windows (8cf9079a-88a9-4e25-982a-7bfd3d54013b)] -> xpath: //span[contains(text(), 'Machine type')]/ancestor::div[2]]
+2024-05-23 21:34:49 INFO  :50 - Web element [[FirefoxDriver: firefox on windows (8cf9079a-88a9-4e25-982a-7bfd3d54013b)] -> xpath: //span[contains(text(), 'Machine type')]/ancestor::div[2]]clicked
+2024-05-23 21:34:49 INFO  :39 - Trying to click web element [[FirefoxDriver: firefox on windows (8cf9079a-88a9-4e25-982a-7bfd3d54013b)] -> xpath: //span[contains(text(), 'n1-standard-8')]/ancestor::li]
+2024-05-23 21:34:49 INFO  :50 - Web element [[FirefoxDriver: firefox on windows (8cf9079a-88a9-4e25-982a-7bfd3d54013b)] -> xpath: //span[contains(text(), 'n1-standard-8')]/ancestor::li]clicked
+2024-05-23 21:34:49 INFO  :75 - machine type 'n1-standard-8' selected
+2024-05-23 21:34:49 INFO  :39 - Trying to click web element [[FirefoxDriver: firefox on windows (8cf9079a-88a9-4e25-982a-7bfd3d54013b)] -> xpath: //span[contains(text(), 'Local SSD')]/ancestor::div[2]]
+2024-05-23 21:34:50 INFO  :50 - Web element [[FirefoxDriver: firefox on windows (8cf9079a-88a9-4e25-982a-7bfd3d54013b)] -> xpath: //span[contains(text(), 'Local SSD')]/ancestor::div[2]]clicked
+2024-05-23 21:34:50 INFO  :39 - Trying to click web element [[FirefoxDriver: firefox on windows (8cf9079a-88a9-4e25-982a-7bfd3d54013b)] -> xpath: //span[contains(text(), '2x375 GB')]/ancestor::li]
+2024-05-23 21:34:50 INFO  :50 - Web element [[FirefoxDriver: firefox on windows (8cf9079a-88a9-4e25-982a-7bfd3d54013b)] -> xpath: //span[contains(text(), '2x375 GB')]/ancestor::li]clicked
+2024-05-23 21:34:50 INFO  :79 - Local SSD '2x375 GB' selected
+2024-05-23 21:34:50 INFO  :39 - Trying to click web element [[FirefoxDriver: firefox on windows (8cf9079a-88a9-4e25-982a-7bfd3d54013b)] -> xpath: //span[contains(text(), 'Region')]/ancestor::div[2]]
+2024-05-23 21:34:51 INFO  :50 - Web element [[FirefoxDriver: firefox on windows (8cf9079a-88a9-4e25-982a-7bfd3d54013b)] -> xpath: //span[contains(text(), 'Region')]/ancestor::div[2]]clicked
+2024-05-23 21:34:51 INFO  :39 - Trying to click web element [[FirefoxDriver: firefox on windows (8cf9079a-88a9-4e25-982a-7bfd3d54013b)] -> xpath: //span[contains(text(), 'South Carolina (us-east1)')]/ancestor::li]
+2024-05-23 21:34:51 INFO  :50 - Web element [[FirefoxDriver: firefox on windows (8cf9079a-88a9-4e25-982a-7bfd3d54013b)] -> xpath: //span[contains(text(), 'South Carolina (us-east1)')]/ancestor::li]clicked
+2024-05-23 21:34:51 INFO  :83 - Datacenter Location 'South Carolina (us-east1)' selected
+2024-05-23 21:39:44 INFO  :24 - Google Cloud homepage opened
+2024-05-23 21:39:50 INFO  :39 - Trying to click web element [[FirefoxDriver: firefox on windows (527e17c1-8ec4-4be9-9222-6d9f316c638b)] -> xpath: //div[@jsname='Ohx1pb']]
+2024-05-23 21:39:50 INFO  :50 - Web element [[FirefoxDriver: firefox on windows (527e17c1-8ec4-4be9-9222-6d9f316c638b)] -> xpath: //div[@jsname='Ohx1pb']]clicked
+2024-05-23 21:39:50 INFO  :37 - Search request + 'Google Cloud Pricing Calculator' sent
+2024-05-23 21:39:51 INFO  :39 - Trying to click web element [[FirefoxDriver: firefox on windows (527e17c1-8ec4-4be9-9222-6d9f316c638b)] -> xpath: //a[contains(text(), 'Google Cloud Pricing Calculator')]]
+2024-05-23 21:39:54 INFO  :50 - Web element Proxy element for: DefaultElementLocator 'By.xpath: //a[contains(text(), 'Google Cloud Pricing Calculator')]'clicked
+2024-05-23 21:39:54 INFO  :26 - Google Cloud Pricing Calculator page opened
+2024-05-23 21:39:54 INFO  :35 - [[FirefoxDriver: firefox on windows (527e17c1-8ec4-4be9-9222-6d9f316c638b)] -> xpath: //c-wiz[1]//button] clicked
+2024-05-23 21:39:55 INFO  :35 - [[FirefoxDriver: firefox on windows (527e17c1-8ec4-4be9-9222-6d9f316c638b)] -> xpath: //div[h2/text()='Compute Engine']] clicked
+2024-05-23 21:39:56 INFO  :56 - Number of instances '4' selected
+2024-05-23 21:39:56 INFO  :39 - Trying to click web element [[FirefoxDriver: firefox on windows (527e17c1-8ec4-4be9-9222-6d9f316c638b)] -> xpath: //span[contains(text(), 'Operating System / Software')]/ancestor::div[2]]
+2024-05-23 21:39:57 INFO  :50 - Web element [[FirefoxDriver: firefox on windows (527e17c1-8ec4-4be9-9222-6d9f316c638b)] -> xpath: //span[contains(text(), 'Operating System / Software')]/ancestor::div[2]]clicked
+2024-05-23 21:39:57 INFO  :39 - Trying to click web element [[FirefoxDriver: firefox on windows (527e17c1-8ec4-4be9-9222-6d9f316c638b)] -> xpath: //span[contains(text(), 'Free: Debian, CentOS, CoreOS, Ubuntu or BYOL (Bring Your Own License)')]/ancestor::li]
+2024-05-23 21:39:57 INFO  :50 - Web element [[FirefoxDriver: firefox on windows (527e17c1-8ec4-4be9-9222-6d9f316c638b)] -> xpath: //span[contains(text(), 'Free: Debian, CentOS, CoreOS, Ubuntu or BYOL (Bring Your Own License)')]/ancestor::li]clicked
+2024-05-23 21:39:57 INFO  :60 - Operation system software 'Free: Debian, CentOS, CoreOS, Ubuntu or BYOL (Bring Your Own License)' selected
+2024-05-23 21:39:57 INFO  :39 - Trying to click web element [[FirefoxDriver: firefox on windows (527e17c1-8ec4-4be9-9222-6d9f316c638b)] -> xpath: //label[contains(text(), 'Regular')]/parent::*]
+2024-05-23 21:39:58 INFO  :50 - Web element [[FirefoxDriver: firefox on windows (527e17c1-8ec4-4be9-9222-6d9f316c638b)] -> xpath: //label[contains(text(), 'Regular')]/parent::*]clicked
+2024-05-23 21:39:58 INFO  :63 - Provision model 'Regular' selected
+2024-05-23 21:39:58 INFO  :39 - Trying to click web element [[FirefoxDriver: firefox on windows (527e17c1-8ec4-4be9-9222-6d9f316c638b)] -> xpath: //span[contains(text(), 'Machine Family')]/ancestor::div[2]]
+2024-05-23 21:39:58 INFO  :50 - Web element [[FirefoxDriver: firefox on windows (527e17c1-8ec4-4be9-9222-6d9f316c638b)] -> xpath: //span[contains(text(), 'Machine Family')]/ancestor::div[2]]clicked
+2024-05-23 21:39:58 INFO  :39 - Trying to click web element [[FirefoxDriver: firefox on windows (527e17c1-8ec4-4be9-9222-6d9f316c638b)] -> xpath: //span[contains(text(), 'General Purpose')]/ancestor::li]
+2024-05-23 21:39:59 INFO  :50 - Web element [[FirefoxDriver: firefox on windows (527e17c1-8ec4-4be9-9222-6d9f316c638b)] -> xpath: //span[contains(text(), 'General Purpose')]/ancestor::li]clicked
+2024-05-23 21:39:59 INFO  :67 - Machine family 'General Purpose' selected
+2024-05-23 21:39:59 INFO  :39 - Trying to click web element [[FirefoxDriver: firefox on windows (527e17c1-8ec4-4be9-9222-6d9f316c638b)] -> xpath: //span[contains(text(), 'Series')]/ancestor::div[2]]
+2024-05-23 21:39:59 INFO  :50 - Web element [[FirefoxDriver: firefox on windows (527e17c1-8ec4-4be9-9222-6d9f316c638b)] -> xpath: //span[contains(text(), 'Series')]/ancestor::div[2]]clicked
+2024-05-23 21:39:59 INFO  :39 - Trying to click web element [[FirefoxDriver: firefox on windows (527e17c1-8ec4-4be9-9222-6d9f316c638b)] -> xpath: //span[contains(text(), 'N1')]/ancestor::li]
+2024-05-23 21:39:59 INFO  :50 - Web element [[FirefoxDriver: firefox on windows (527e17c1-8ec4-4be9-9222-6d9f316c638b)] -> xpath: //span[contains(text(), 'N1')]/ancestor::li]clicked
+2024-05-23 21:39:59 INFO  :71 - Series 'N1' selected
+2024-05-23 21:39:59 INFO  :39 - Trying to click web element [[FirefoxDriver: firefox on windows (527e17c1-8ec4-4be9-9222-6d9f316c638b)] -> xpath: //span[contains(text(), 'Machine type')]/ancestor::div[2]]
+2024-05-23 21:40:00 INFO  :50 - Web element [[FirefoxDriver: firefox on windows (527e17c1-8ec4-4be9-9222-6d9f316c638b)] -> xpath: //span[contains(text(), 'Machine type')]/ancestor::div[2]]clicked
+2024-05-23 21:40:00 INFO  :39 - Trying to click web element [[FirefoxDriver: firefox on windows (527e17c1-8ec4-4be9-9222-6d9f316c638b)] -> xpath: //span[contains(text(), 'n1-standard-8')]/ancestor::li]
+2024-05-23 21:40:00 INFO  :50 - Web element [[FirefoxDriver: firefox on windows (527e17c1-8ec4-4be9-9222-6d9f316c638b)] -> xpath: //span[contains(text(), 'n1-standard-8')]/ancestor::li]clicked
+2024-05-23 21:40:00 INFO  :75 - machine type 'n1-standard-8' selected
+2024-05-23 21:40:00 INFO  :39 - Trying to click web element [[FirefoxDriver: firefox on windows (527e17c1-8ec4-4be9-9222-6d9f316c638b)] -> xpath: //button[contains(@aria-label, 'Add GPUs')]/ancestor::div[4]]
+2024-05-23 21:40:01 INFO  :50 - Web element [[FirefoxDriver: firefox on windows (527e17c1-8ec4-4be9-9222-6d9f316c638b)] -> xpath: //button[contains(@aria-label, 'Add GPUs')]/ancestor::div[4]]clicked
+2024-05-23 21:40:01 INFO  :80 - Added GPUS 'true' selected
+2024-05-23 21:40:01 INFO  :39 - Trying to click web element Proxy element for: DefaultElementLocator 'By.xpath: //span[contains(text(), 'GPU Model')]/ancestor::div[2]'
+2024-05-23 21:40:01 INFO  :50 - Web element [[FirefoxDriver: firefox on windows (527e17c1-8ec4-4be9-9222-6d9f316c638b)] -> xpath: //span[contains(text(), 'GPU Model')]/ancestor::div[2]]clicked
+2024-05-23 21:46:05 INFO  :24 - Google Cloud homepage opened
+2024-05-23 21:46:08 INFO  :39 - Trying to click web element [[FirefoxDriver: firefox on windows (081b83b2-3a9a-4da4-bd1d-6fcb6b340487)] -> xpath: //div[@jsname='Ohx1pb']]
+2024-05-23 21:46:08 INFO  :50 - Web element [[FirefoxDriver: firefox on windows (081b83b2-3a9a-4da4-bd1d-6fcb6b340487)] -> xpath: //div[@jsname='Ohx1pb']]clicked
+2024-05-23 21:46:08 INFO  :37 - Search request + 'Google Cloud Pricing Calculator' sent
+2024-05-23 21:46:10 INFO  :39 - Trying to click web element [[FirefoxDriver: firefox on windows (081b83b2-3a9a-4da4-bd1d-6fcb6b340487)] -> xpath: //a[contains(text(), 'Google Cloud Pricing Calculator')]]
+2024-05-23 21:46:11 INFO  :50 - Web element Proxy element for: DefaultElementLocator 'By.xpath: //a[contains(text(), 'Google Cloud Pricing Calculator')]'clicked
+2024-05-23 21:46:11 INFO  :26 - Google Cloud Pricing Calculator page opened
+2024-05-23 21:46:12 INFO  :35 - [[FirefoxDriver: firefox on windows (081b83b2-3a9a-4da4-bd1d-6fcb6b340487)] -> xpath: //c-wiz[1]//button] clicked
+2024-05-23 21:46:13 INFO  :35 - [[FirefoxDriver: firefox on windows (081b83b2-3a9a-4da4-bd1d-6fcb6b340487)] -> xpath: //div[h2/text()='Compute Engine']] clicked
+2024-05-23 21:46:13 INFO  :56 - Number of instances '4' selected
+2024-05-23 21:46:14 INFO  :39 - Trying to click web element [[FirefoxDriver: firefox on windows (081b83b2-3a9a-4da4-bd1d-6fcb6b340487)] -> xpath: //span[contains(text(), 'Operating System / Software')]/ancestor::div[2]]
+2024-05-23 21:46:14 INFO  :50 - Web element [[FirefoxDriver: firefox on windows (081b83b2-3a9a-4da4-bd1d-6fcb6b340487)] -> xpath: //span[contains(text(), 'Operating System / Software')]/ancestor::div[2]]clicked
+2024-05-23 21:46:14 INFO  :39 - Trying to click web element [[FirefoxDriver: firefox on windows (081b83b2-3a9a-4da4-bd1d-6fcb6b340487)] -> xpath: //span[contains(text(), 'Free: Debian, CentOS, CoreOS, Ubuntu or BYOL (Bring Your Own License)')]/ancestor::li]
+2024-05-23 21:46:14 INFO  :50 - Web element [[FirefoxDriver: firefox on windows (081b83b2-3a9a-4da4-bd1d-6fcb6b340487)] -> xpath: //span[contains(text(), 'Free: Debian, CentOS, CoreOS, Ubuntu or BYOL (Bring Your Own License)')]/ancestor::li]clicked
+2024-05-23 21:46:14 INFO  :60 - Operation system software 'Free: Debian, CentOS, CoreOS, Ubuntu or BYOL (Bring Your Own License)' selected
+2024-05-23 21:46:14 INFO  :39 - Trying to click web element [[FirefoxDriver: firefox on windows (081b83b2-3a9a-4da4-bd1d-6fcb6b340487)] -> xpath: //label[contains(text(), 'Regular')]/parent::*]
+2024-05-23 21:46:15 INFO  :50 - Web element [[FirefoxDriver: firefox on windows (081b83b2-3a9a-4da4-bd1d-6fcb6b340487)] -> xpath: //label[contains(text(), 'Regular')]/parent::*]clicked
+2024-05-23 21:46:15 INFO  :63 - Provision model 'Regular' selected
+2024-05-23 21:46:15 INFO  :39 - Trying to click web element [[FirefoxDriver: firefox on windows (081b83b2-3a9a-4da4-bd1d-6fcb6b340487)] -> xpath: //span[contains(text(), 'Machine Family')]/ancestor::div[2]]
+2024-05-23 21:46:15 INFO  :50 - Web element [[FirefoxDriver: firefox on windows (081b83b2-3a9a-4da4-bd1d-6fcb6b340487)] -> xpath: //span[contains(text(), 'Machine Family')]/ancestor::div[2]]clicked
+2024-05-23 21:46:15 INFO  :39 - Trying to click web element [[FirefoxDriver: firefox on windows (081b83b2-3a9a-4da4-bd1d-6fcb6b340487)] -> xpath: //span[contains(text(), 'General Purpose')]/ancestor::li]
+2024-05-23 21:46:16 INFO  :50 - Web element [[FirefoxDriver: firefox on windows (081b83b2-3a9a-4da4-bd1d-6fcb6b340487)] -> xpath: //span[contains(text(), 'General Purpose')]/ancestor::li]clicked
+2024-05-23 21:46:16 INFO  :67 - Machine family 'General Purpose' selected
+2024-05-23 21:46:16 INFO  :39 - Trying to click web element [[FirefoxDriver: firefox on windows (081b83b2-3a9a-4da4-bd1d-6fcb6b340487)] -> xpath: //span[contains(text(), 'Series')]/ancestor::div[2]]
+2024-05-23 21:46:16 INFO  :50 - Web element [[FirefoxDriver: firefox on windows (081b83b2-3a9a-4da4-bd1d-6fcb6b340487)] -> xpath: //span[contains(text(), 'Series')]/ancestor::div[2]]clicked
+2024-05-23 21:46:16 INFO  :39 - Trying to click web element [[FirefoxDriver: firefox on windows (081b83b2-3a9a-4da4-bd1d-6fcb6b340487)] -> xpath: //span[contains(text(), 'N1')]/ancestor::li]
+2024-05-23 21:46:16 INFO  :50 - Web element [[FirefoxDriver: firefox on windows (081b83b2-3a9a-4da4-bd1d-6fcb6b340487)] -> xpath: //span[contains(text(), 'N1')]/ancestor::li]clicked
+2024-05-23 21:46:16 INFO  :71 - Series 'N1' selected
+2024-05-23 21:46:16 INFO  :39 - Trying to click web element [[FirefoxDriver: firefox on windows (081b83b2-3a9a-4da4-bd1d-6fcb6b340487)] -> xpath: //span[contains(text(), 'Machine type')]/ancestor::div[2]]
+2024-05-23 21:46:17 INFO  :50 - Web element [[FirefoxDriver: firefox on windows (081b83b2-3a9a-4da4-bd1d-6fcb6b340487)] -> xpath: //span[contains(text(), 'Machine type')]/ancestor::div[2]]clicked
+2024-05-23 21:46:17 INFO  :39 - Trying to click web element [[FirefoxDriver: firefox on windows (081b83b2-3a9a-4da4-bd1d-6fcb6b340487)] -> xpath: //span[contains(text(), 'n1-standard-8')]/ancestor::li]
+2024-05-23 21:46:17 INFO  :50 - Web element [[FirefoxDriver: firefox on windows (081b83b2-3a9a-4da4-bd1d-6fcb6b340487)] -> xpath: //span[contains(text(), 'n1-standard-8')]/ancestor::li]clicked
+2024-05-23 21:46:17 INFO  :75 - machine type 'n1-standard-8' selected
+2024-05-23 21:46:17 INFO  :39 - Trying to click web element [[FirefoxDriver: firefox on windows (081b83b2-3a9a-4da4-bd1d-6fcb6b340487)] -> xpath: //button[contains(@aria-label, 'Add GPUs')]/ancestor::div[4]]
+2024-05-23 21:46:17 INFO  :50 - Web element [[FirefoxDriver: firefox on windows (081b83b2-3a9a-4da4-bd1d-6fcb6b340487)] -> xpath: //button[contains(@aria-label, 'Add GPUs')]/ancestor::div[4]]clicked
+2024-05-23 21:46:17 INFO  :80 - Added GPUS 'true' selected
+2024-05-23 21:46:17 INFO  :39 - Trying to click web element Proxy element for: DefaultElementLocator 'By.xpath: //span[contains(text(), 'GPU Model')]/ancestor::div[2]'
+2024-05-23 21:46:18 INFO  :50 - Web element [[FirefoxDriver: firefox on windows (081b83b2-3a9a-4da4-bd1d-6fcb6b340487)] -> xpath: //span[contains(text(), 'GPU Model')]/ancestor::div[2]]clicked
+2024-05-23 21:47:11 INFO  :24 - Google Cloud homepage opened
+2024-05-23 21:47:21 INFO  :39 - Trying to click web element [[FirefoxDriver: firefox on windows (837f44ac-4517-403d-923c-6f03523f4468)] -> xpath: //div[@jsname='Ohx1pb']]
+2024-05-23 21:47:21 INFO  :50 - Web element [[FirefoxDriver: firefox on windows (837f44ac-4517-403d-923c-6f03523f4468)] -> xpath: //div[@jsname='Ohx1pb']]clicked
+2024-05-23 21:47:22 INFO  :37 - Search request + 'Google Cloud Pricing Calculator' sent
+2024-05-23 21:47:23 INFO  :39 - Trying to click web element [[FirefoxDriver: firefox on windows (837f44ac-4517-403d-923c-6f03523f4468)] -> xpath: //a[contains(text(), 'Google Cloud Pricing Calculator')]]
+2024-05-23 21:47:24 INFO  :50 - Web element Proxy element for: DefaultElementLocator 'By.xpath: //a[contains(text(), 'Google Cloud Pricing Calculator')]'clicked
+2024-05-23 21:47:24 INFO  :26 - Google Cloud Pricing Calculator page opened
+2024-05-23 21:47:25 INFO  :35 - [[FirefoxDriver: firefox on windows (837f44ac-4517-403d-923c-6f03523f4468)] -> xpath: //c-wiz[1]//button] clicked
+2024-05-23 21:47:25 INFO  :35 - [[FirefoxDriver: firefox on windows (837f44ac-4517-403d-923c-6f03523f4468)] -> xpath: //div[h2/text()='Compute Engine']] clicked
+2024-05-23 21:47:26 INFO  :56 - Number of instances '4' selected
+2024-05-23 21:47:26 INFO  :39 - Trying to click web element [[FirefoxDriver: firefox on windows (837f44ac-4517-403d-923c-6f03523f4468)] -> xpath: //span[contains(text(), 'Operating System / Software')]/ancestor::div[2]]
+2024-05-23 21:47:27 INFO  :50 - Web element [[FirefoxDriver: firefox on windows (837f44ac-4517-403d-923c-6f03523f4468)] -> xpath: //span[contains(text(), 'Operating System / Software')]/ancestor::div[2]]clicked
+2024-05-23 21:47:27 INFO  :39 - Trying to click web element [[FirefoxDriver: firefox on windows (837f44ac-4517-403d-923c-6f03523f4468)] -> xpath: //span[contains(text(), 'Free: Debian, CentOS, CoreOS, Ubuntu or BYOL (Bring Your Own License)')]/ancestor::li]
+2024-05-23 21:47:27 INFO  :50 - Web element [[FirefoxDriver: firefox on windows (837f44ac-4517-403d-923c-6f03523f4468)] -> xpath: //span[contains(text(), 'Free: Debian, CentOS, CoreOS, Ubuntu or BYOL (Bring Your Own License)')]/ancestor::li]clicked
+2024-05-23 21:47:27 INFO  :60 - Operation system software 'Free: Debian, CentOS, CoreOS, Ubuntu or BYOL (Bring Your Own License)' selected
+2024-05-23 21:47:27 INFO  :39 - Trying to click web element [[FirefoxDriver: firefox on windows (837f44ac-4517-403d-923c-6f03523f4468)] -> xpath: //label[contains(text(), 'Regular')]/parent::*]
+2024-05-23 21:47:27 INFO  :50 - Web element [[FirefoxDriver: firefox on windows (837f44ac-4517-403d-923c-6f03523f4468)] -> xpath: //label[contains(text(), 'Regular')]/parent::*]clicked
+2024-05-23 21:47:27 INFO  :63 - Provision model 'Regular' selected
+2024-05-23 21:47:27 INFO  :39 - Trying to click web element [[FirefoxDriver: firefox on windows (837f44ac-4517-403d-923c-6f03523f4468)] -> xpath: //span[contains(text(), 'Machine Family')]/ancestor::div[2]]
+2024-05-23 21:47:28 INFO  :50 - Web element [[FirefoxDriver: firefox on windows (837f44ac-4517-403d-923c-6f03523f4468)] -> xpath: //span[contains(text(), 'Machine Family')]/ancestor::div[2]]clicked
+2024-05-23 21:47:28 INFO  :39 - Trying to click web element [[FirefoxDriver: firefox on windows (837f44ac-4517-403d-923c-6f03523f4468)] -> xpath: //span[contains(text(), 'General Purpose')]/ancestor::li]
+2024-05-23 21:47:28 INFO  :50 - Web element [[FirefoxDriver: firefox on windows (837f44ac-4517-403d-923c-6f03523f4468)] -> xpath: //span[contains(text(), 'General Purpose')]/ancestor::li]clicked
+2024-05-23 21:47:28 INFO  :67 - Machine family 'General Purpose' selected
+2024-05-23 21:47:28 INFO  :39 - Trying to click web element [[FirefoxDriver: firefox on windows (837f44ac-4517-403d-923c-6f03523f4468)] -> xpath: //span[contains(text(), 'Series')]/ancestor::div[2]]
+2024-05-23 21:47:28 INFO  :50 - Web element [[FirefoxDriver: firefox on windows (837f44ac-4517-403d-923c-6f03523f4468)] -> xpath: //span[contains(text(), 'Series')]/ancestor::div[2]]clicked
+2024-05-23 21:47:28 INFO  :39 - Trying to click web element [[FirefoxDriver: firefox on windows (837f44ac-4517-403d-923c-6f03523f4468)] -> xpath: //span[contains(text(), 'N1')]/ancestor::li]
+2024-05-23 21:47:29 INFO  :50 - Web element [[FirefoxDriver: firefox on windows (837f44ac-4517-403d-923c-6f03523f4468)] -> xpath: //span[contains(text(), 'N1')]/ancestor::li]clicked
+2024-05-23 21:47:29 INFO  :71 - Series 'N1' selected
+2024-05-23 21:47:29 INFO  :39 - Trying to click web element [[FirefoxDriver: firefox on windows (837f44ac-4517-403d-923c-6f03523f4468)] -> xpath: //span[contains(text(), 'Machine type')]/ancestor::div[2]]
+2024-05-23 21:47:29 INFO  :50 - Web element [[FirefoxDriver: firefox on windows (837f44ac-4517-403d-923c-6f03523f4468)] -> xpath: //span[contains(text(), 'Machine type')]/ancestor::div[2]]clicked
+2024-05-23 21:47:29 INFO  :39 - Trying to click web element [[FirefoxDriver: firefox on windows (837f44ac-4517-403d-923c-6f03523f4468)] -> xpath: //span[contains(text(), 'n1-standard-8')]/ancestor::li]
+2024-05-23 21:47:29 INFO  :50 - Web element [[FirefoxDriver: firefox on windows (837f44ac-4517-403d-923c-6f03523f4468)] -> xpath: //span[contains(text(), 'n1-standard-8')]/ancestor::li]clicked
+2024-05-23 21:47:29 INFO  :75 - machine type 'n1-standard-8' selected
+2024-05-23 21:47:29 INFO  :39 - Trying to click web element [[FirefoxDriver: firefox on windows (837f44ac-4517-403d-923c-6f03523f4468)] -> xpath: //button[contains(@aria-label, 'Add GPUs')]/ancestor::div[4]]
+2024-05-23 21:47:30 INFO  :50 - Web element [[FirefoxDriver: firefox on windows (837f44ac-4517-403d-923c-6f03523f4468)] -> xpath: //button[contains(@aria-label, 'Add GPUs')]/ancestor::div[4]]clicked
+2024-05-23 21:47:30 INFO  :80 - Added GPUS 'true' selected
+2024-05-23 21:47:30 INFO  :39 - Trying to click web element Proxy element for: DefaultElementLocator 'By.xpath: //span[contains(text(), 'GPU Model')]/ancestor::div[2]'
+2024-05-23 21:47:31 INFO  :50 - Web element [[FirefoxDriver: firefox on windows (837f44ac-4517-403d-923c-6f03523f4468)] -> xpath: //span[contains(text(), 'GPU Model')]/ancestor::div[2]]clicked
+2024-05-23 21:47:31 INFO  :39 - Trying to click web element [[FirefoxDriver: firefox on windows (837f44ac-4517-403d-923c-6f03523f4468)] -> xpath: //span[contains(text(), 'NVIDIA TESLA P100')]/ancestor::li]
+2024-05-23 21:47:31 INFO  :50 - Web element [[FirefoxDriver: firefox on windows (837f44ac-4517-403d-923c-6f03523f4468)] -> xpath: //span[contains(text(), 'NVIDIA TESLA P100')]/ancestor::li]clicked
+2024-05-23 21:47:31 INFO  :84 - GPU type 'NVIDIA TESLA P100' selected
+2024-05-23 21:47:31 INFO  :39 - Trying to click web element [[FirefoxDriver: firefox on windows (837f44ac-4517-403d-923c-6f03523f4468)] -> xpath: //span[contains(text(), 'Number of GPUs')]/ancestor::div[2]]
+2024-05-23 21:47:31 INFO  :50 - Web element [[FirefoxDriver: firefox on windows (837f44ac-4517-403d-923c-6f03523f4468)] -> xpath: //span[contains(text(), 'Number of GPUs')]/ancestor::div[2]]clicked
+2024-05-23 21:47:31 INFO  :39 - Trying to click web element [[FirefoxDriver: firefox on windows (837f44ac-4517-403d-923c-6f03523f4468)] -> xpath: //ul[contains(@aria-label, 'Number of GPUs')]//li[contains(@data-value, '1')]]
+2024-05-23 21:47:32 INFO  :50 - Web element [[FirefoxDriver: firefox on windows (837f44ac-4517-403d-923c-6f03523f4468)] -> xpath: //ul[contains(@aria-label, 'Number of GPUs')]//li[contains(@data-value, '1')]]clicked
+2024-05-23 21:47:32 INFO  :88 - Number of GPUs '1' selected
+2024-05-23 21:47:32 INFO  :39 - Trying to click web element [[FirefoxDriver: firefox on windows (837f44ac-4517-403d-923c-6f03523f4468)] -> xpath: //span[contains(text(), 'Local SSD')]/ancestor::div[2]]
+2024-05-23 21:47:32 INFO  :50 - Web element [[FirefoxDriver: firefox on windows (837f44ac-4517-403d-923c-6f03523f4468)] -> xpath: //span[contains(text(), 'Local SSD')]/ancestor::div[2]]clicked
+2024-05-23 21:47:32 INFO  :39 - Trying to click web element [[FirefoxDriver: firefox on windows (837f44ac-4517-403d-923c-6f03523f4468)] -> xpath: //span[contains(text(), '2x375 GB')]/ancestor::li]
+2024-05-23 21:47:32 INFO  :50 - Web element [[FirefoxDriver: firefox on windows (837f44ac-4517-403d-923c-6f03523f4468)] -> xpath: //span[contains(text(), '2x375 GB')]/ancestor::li]clicked
+2024-05-23 21:47:32 INFO  :93 - Local SSD '2x375 GB' selected
+2024-05-23 21:47:33 INFO  :39 - Trying to click web element [[FirefoxDriver: firefox on windows (837f44ac-4517-403d-923c-6f03523f4468)] -> xpath: //span[contains(text(), 'Region')]/ancestor::div[2]]
+2024-05-23 21:47:33 INFO  :50 - Web element [[FirefoxDriver: firefox on windows (837f44ac-4517-403d-923c-6f03523f4468)] -> xpath: //span[contains(text(), 'Region')]/ancestor::div[2]]clicked
+2024-05-23 21:47:33 INFO  :39 - Trying to click web element [[FirefoxDriver: firefox on windows (837f44ac-4517-403d-923c-6f03523f4468)] -> xpath: //span[contains(text(), 'South Carolina (us-east1)')]/ancestor::li]
+2024-05-23 21:47:33 INFO  :50 - Web element [[FirefoxDriver: firefox on windows (837f44ac-4517-403d-923c-6f03523f4468)] -> xpath: //span[contains(text(), 'South Carolina (us-east1)')]/ancestor::li]clicked
+2024-05-23 21:47:33 INFO  :97 - Datacenter Location 'South Carolina (us-east1)' selected
+2024-05-23 21:48:03 INFO  :24 - Google Cloud homepage opened
+2024-05-23 21:48:09 INFO  :39 - Trying to click web element [[FirefoxDriver: firefox on windows (8f48a505-882e-4672-a684-f60051edc880)] -> xpath: //div[@jsname='Ohx1pb']]
+2024-05-23 21:48:09 INFO  :50 - Web element [[FirefoxDriver: firefox on windows (8f48a505-882e-4672-a684-f60051edc880)] -> xpath: //div[@jsname='Ohx1pb']]clicked
+2024-05-23 21:48:09 INFO  :37 - Search request + 'Google Cloud Pricing Calculator' sent
+2024-05-23 21:48:10 INFO  :39 - Trying to click web element [[FirefoxDriver: firefox on windows (8f48a505-882e-4672-a684-f60051edc880)] -> xpath: //a[contains(text(), 'Google Cloud Pricing Calculator')]]
+2024-05-23 21:48:11 INFO  :50 - Web element Proxy element for: DefaultElementLocator 'By.xpath: //a[contains(text(), 'Google Cloud Pricing Calculator')]'clicked
+2024-05-23 21:48:11 INFO  :26 - Google Cloud Pricing Calculator page opened
+2024-05-23 21:48:12 INFO  :35 - [[FirefoxDriver: firefox on windows (8f48a505-882e-4672-a684-f60051edc880)] -> xpath: //c-wiz[1]//button] clicked
+2024-05-23 21:48:13 INFO  :35 - [[FirefoxDriver: firefox on windows (8f48a505-882e-4672-a684-f60051edc880)] -> xpath: //div[h2/text()='Compute Engine']] clicked
+2024-05-23 21:48:14 INFO  :56 - Number of instances '4' selected
+2024-05-23 21:48:14 INFO  :39 - Trying to click web element [[FirefoxDriver: firefox on windows (8f48a505-882e-4672-a684-f60051edc880)] -> xpath: //span[contains(text(), 'Operating System / Software')]/ancestor::div[2]]
+2024-05-23 21:48:14 INFO  :50 - Web element [[FirefoxDriver: firefox on windows (8f48a505-882e-4672-a684-f60051edc880)] -> xpath: //span[contains(text(), 'Operating System / Software')]/ancestor::div[2]]clicked
+2024-05-23 21:48:14 INFO  :39 - Trying to click web element [[FirefoxDriver: firefox on windows (8f48a505-882e-4672-a684-f60051edc880)] -> xpath: //span[contains(text(), 'Free: Debian, CentOS, CoreOS, Ubuntu or BYOL (Bring Your Own License)')]/ancestor::li]
+2024-05-23 21:48:14 INFO  :50 - Web element [[FirefoxDriver: firefox on windows (8f48a505-882e-4672-a684-f60051edc880)] -> xpath: //span[contains(text(), 'Free: Debian, CentOS, CoreOS, Ubuntu or BYOL (Bring Your Own License)')]/ancestor::li]clicked
+2024-05-23 21:48:14 INFO  :60 - Operation system software 'Free: Debian, CentOS, CoreOS, Ubuntu or BYOL (Bring Your Own License)' selected
+2024-05-23 21:48:14 INFO  :39 - Trying to click web element [[FirefoxDriver: firefox on windows (8f48a505-882e-4672-a684-f60051edc880)] -> xpath: //label[contains(text(), 'Regular')]/parent::*]
+2024-05-23 21:48:15 INFO  :50 - Web element [[FirefoxDriver: firefox on windows (8f48a505-882e-4672-a684-f60051edc880)] -> xpath: //label[contains(text(), 'Regular')]/parent::*]clicked
+2024-05-23 21:48:15 INFO  :63 - Provision model 'Regular' selected
+2024-05-23 21:48:15 INFO  :39 - Trying to click web element [[FirefoxDriver: firefox on windows (8f48a505-882e-4672-a684-f60051edc880)] -> xpath: //span[contains(text(), 'Machine Family')]/ancestor::div[2]]
+2024-05-23 21:48:15 INFO  :50 - Web element [[FirefoxDriver: firefox on windows (8f48a505-882e-4672-a684-f60051edc880)] -> xpath: //span[contains(text(), 'Machine Family')]/ancestor::div[2]]clicked
+2024-05-23 21:48:15 INFO  :39 - Trying to click web element [[FirefoxDriver: firefox on windows (8f48a505-882e-4672-a684-f60051edc880)] -> xpath: //span[contains(text(), 'General Purpose')]/ancestor::li]
+2024-05-23 21:48:15 INFO  :50 - Web element [[FirefoxDriver: firefox on windows (8f48a505-882e-4672-a684-f60051edc880)] -> xpath: //span[contains(text(), 'General Purpose')]/ancestor::li]clicked
+2024-05-23 21:48:15 INFO  :67 - Machine family 'General Purpose' selected
+2024-05-23 21:48:15 INFO  :39 - Trying to click web element [[FirefoxDriver: firefox on windows (8f48a505-882e-4672-a684-f60051edc880)] -> xpath: //span[contains(text(), 'Series')]/ancestor::div[2]]
+2024-05-23 21:48:16 INFO  :50 - Web element [[FirefoxDriver: firefox on windows (8f48a505-882e-4672-a684-f60051edc880)] -> xpath: //span[contains(text(), 'Series')]/ancestor::div[2]]clicked
+2024-05-23 21:48:16 INFO  :39 - Trying to click web element [[FirefoxDriver: firefox on windows (8f48a505-882e-4672-a684-f60051edc880)] -> xpath: //span[contains(text(), 'N1')]/ancestor::li]
+2024-05-23 21:48:16 INFO  :50 - Web element [[FirefoxDriver: firefox on windows (8f48a505-882e-4672-a684-f60051edc880)] -> xpath: //span[contains(text(), 'N1')]/ancestor::li]clicked
+2024-05-23 21:48:16 INFO  :71 - Series 'N1' selected
+2024-05-23 21:48:16 INFO  :39 - Trying to click web element [[FirefoxDriver: firefox on windows (8f48a505-882e-4672-a684-f60051edc880)] -> xpath: //span[contains(text(), 'Machine type')]/ancestor::div[2]]
+2024-05-23 21:48:17 INFO  :50 - Web element [[FirefoxDriver: firefox on windows (8f48a505-882e-4672-a684-f60051edc880)] -> xpath: //span[contains(text(), 'Machine type')]/ancestor::div[2]]clicked
+2024-05-23 21:48:17 INFO  :39 - Trying to click web element [[FirefoxDriver: firefox on windows (8f48a505-882e-4672-a684-f60051edc880)] -> xpath: //span[contains(text(), 'n1-standard-8')]/ancestor::li]
+2024-05-23 21:48:17 INFO  :50 - Web element [[FirefoxDriver: firefox on windows (8f48a505-882e-4672-a684-f60051edc880)] -> xpath: //span[contains(text(), 'n1-standard-8')]/ancestor::li]clicked
+2024-05-23 21:48:17 INFO  :75 - machine type 'n1-standard-8' selected
+2024-05-23 21:48:17 INFO  :39 - Trying to click web element [[FirefoxDriver: firefox on windows (8f48a505-882e-4672-a684-f60051edc880)] -> xpath: //button[contains(@aria-label, 'Add GPUs')]/ancestor::div[4]]
+2024-05-23 21:48:18 INFO  :50 - Web element [[FirefoxDriver: firefox on windows (8f48a505-882e-4672-a684-f60051edc880)] -> xpath: //button[contains(@aria-label, 'Add GPUs')]/ancestor::div[4]]clicked
+2024-05-23 21:48:18 INFO  :80 - Added GPUS 'true' selected
+2024-05-23 21:48:18 INFO  :39 - Trying to click web element [[FirefoxDriver: firefox on windows (8f48a505-882e-4672-a684-f60051edc880)] -> xpath: //span[contains(text(), 'GPU Model')]/ancestor::div[2]]
+2024-05-23 21:48:18 INFO  :50 - Web element [[FirefoxDriver: firefox on windows (8f48a505-882e-4672-a684-f60051edc880)] -> xpath: //span[contains(text(), 'GPU Model')]/ancestor::div[2]]clicked
+2024-05-23 21:48:18 INFO  :39 - Trying to click web element [[FirefoxDriver: firefox on windows (8f48a505-882e-4672-a684-f60051edc880)] -> xpath: //span[contains(text(), 'NVIDIA TESLA P100')]/ancestor::li]
+2024-05-23 21:48:18 INFO  :50 - Web element [[FirefoxDriver: firefox on windows (8f48a505-882e-4672-a684-f60051edc880)] -> xpath: //span[contains(text(), 'NVIDIA TESLA P100')]/ancestor::li]clicked
+2024-05-23 21:48:18 INFO  :84 - GPU type 'NVIDIA TESLA P100' selected
+2024-05-23 21:48:18 INFO  :39 - Trying to click web element [[FirefoxDriver: firefox on windows (8f48a505-882e-4672-a684-f60051edc880)] -> xpath: //span[contains(text(), 'Number of GPUs')]/ancestor::div[2]]
+2024-05-23 21:48:19 INFO  :50 - Web element [[FirefoxDriver: firefox on windows (8f48a505-882e-4672-a684-f60051edc880)] -> xpath: //span[contains(text(), 'Number of GPUs')]/ancestor::div[2]]clicked
+2024-05-23 21:48:19 INFO  :39 - Trying to click web element [[FirefoxDriver: firefox on windows (8f48a505-882e-4672-a684-f60051edc880)] -> xpath: //ul[contains(@aria-label, 'Number of GPUs')]//li[contains(@data-value, '1')]]
+2024-05-23 21:48:19 INFO  :50 - Web element [[FirefoxDriver: firefox on windows (8f48a505-882e-4672-a684-f60051edc880)] -> xpath: //ul[contains(@aria-label, 'Number of GPUs')]//li[contains(@data-value, '1')]]clicked
+2024-05-23 21:48:19 INFO  :88 - Number of GPUs '1' selected
+2024-05-23 21:48:19 INFO  :39 - Trying to click web element [[FirefoxDriver: firefox on windows (8f48a505-882e-4672-a684-f60051edc880)] -> xpath: //span[contains(text(), 'Local SSD')]/ancestor::div[2]]
+2024-05-23 21:48:20 INFO  :50 - Web element [[FirefoxDriver: firefox on windows (8f48a505-882e-4672-a684-f60051edc880)] -> xpath: //span[contains(text(), 'Local SSD')]/ancestor::div[2]]clicked
+2024-05-23 21:48:20 INFO  :39 - Trying to click web element [[FirefoxDriver: firefox on windows (8f48a505-882e-4672-a684-f60051edc880)] -> xpath: //span[contains(text(), '2x375 GB')]/ancestor::li]
+2024-05-23 21:48:20 INFO  :50 - Web element [[FirefoxDriver: firefox on windows (8f48a505-882e-4672-a684-f60051edc880)] -> xpath: //span[contains(text(), '2x375 GB')]/ancestor::li]clicked
+2024-05-23 21:48:20 INFO  :93 - Local SSD '2x375 GB' selected
+2024-05-23 21:48:20 INFO  :39 - Trying to click web element [[FirefoxDriver: firefox on windows (8f48a505-882e-4672-a684-f60051edc880)] -> xpath: //span[contains(text(), 'Region')]/ancestor::div[2]]
+2024-05-23 21:48:20 INFO  :50 - Web element [[FirefoxDriver: firefox on windows (8f48a505-882e-4672-a684-f60051edc880)] -> xpath: //span[contains(text(), 'Region')]/ancestor::div[2]]clicked
+2024-05-23 21:48:20 INFO  :39 - Trying to click web element [[FirefoxDriver: firefox on windows (8f48a505-882e-4672-a684-f60051edc880)] -> xpath: //span[contains(text(), 'South Carolina (us-east1)')]/ancestor::li]
+2024-05-23 21:48:21 INFO  :50 - Web element [[FirefoxDriver: firefox on windows (8f48a505-882e-4672-a684-f60051edc880)] -> xpath: //span[contains(text(), 'South Carolina (us-east1)')]/ancestor::li]clicked
+2024-05-23 21:48:21 INFO  :97 - Datacenter Location 'South Carolina (us-east1)' selected
+2024-05-23 21:48:21 INFO  :39 - Trying to click web element [[FirefoxDriver: firefox on windows (8f48a505-882e-4672-a684-f60051edc880)] -> xpath: //label[contains(text(), '1 year')]/ancestor::div[1]]
+2024-05-23 21:48:21 INFO  :50 - Web element [[FirefoxDriver: firefox on windows (8f48a505-882e-4672-a684-f60051edc880)] -> xpath: //label[contains(text(), '1 year')]/ancestor::div[1]]clicked
+2024-05-23 21:48:21 INFO  :101 - Committed usage '1 year' selected
+2024-05-23 21:48:22 INFO  :127 - Waited for cost '$3,535.70' evaluated
+2024-05-23 21:48:22 INFO  :39 - Trying to click web element [[FirefoxDriver: firefox on windows (8f48a505-882e-4672-a684-f60051edc880)] -> xpath: //button[contains(@aria-label, 'Open Share Estimate dialog')]]
+2024-05-23 21:48:23 INFO  :50 - Web element [[FirefoxDriver: firefox on windows (8f48a505-882e-4672-a684-f60051edc880)] -> xpath: //button[contains(@aria-label, 'Open Share Estimate dialog')]]clicked
+2024-05-23 21:48:23 INFO  :136 - Open share estimate clicked
+2024-05-23 21:48:23 INFO  :39 - Trying to click web element [[FirefoxDriver: firefox on windows (8f48a505-882e-4672-a684-f60051edc880)] -> xpath: //a[contains(@track-name, 'open estimate summary')]]
+2024-05-23 21:48:23 INFO  :50 - Web element [[FirefoxDriver: firefox on windows (8f48a505-882e-4672-a684-f60051edc880)] -> xpath: //a[contains(@track-name, 'open estimate summary')]]clicked
+2024-05-23 21:48:23 INFO  :143 - Open estimate summary clicked
+2024-05-23 21:48:23 INFO  :45 - WebDriver switched to last window
+2024-05-23 21:48:23 INFO  :92 - Checking committed usage
+2024-05-23 21:48:24 INFO  :50 - Checking total estimated cost
+2024-05-23 21:48:24 INFO  :86 - Checking datacenter Location
+2024-05-23 21:48:24 INFO  :104 - Checking GPU model
+2024-05-23 21:48:24 INFO  :80 - Checking local SSD
+2024-05-23 21:48:24 INFO  :74 - Checking machine type
+2024-05-23 21:49:25 INFO  :24 - Google Cloud homepage opened
+2024-05-23 21:49:32 INFO  :39 - Trying to click web element [[FirefoxDriver: firefox on windows (b1b6dfac-67bc-4862-82fa-32cd2b3a127a)] -> xpath: //div[@jsname='Ohx1pb']]
+2024-05-23 21:49:32 INFO  :50 - Web element [[FirefoxDriver: firefox on windows (b1b6dfac-67bc-4862-82fa-32cd2b3a127a)] -> xpath: //div[@jsname='Ohx1pb']]clicked
+2024-05-23 21:49:32 INFO  :37 - Search request + 'Google Cloud Pricing Calculator' sent
+2024-05-23 21:49:33 INFO  :39 - Trying to click web element [[FirefoxDriver: firefox on windows (b1b6dfac-67bc-4862-82fa-32cd2b3a127a)] -> xpath: //a[contains(text(), 'Google Cloud Pricing Calculator')]]
+2024-05-23 21:49:35 INFO  :50 - Web element Proxy element for: DefaultElementLocator 'By.xpath: //a[contains(text(), 'Google Cloud Pricing Calculator')]'clicked
+2024-05-23 21:49:35 INFO  :26 - Google Cloud Pricing Calculator page opened
+2024-05-23 21:49:36 INFO  :35 - [[FirefoxDriver: firefox on windows (b1b6dfac-67bc-4862-82fa-32cd2b3a127a)] -> xpath: //c-wiz[1]//button] clicked
+2024-05-23 21:49:36 INFO  :35 - [[FirefoxDriver: firefox on windows (b1b6dfac-67bc-4862-82fa-32cd2b3a127a)] -> xpath: //div[h2/text()='Compute Engine']] clicked
+2024-05-23 21:49:38 INFO  :56 - Number of instances '4' selected
+2024-05-23 21:49:38 INFO  :39 - Trying to click web element [[FirefoxDriver: firefox on windows (b1b6dfac-67bc-4862-82fa-32cd2b3a127a)] -> xpath: //span[contains(text(), 'Operating System / Software')]/ancestor::div[2]]
+2024-05-23 21:49:38 INFO  :50 - Web element [[FirefoxDriver: firefox on windows (b1b6dfac-67bc-4862-82fa-32cd2b3a127a)] -> xpath: //span[contains(text(), 'Operating System / Software')]/ancestor::div[2]]clicked
+2024-05-23 21:49:39 INFO  :39 - Trying to click web element [[FirefoxDriver: firefox on windows (b1b6dfac-67bc-4862-82fa-32cd2b3a127a)] -> xpath: //span[contains(text(), 'Free: Debian, CentOS, CoreOS, Ubuntu or BYOL (Bring Your Own License)')]/ancestor::li]
+2024-05-23 21:49:39 INFO  :50 - Web element [[FirefoxDriver: firefox on windows (b1b6dfac-67bc-4862-82fa-32cd2b3a127a)] -> xpath: //span[contains(text(), 'Free: Debian, CentOS, CoreOS, Ubuntu or BYOL (Bring Your Own License)')]/ancestor::li]clicked
+2024-05-23 21:49:39 INFO  :60 - Operation system software 'Free: Debian, CentOS, CoreOS, Ubuntu or BYOL (Bring Your Own License)' selected
+2024-05-23 21:49:39 INFO  :39 - Trying to click web element [[FirefoxDriver: firefox on windows (b1b6dfac-67bc-4862-82fa-32cd2b3a127a)] -> xpath: //label[contains(text(), 'Regular')]/parent::*]
+2024-05-23 21:49:39 INFO  :50 - Web element [[FirefoxDriver: firefox on windows (b1b6dfac-67bc-4862-82fa-32cd2b3a127a)] -> xpath: //label[contains(text(), 'Regular')]/parent::*]clicked
+2024-05-23 21:49:39 INFO  :63 - Provision model 'Regular' selected
+2024-05-23 21:49:39 INFO  :39 - Trying to click web element [[FirefoxDriver: firefox on windows (b1b6dfac-67bc-4862-82fa-32cd2b3a127a)] -> xpath: //span[contains(text(), 'Machine Family')]/ancestor::div[2]]
+2024-05-23 21:49:40 INFO  :50 - Web element [[FirefoxDriver: firefox on windows (b1b6dfac-67bc-4862-82fa-32cd2b3a127a)] -> xpath: //span[contains(text(), 'Machine Family')]/ancestor::div[2]]clicked
+2024-05-23 21:49:40 INFO  :39 - Trying to click web element [[FirefoxDriver: firefox on windows (b1b6dfac-67bc-4862-82fa-32cd2b3a127a)] -> xpath: //span[contains(text(), 'General Purpose')]/ancestor::li]
+2024-05-23 21:49:40 INFO  :50 - Web element [[FirefoxDriver: firefox on windows (b1b6dfac-67bc-4862-82fa-32cd2b3a127a)] -> xpath: //span[contains(text(), 'General Purpose')]/ancestor::li]clicked
+2024-05-23 21:49:40 INFO  :67 - Machine family 'General Purpose' selected
+2024-05-23 21:49:40 INFO  :39 - Trying to click web element [[FirefoxDriver: firefox on windows (b1b6dfac-67bc-4862-82fa-32cd2b3a127a)] -> xpath: //span[contains(text(), 'Series')]/ancestor::div[2]]
+2024-05-23 21:49:40 INFO  :50 - Web element [[FirefoxDriver: firefox on windows (b1b6dfac-67bc-4862-82fa-32cd2b3a127a)] -> xpath: //span[contains(text(), 'Series')]/ancestor::div[2]]clicked
+2024-05-23 21:49:40 INFO  :39 - Trying to click web element [[FirefoxDriver: firefox on windows (b1b6dfac-67bc-4862-82fa-32cd2b3a127a)] -> xpath: //span[contains(text(), 'N1')]/ancestor::li]
+2024-05-23 21:49:41 INFO  :50 - Web element [[FirefoxDriver: firefox on windows (b1b6dfac-67bc-4862-82fa-32cd2b3a127a)] -> xpath: //span[contains(text(), 'N1')]/ancestor::li]clicked
+2024-05-23 21:49:41 INFO  :71 - Series 'N1' selected
+2024-05-23 21:49:41 INFO  :39 - Trying to click web element [[FirefoxDriver: firefox on windows (b1b6dfac-67bc-4862-82fa-32cd2b3a127a)] -> xpath: //span[contains(text(), 'Machine type')]/ancestor::div[2]]
+2024-05-23 21:49:41 INFO  :50 - Web element [[FirefoxDriver: firefox on windows (b1b6dfac-67bc-4862-82fa-32cd2b3a127a)] -> xpath: //span[contains(text(), 'Machine type')]/ancestor::div[2]]clicked
+2024-05-23 21:49:41 INFO  :39 - Trying to click web element [[FirefoxDriver: firefox on windows (b1b6dfac-67bc-4862-82fa-32cd2b3a127a)] -> xpath: //span[contains(text(), 'n1-standard-8')]/ancestor::li]
+2024-05-23 21:49:41 INFO  :50 - Web element [[FirefoxDriver: firefox on windows (b1b6dfac-67bc-4862-82fa-32cd2b3a127a)] -> xpath: //span[contains(text(), 'n1-standard-8')]/ancestor::li]clicked
+2024-05-23 21:49:41 INFO  :75 - machine type 'n1-standard-8' selected
+2024-05-23 21:49:42 INFO  :39 - Trying to click web element [[FirefoxDriver: firefox on windows (b1b6dfac-67bc-4862-82fa-32cd2b3a127a)] -> xpath: //button[contains(@aria-label, 'Add GPUs')]/ancestor::div[4]]
+2024-05-23 21:49:42 INFO  :50 - Web element [[FirefoxDriver: firefox on windows (b1b6dfac-67bc-4862-82fa-32cd2b3a127a)] -> xpath: //button[contains(@aria-label, 'Add GPUs')]/ancestor::div[4]]clicked
+2024-05-23 21:49:42 INFO  :80 - Added GPUS 'true' selected
+2024-05-23 21:49:42 INFO  :39 - Trying to click web element Proxy element for: DefaultElementLocator 'By.xpath: //span[contains(text(), 'GPU Model')]/ancestor::div[2]'
+2024-05-23 21:49:43 INFO  :50 - Web element [[FirefoxDriver: firefox on windows (b1b6dfac-67bc-4862-82fa-32cd2b3a127a)] -> xpath: //span[contains(text(), 'GPU Model')]/ancestor::div[2]]clicked
+2024-05-23 21:49:43 INFO  :39 - Trying to click web element [[FirefoxDriver: firefox on windows (b1b6dfac-67bc-4862-82fa-32cd2b3a127a)] -> xpath: //span[contains(text(), 'NVIDIA TESLA P100')]/ancestor::li]
+2024-05-23 21:49:43 INFO  :50 - Web element [[FirefoxDriver: firefox on windows (b1b6dfac-67bc-4862-82fa-32cd2b3a127a)] -> xpath: //span[contains(text(), 'NVIDIA TESLA P100')]/ancestor::li]clicked
+2024-05-23 21:49:43 INFO  :84 - GPU type 'NVIDIA TESLA P100' selected
+2024-05-23 21:49:43 INFO  :39 - Trying to click web element [[FirefoxDriver: firefox on windows (b1b6dfac-67bc-4862-82fa-32cd2b3a127a)] -> xpath: //span[contains(text(), 'Number of GPUs')]/ancestor::div[2]]
+2024-05-23 21:49:44 INFO  :50 - Web element [[FirefoxDriver: firefox on windows (b1b6dfac-67bc-4862-82fa-32cd2b3a127a)] -> xpath: //span[contains(text(), 'Number of GPUs')]/ancestor::div[2]]clicked
+2024-05-23 21:49:44 INFO  :39 - Trying to click web element [[FirefoxDriver: firefox on windows (b1b6dfac-67bc-4862-82fa-32cd2b3a127a)] -> xpath: //ul[contains(@aria-label, 'Number of GPUs')]//li[contains(@data-value, '1')]]
+2024-05-23 21:49:44 INFO  :50 - Web element [[FirefoxDriver: firefox on windows (b1b6dfac-67bc-4862-82fa-32cd2b3a127a)] -> xpath: //ul[contains(@aria-label, 'Number of GPUs')]//li[contains(@data-value, '1')]]clicked
+2024-05-23 21:49:44 INFO  :88 - Number of GPUs '1' selected
+2024-05-23 21:49:44 INFO  :39 - Trying to click web element [[FirefoxDriver: firefox on windows (b1b6dfac-67bc-4862-82fa-32cd2b3a127a)] -> xpath: //span[contains(text(), 'Local SSD')]/ancestor::div[2]]
+2024-05-23 21:49:44 INFO  :50 - Web element [[FirefoxDriver: firefox on windows (b1b6dfac-67bc-4862-82fa-32cd2b3a127a)] -> xpath: //span[contains(text(), 'Local SSD')]/ancestor::div[2]]clicked
+2024-05-23 21:49:44 INFO  :39 - Trying to click web element [[FirefoxDriver: firefox on windows (b1b6dfac-67bc-4862-82fa-32cd2b3a127a)] -> xpath: //span[contains(text(), '2x375 GB')]/ancestor::li]
+2024-05-23 21:49:45 INFO  :50 - Web element [[FirefoxDriver: firefox on windows (b1b6dfac-67bc-4862-82fa-32cd2b3a127a)] -> xpath: //span[contains(text(), '2x375 GB')]/ancestor::li]clicked
+2024-05-23 21:49:45 INFO  :93 - Local SSD '2x375 GB' selected
+2024-05-23 21:49:45 INFO  :39 - Trying to click web element [[FirefoxDriver: firefox on windows (b1b6dfac-67bc-4862-82fa-32cd2b3a127a)] -> xpath: //span[contains(text(), 'Region')]/ancestor::div[2]]
+2024-05-23 21:49:45 INFO  :50 - Web element [[FirefoxDriver: firefox on windows (b1b6dfac-67bc-4862-82fa-32cd2b3a127a)] -> xpath: //span[contains(text(), 'Region')]/ancestor::div[2]]clicked
+2024-05-23 21:49:45 INFO  :39 - Trying to click web element [[FirefoxDriver: firefox on windows (b1b6dfac-67bc-4862-82fa-32cd2b3a127a)] -> xpath: //span[contains(text(), 'South Carolina (us-east1)')]/ancestor::li]
+2024-05-23 21:49:46 INFO  :50 - Web element [[FirefoxDriver: firefox on windows (b1b6dfac-67bc-4862-82fa-32cd2b3a127a)] -> xpath: //span[contains(text(), 'South Carolina (us-east1)')]/ancestor::li]clicked
+2024-05-23 21:49:46 INFO  :97 - Datacenter Location 'South Carolina (us-east1)' selected
+2024-05-23 21:49:46 INFO  :39 - Trying to click web element [[FirefoxDriver: firefox on windows (b1b6dfac-67bc-4862-82fa-32cd2b3a127a)] -> xpath: //label[contains(text(), '1 year')]/ancestor::div[1]]
+2024-05-23 21:49:46 INFO  :50 - Web element [[FirefoxDriver: firefox on windows (b1b6dfac-67bc-4862-82fa-32cd2b3a127a)] -> xpath: //label[contains(text(), '1 year')]/ancestor::div[1]]clicked
+2024-05-23 21:49:46 INFO  :101 - Committed usage '1 year' selected
+2024-05-23 21:49:48 INFO  :127 - Waited for cost '$3,535.70' evaluated
+2024-05-23 21:49:48 INFO  :39 - Trying to click web element [[FirefoxDriver: firefox on windows (b1b6dfac-67bc-4862-82fa-32cd2b3a127a)] -> xpath: //button[contains(@aria-label, 'Open Share Estimate dialog')]]
+2024-05-23 21:49:48 INFO  :50 - Web element [[FirefoxDriver: firefox on windows (b1b6dfac-67bc-4862-82fa-32cd2b3a127a)] -> xpath: //button[contains(@aria-label, 'Open Share Estimate dialog')]]clicked
+2024-05-23 21:49:48 INFO  :136 - Open share estimate clicked
+2024-05-23 21:49:50 INFO  :39 - Trying to click web element [[FirefoxDriver: firefox on windows (b1b6dfac-67bc-4862-82fa-32cd2b3a127a)] -> xpath: //a[contains(@track-name, 'open estimate summary')]]
+2024-05-23 21:49:50 INFO  :50 - Web element [[FirefoxDriver: firefox on windows (b1b6dfac-67bc-4862-82fa-32cd2b3a127a)] -> xpath: //a[contains(@track-name, 'open estimate summary')]]clicked
+2024-05-23 21:49:50 INFO  :143 - Open estimate summary clicked
+2024-05-23 21:49:50 INFO  :45 - WebDriver switched to last window
+2024-05-23 21:49:50 INFO  :92 - Checking committed usage
+2024-05-23 21:49:51 INFO  :50 - Checking total estimated cost
+2024-05-23 21:49:51 INFO  :86 - Checking datacenter Location
+2024-05-23 21:49:51 INFO  :104 - Checking GPU model
+2024-05-23 21:49:51 INFO  :80 - Checking local SSD
+2024-05-23 21:49:51 INFO  :74 - Checking machine type
+2024-05-23 21:49:51 INFO  :98 - Checking number of GPUs
+2024-05-23 21:49:51 INFO  :62 - Checking provisioning model
+2024-05-23 21:49:51 INFO  :68 - Checking operation system software
+2024-05-23 21:52:12 INFO  :24 - Google Cloud homepage opened
+2024-05-23 21:52:15 INFO  :39 - Trying to click web element [[ChromeDriver: chrome on windows (2061a24f05139edae56d682d728adee7)] -> xpath: //div[@jsname='Ohx1pb']]
+2024-05-23 21:52:15 INFO  :50 - Web element [[ChromeDriver: chrome on windows (2061a24f05139edae56d682d728adee7)] -> xpath: //div[@jsname='Ohx1pb']]clicked
+2024-05-23 21:52:15 INFO  :37 - Search request + 'Google Cloud Pricing Calculator' sent
+2024-05-23 21:52:17 INFO  :39 - Trying to click web element [[ChromeDriver: chrome on windows (2061a24f05139edae56d682d728adee7)] -> xpath: //a[contains(text(), 'Google Cloud Pricing Calculator')]]
+2024-05-23 21:52:18 INFO  :50 - Web element Proxy element for: DefaultElementLocator 'By.xpath: //a[contains(text(), 'Google Cloud Pricing Calculator')]'clicked
+2024-05-23 21:52:18 INFO  :26 - Google Cloud Pricing Calculator page opened
+2024-05-23 21:52:19 INFO  :35 - [[ChromeDriver: chrome on windows (2061a24f05139edae56d682d728adee7)] -> xpath: //c-wiz[1]//button] clicked
+2024-05-23 21:52:19 INFO  :35 - [[ChromeDriver: chrome on windows (2061a24f05139edae56d682d728adee7)] -> xpath: //div[h2/text()='Compute Engine']] clicked
+2024-05-23 21:52:20 INFO  :56 - Number of instances '4' selected
+2024-05-23 21:52:20 INFO  :39 - Trying to click web element [[ChromeDriver: chrome on windows (2061a24f05139edae56d682d728adee7)] -> xpath: //span[contains(text(), 'Operating System / Software')]/ancestor::div[2]]
+2024-05-23 21:52:21 INFO  :50 - Web element [[ChromeDriver: chrome on windows (2061a24f05139edae56d682d728adee7)] -> xpath: //span[contains(text(), 'Operating System / Software')]/ancestor::div[2]]clicked
+2024-05-23 21:52:21 INFO  :39 - Trying to click web element [[ChromeDriver: chrome on windows (2061a24f05139edae56d682d728adee7)] -> xpath: //span[contains(text(), 'Free: Debian, CentOS, CoreOS, Ubuntu or BYOL (Bring Your Own License)')]/ancestor::li]
+2024-05-23 21:52:21 INFO  :50 - Web element [[ChromeDriver: chrome on windows (2061a24f05139edae56d682d728adee7)] -> xpath: //span[contains(text(), 'Free: Debian, CentOS, CoreOS, Ubuntu or BYOL (Bring Your Own License)')]/ancestor::li]clicked
+2024-05-23 21:52:21 INFO  :60 - Operation system software 'Free: Debian, CentOS, CoreOS, Ubuntu or BYOL (Bring Your Own License)' selected
+2024-05-23 21:52:21 INFO  :39 - Trying to click web element [[ChromeDriver: chrome on windows (2061a24f05139edae56d682d728adee7)] -> xpath: //label[contains(text(), 'Regular')]/parent::*]
+2024-05-23 21:52:21 INFO  :50 - Web element [[ChromeDriver: chrome on windows (2061a24f05139edae56d682d728adee7)] -> xpath: //label[contains(text(), 'Regular')]/parent::*]clicked
+2024-05-23 21:52:21 INFO  :63 - Provision model 'Regular' selected
+2024-05-23 21:52:21 INFO  :39 - Trying to click web element [[ChromeDriver: chrome on windows (2061a24f05139edae56d682d728adee7)] -> xpath: //span[contains(text(), 'Machine Family')]/ancestor::div[2]]
+2024-05-23 21:52:21 INFO  :50 - Web element [[ChromeDriver: chrome on windows (2061a24f05139edae56d682d728adee7)] -> xpath: //span[contains(text(), 'Machine Family')]/ancestor::div[2]]clicked
+2024-05-23 21:52:22 INFO  :39 - Trying to click web element [[ChromeDriver: chrome on windows (2061a24f05139edae56d682d728adee7)] -> xpath: //span[contains(text(), 'General Purpose')]/ancestor::li]
+2024-05-23 21:52:22 INFO  :50 - Web element [[ChromeDriver: chrome on windows (2061a24f05139edae56d682d728adee7)] -> xpath: //span[contains(text(), 'General Purpose')]/ancestor::li]clicked
+2024-05-23 21:52:22 INFO  :67 - Machine family 'General Purpose' selected
+2024-05-23 21:52:22 INFO  :39 - Trying to click web element [[ChromeDriver: chrome on windows (2061a24f05139edae56d682d728adee7)] -> xpath: //span[contains(text(), 'Series')]/ancestor::div[2]]
+2024-05-23 21:52:22 INFO  :50 - Web element [[ChromeDriver: chrome on windows (2061a24f05139edae56d682d728adee7)] -> xpath: //span[contains(text(), 'Series')]/ancestor::div[2]]clicked
+2024-05-23 21:52:22 INFO  :39 - Trying to click web element [[ChromeDriver: chrome on windows (2061a24f05139edae56d682d728adee7)] -> xpath: //span[contains(text(), 'N1')]/ancestor::li]
+2024-05-23 21:52:22 INFO  :50 - Web element [[ChromeDriver: chrome on windows (2061a24f05139edae56d682d728adee7)] -> xpath: //span[contains(text(), 'N1')]/ancestor::li]clicked
+2024-05-23 21:52:22 INFO  :71 - Series 'N1' selected
+2024-05-23 21:52:22 INFO  :39 - Trying to click web element [[ChromeDriver: chrome on windows (2061a24f05139edae56d682d728adee7)] -> xpath: //span[contains(text(), 'Machine type')]/ancestor::div[2]]
+2024-05-23 21:52:23 INFO  :50 - Web element [[ChromeDriver: chrome on windows (2061a24f05139edae56d682d728adee7)] -> xpath: //span[contains(text(), 'Machine type')]/ancestor::div[2]]clicked
+2024-05-23 21:52:23 INFO  :39 - Trying to click web element [[ChromeDriver: chrome on windows (2061a24f05139edae56d682d728adee7)] -> xpath: //span[contains(text(), 'n1-standard-8')]/ancestor::li]
+2024-05-23 21:52:23 INFO  :50 - Web element [[ChromeDriver: chrome on windows (2061a24f05139edae56d682d728adee7)] -> xpath: //span[contains(text(), 'n1-standard-8')]/ancestor::li]clicked
+2024-05-23 21:52:23 INFO  :75 - machine type 'n1-standard-8' selected
+2024-05-23 21:52:23 INFO  :39 - Trying to click web element [[ChromeDriver: chrome on windows (2061a24f05139edae56d682d728adee7)] -> xpath: //button[contains(@aria-label, 'Add GPUs')]/ancestor::div[4]]
+2024-05-23 21:52:23 INFO  :50 - Web element [[ChromeDriver: chrome on windows (2061a24f05139edae56d682d728adee7)] -> xpath: //button[contains(@aria-label, 'Add GPUs')]/ancestor::div[4]]clicked
+2024-05-23 21:52:23 INFO  :80 - Added GPUS 'true' selected
+2024-05-23 21:52:23 INFO  :39 - Trying to click web element Proxy element for: DefaultElementLocator 'By.xpath: //span[contains(text(), 'GPU Model')]/ancestor::div[2]'
+2024-05-23 21:52:24 INFO  :50 - Web element [[ChromeDriver: chrome on windows (2061a24f05139edae56d682d728adee7)] -> xpath: //span[contains(text(), 'GPU Model')]/ancestor::div[2]]clicked
+2024-05-23 21:52:24 INFO  :39 - Trying to click web element [[ChromeDriver: chrome on windows (2061a24f05139edae56d682d728adee7)] -> xpath: //span[contains(text(), 'NVIDIA TESLA P100')]/ancestor::li]
+2024-05-23 21:52:24 INFO  :50 - Web element [[ChromeDriver: chrome on windows (2061a24f05139edae56d682d728adee7)] -> xpath: //span[contains(text(), 'NVIDIA TESLA P100')]/ancestor::li]clicked
+2024-05-23 21:52:24 INFO  :84 - GPU type 'NVIDIA TESLA P100' selected
+2024-05-23 21:52:24 INFO  :39 - Trying to click web element [[ChromeDriver: chrome on windows (2061a24f05139edae56d682d728adee7)] -> xpath: //span[contains(text(), 'Number of GPUs')]/ancestor::div[2]]
+2024-05-23 21:52:25 INFO  :50 - Web element [[ChromeDriver: chrome on windows (2061a24f05139edae56d682d728adee7)] -> xpath: //span[contains(text(), 'Number of GPUs')]/ancestor::div[2]]clicked
+2024-05-23 21:52:25 INFO  :39 - Trying to click web element [[ChromeDriver: chrome on windows (2061a24f05139edae56d682d728adee7)] -> xpath: //ul[contains(@aria-label, 'Number of GPUs')]//li[contains(@data-value, '1')]]
+2024-05-23 21:52:25 INFO  :50 - Web element [[ChromeDriver: chrome on windows (2061a24f05139edae56d682d728adee7)] -> xpath: //ul[contains(@aria-label, 'Number of GPUs')]//li[contains(@data-value, '1')]]clicked
+2024-05-23 21:52:25 INFO  :88 - Number of GPUs '1' selected
+2024-05-23 21:52:25 INFO  :39 - Trying to click web element [[ChromeDriver: chrome on windows (2061a24f05139edae56d682d728adee7)] -> xpath: //span[contains(text(), 'Local SSD')]/ancestor::div[2]]
+2024-05-23 21:52:25 INFO  :50 - Web element [[ChromeDriver: chrome on windows (2061a24f05139edae56d682d728adee7)] -> xpath: //span[contains(text(), 'Local SSD')]/ancestor::div[2]]clicked
+2024-05-23 21:52:25 INFO  :39 - Trying to click web element [[ChromeDriver: chrome on windows (2061a24f05139edae56d682d728adee7)] -> xpath: //span[contains(text(), '2x375 GB')]/ancestor::li]
+2024-05-23 21:52:25 INFO  :50 - Web element [[ChromeDriver: chrome on windows (2061a24f05139edae56d682d728adee7)] -> xpath: //span[contains(text(), '2x375 GB')]/ancestor::li]clicked
+2024-05-23 21:52:25 INFO  :93 - Local SSD '2x375 GB' selected
+2024-05-23 21:52:25 INFO  :39 - Trying to click web element [[ChromeDriver: chrome on windows (2061a24f05139edae56d682d728adee7)] -> xpath: //span[contains(text(), 'Region')]/ancestor::div[2]]
+2024-05-23 21:52:26 INFO  :50 - Web element [[ChromeDriver: chrome on windows (2061a24f05139edae56d682d728adee7)] -> xpath: //span[contains(text(), 'Region')]/ancestor::div[2]]clicked
+2024-05-23 21:52:26 INFO  :39 - Trying to click web element [[ChromeDriver: chrome on windows (2061a24f05139edae56d682d728adee7)] -> xpath: //span[contains(text(), 'South Carolina (us-east1)')]/ancestor::li]
+2024-05-23 21:52:26 INFO  :50 - Web element [[ChromeDriver: chrome on windows (2061a24f05139edae56d682d728adee7)] -> xpath: //span[contains(text(), 'South Carolina (us-east1)')]/ancestor::li]clicked
+2024-05-23 21:52:26 INFO  :97 - Datacenter Location 'South Carolina (us-east1)' selected
+2024-05-23 21:52:26 INFO  :39 - Trying to click web element [[ChromeDriver: chrome on windows (2061a24f05139edae56d682d728adee7)] -> xpath: //label[contains(text(), '1 year')]/ancestor::div[1]]
+2024-05-23 21:52:26 INFO  :50 - Web element [[ChromeDriver: chrome on windows (2061a24f05139edae56d682d728adee7)] -> xpath: //label[contains(text(), '1 year')]/ancestor::div[1]]clicked
+2024-05-23 21:52:26 INFO  :101 - Committed usage '1 year' selected
+2024-05-23 21:52:27 INFO  :127 - Waited for cost '$3,535.70' evaluated
+2024-05-23 21:52:28 INFO  :39 - Trying to click web element [[ChromeDriver: chrome on windows (2061a24f05139edae56d682d728adee7)] -> xpath: //button[contains(@aria-label, 'Open Share Estimate dialog')]]
+2024-05-23 21:52:28 INFO  :50 - Web element [[ChromeDriver: chrome on windows (2061a24f05139edae56d682d728adee7)] -> xpath: //button[contains(@aria-label, 'Open Share Estimate dialog')]]clicked
+2024-05-23 21:52:28 INFO  :136 - Open share estimate clicked
+2024-05-23 21:52:28 INFO  :39 - Trying to click web element [[ChromeDriver: chrome on windows (2061a24f05139edae56d682d728adee7)] -> xpath: //a[contains(@track-name, 'open estimate summary')]]
+2024-05-23 21:52:29 INFO  :50 - Web element [[ChromeDriver: chrome on windows (2061a24f05139edae56d682d728adee7)] -> xpath: //a[contains(@track-name, 'open estimate summary')]]clicked
+2024-05-23 21:52:29 INFO  :143 - Open estimate summary clicked
+2024-05-23 21:52:29 INFO  :45 - WebDriver switched to last window
+2024-05-23 21:52:29 INFO  :92 - Checking committed usage
+2024-05-23 21:52:30 INFO  :50 - Checking total estimated cost
+2024-05-23 21:52:30 INFO  :86 - Checking datacenter Location
+2024-05-23 21:52:30 INFO  :104 - Checking GPU model
+2024-05-23 21:52:30 INFO  :80 - Checking local SSD
+2024-05-23 21:52:30 INFO  :74 - Checking machine type
+2024-05-23 21:52:30 INFO  :98 - Checking number of GPUs
+2024-05-23 21:52:30 INFO  :62 - Checking provisioning model
+2024-05-23 21:52:31 INFO  :68 - Checking operation system software
+2024-05-23 21:53:12 INFO  :24 - Google Cloud homepage opened
+2024-05-23 21:53:15 INFO  :39 - Trying to click web element [[EdgeDriver: MicrosoftEdge on windows (285e812e031a79c262ac64dc9533e81f)] -> xpath: //div[@jsname='Ohx1pb']]
+2024-05-23 21:53:16 INFO  :50 - Web element [[EdgeDriver: MicrosoftEdge on windows (285e812e031a79c262ac64dc9533e81f)] -> xpath: //div[@jsname='Ohx1pb']]clicked
+2024-05-23 21:53:16 INFO  :37 - Search request + 'Google Cloud Pricing Calculator' sent
+2024-05-23 21:53:17 INFO  :39 - Trying to click web element [[EdgeDriver: MicrosoftEdge on windows (285e812e031a79c262ac64dc9533e81f)] -> xpath: //a[contains(text(), 'Google Cloud Pricing Calculator')]]
+2024-05-23 21:53:19 INFO  :50 - Web element Proxy element for: DefaultElementLocator 'By.xpath: //a[contains(text(), 'Google Cloud Pricing Calculator')]'clicked
+2024-05-23 21:53:19 INFO  :26 - Google Cloud Pricing Calculator page opened
+2024-05-23 21:53:19 INFO  :35 - [[EdgeDriver: MicrosoftEdge on windows (285e812e031a79c262ac64dc9533e81f)] -> xpath: //c-wiz[1]//button] clicked
+2024-05-23 21:53:20 INFO  :35 - [[EdgeDriver: MicrosoftEdge on windows (285e812e031a79c262ac64dc9533e81f)] -> xpath: //div[h2/text()='Compute Engine']] clicked
+2024-05-23 21:53:22 INFO  :56 - Number of instances '4' selected
+2024-05-23 21:53:22 INFO  :39 - Trying to click web element [[EdgeDriver: MicrosoftEdge on windows (285e812e031a79c262ac64dc9533e81f)] -> xpath: //span[contains(text(), 'Operating System / Software')]/ancestor::div[2]]
+2024-05-23 21:53:22 INFO  :50 - Web element [[EdgeDriver: MicrosoftEdge on windows (285e812e031a79c262ac64dc9533e81f)] -> xpath: //span[contains(text(), 'Operating System / Software')]/ancestor::div[2]]clicked
+2024-05-23 21:53:22 INFO  :39 - Trying to click web element [[EdgeDriver: MicrosoftEdge on windows (285e812e031a79c262ac64dc9533e81f)] -> xpath: //span[contains(text(), 'Free: Debian, CentOS, CoreOS, Ubuntu or BYOL (Bring Your Own License)')]/ancestor::li]
+2024-05-23 21:53:23 INFO  :50 - Web element [[EdgeDriver: MicrosoftEdge on windows (285e812e031a79c262ac64dc9533e81f)] -> xpath: //span[contains(text(), 'Free: Debian, CentOS, CoreOS, Ubuntu or BYOL (Bring Your Own License)')]/ancestor::li]clicked
+2024-05-23 21:53:23 INFO  :60 - Operation system software 'Free: Debian, CentOS, CoreOS, Ubuntu or BYOL (Bring Your Own License)' selected
+2024-05-23 21:53:23 INFO  :39 - Trying to click web element [[EdgeDriver: MicrosoftEdge on windows (285e812e031a79c262ac64dc9533e81f)] -> xpath: //label[contains(text(), 'Regular')]/parent::*]
+2024-05-23 21:53:23 INFO  :50 - Web element [[EdgeDriver: MicrosoftEdge on windows (285e812e031a79c262ac64dc9533e81f)] -> xpath: //label[contains(text(), 'Regular')]/parent::*]clicked
+2024-05-23 21:53:23 INFO  :63 - Provision model 'Regular' selected
+2024-05-23 21:53:23 INFO  :39 - Trying to click web element [[EdgeDriver: MicrosoftEdge on windows (285e812e031a79c262ac64dc9533e81f)] -> xpath: //span[contains(text(), 'Machine Family')]/ancestor::div[2]]
+2024-05-23 21:53:23 INFO  :50 - Web element [[EdgeDriver: MicrosoftEdge on windows (285e812e031a79c262ac64dc9533e81f)] -> xpath: //span[contains(text(), 'Machine Family')]/ancestor::div[2]]clicked
+2024-05-23 21:53:23 INFO  :39 - Trying to click web element [[EdgeDriver: MicrosoftEdge on windows (285e812e031a79c262ac64dc9533e81f)] -> xpath: //span[contains(text(), 'General Purpose')]/ancestor::li]
+2024-05-23 21:53:24 INFO  :50 - Web element [[EdgeDriver: MicrosoftEdge on windows (285e812e031a79c262ac64dc9533e81f)] -> xpath: //span[contains(text(), 'General Purpose')]/ancestor::li]clicked
+2024-05-23 21:53:24 INFO  :67 - Machine family 'General Purpose' selected
+2024-05-23 21:53:24 INFO  :39 - Trying to click web element [[EdgeDriver: MicrosoftEdge on windows (285e812e031a79c262ac64dc9533e81f)] -> xpath: //span[contains(text(), 'Series')]/ancestor::div[2]]
+2024-05-23 21:53:24 INFO  :50 - Web element [[EdgeDriver: MicrosoftEdge on windows (285e812e031a79c262ac64dc9533e81f)] -> xpath: //span[contains(text(), 'Series')]/ancestor::div[2]]clicked
+2024-05-23 21:53:24 INFO  :39 - Trying to click web element [[EdgeDriver: MicrosoftEdge on windows (285e812e031a79c262ac64dc9533e81f)] -> xpath: //span[contains(text(), 'N1')]/ancestor::li]
+2024-05-23 21:53:24 INFO  :50 - Web element [[EdgeDriver: MicrosoftEdge on windows (285e812e031a79c262ac64dc9533e81f)] -> xpath: //span[contains(text(), 'N1')]/ancestor::li]clicked
+2024-05-23 21:53:24 INFO  :71 - Series 'N1' selected
+2024-05-23 21:53:24 INFO  :39 - Trying to click web element [[EdgeDriver: MicrosoftEdge on windows (285e812e031a79c262ac64dc9533e81f)] -> xpath: //span[contains(text(), 'Machine type')]/ancestor::div[2]]
+2024-05-23 21:53:25 INFO  :50 - Web element [[EdgeDriver: MicrosoftEdge on windows (285e812e031a79c262ac64dc9533e81f)] -> xpath: //span[contains(text(), 'Machine type')]/ancestor::div[2]]clicked
+2024-05-23 21:53:25 INFO  :39 - Trying to click web element [[EdgeDriver: MicrosoftEdge on windows (285e812e031a79c262ac64dc9533e81f)] -> xpath: //span[contains(text(), 'n1-standard-8')]/ancestor::li]
+2024-05-23 21:53:25 INFO  :50 - Web element [[EdgeDriver: MicrosoftEdge on windows (285e812e031a79c262ac64dc9533e81f)] -> xpath: //span[contains(text(), 'n1-standard-8')]/ancestor::li]clicked
+2024-05-23 21:53:25 INFO  :75 - machine type 'n1-standard-8' selected
+2024-05-23 21:53:25 INFO  :39 - Trying to click web element [[EdgeDriver: MicrosoftEdge on windows (285e812e031a79c262ac64dc9533e81f)] -> xpath: //button[contains(@aria-label, 'Add GPUs')]/ancestor::div[4]]
+2024-05-23 21:53:25 INFO  :50 - Web element [[EdgeDriver: MicrosoftEdge on windows (285e812e031a79c262ac64dc9533e81f)] -> xpath: //button[contains(@aria-label, 'Add GPUs')]/ancestor::div[4]]clicked
+2024-05-23 21:53:25 INFO  :80 - Added GPUS 'true' selected
+2024-05-23 21:53:25 INFO  :39 - Trying to click web element Proxy element for: DefaultElementLocator 'By.xpath: //span[contains(text(), 'GPU Model')]/ancestor::div[2]'
+2024-05-23 21:53:26 INFO  :50 - Web element [[EdgeDriver: MicrosoftEdge on windows (285e812e031a79c262ac64dc9533e81f)] -> xpath: //span[contains(text(), 'GPU Model')]/ancestor::div[2]]clicked
+2024-05-23 21:53:26 INFO  :39 - Trying to click web element [[EdgeDriver: MicrosoftEdge on windows (285e812e031a79c262ac64dc9533e81f)] -> xpath: //span[contains(text(), 'NVIDIA TESLA P100')]/ancestor::li]
+2024-05-23 21:53:27 INFO  :50 - Web element [[EdgeDriver: MicrosoftEdge on windows (285e812e031a79c262ac64dc9533e81f)] -> xpath: //span[contains(text(), 'NVIDIA TESLA P100')]/ancestor::li]clicked
+2024-05-23 21:53:27 INFO  :84 - GPU type 'NVIDIA TESLA P100' selected
+2024-05-23 21:53:27 INFO  :39 - Trying to click web element [[EdgeDriver: MicrosoftEdge on windows (285e812e031a79c262ac64dc9533e81f)] -> xpath: //span[contains(text(), 'Number of GPUs')]/ancestor::div[2]]
+2024-05-23 21:53:27 INFO  :50 - Web element [[EdgeDriver: MicrosoftEdge on windows (285e812e031a79c262ac64dc9533e81f)] -> xpath: //span[contains(text(), 'Number of GPUs')]/ancestor::div[2]]clicked
+2024-05-23 21:53:27 INFO  :39 - Trying to click web element [[EdgeDriver: MicrosoftEdge on windows (285e812e031a79c262ac64dc9533e81f)] -> xpath: //ul[contains(@aria-label, 'Number of GPUs')]//li[contains(@data-value, '1')]]
+2024-05-23 21:53:27 INFO  :50 - Web element [[EdgeDriver: MicrosoftEdge on windows (285e812e031a79c262ac64dc9533e81f)] -> xpath: //ul[contains(@aria-label, 'Number of GPUs')]//li[contains(@data-value, '1')]]clicked
+2024-05-23 21:53:27 INFO  :88 - Number of GPUs '1' selected
+2024-05-23 21:53:27 INFO  :39 - Trying to click web element [[EdgeDriver: MicrosoftEdge on windows (285e812e031a79c262ac64dc9533e81f)] -> xpath: //span[contains(text(), 'Local SSD')]/ancestor::div[2]]
+2024-05-23 21:53:28 INFO  :50 - Web element [[EdgeDriver: MicrosoftEdge on windows (285e812e031a79c262ac64dc9533e81f)] -> xpath: //span[contains(text(), 'Local SSD')]/ancestor::div[2]]clicked
+2024-05-23 21:53:28 INFO  :39 - Trying to click web element [[EdgeDriver: MicrosoftEdge on windows (285e812e031a79c262ac64dc9533e81f)] -> xpath: //span[contains(text(), '2x375 GB')]/ancestor::li]
+2024-05-23 21:53:28 INFO  :50 - Web element [[EdgeDriver: MicrosoftEdge on windows (285e812e031a79c262ac64dc9533e81f)] -> xpath: //span[contains(text(), '2x375 GB')]/ancestor::li]clicked
+2024-05-23 21:53:28 INFO  :93 - Local SSD '2x375 GB' selected
+2024-05-23 21:53:28 INFO  :39 - Trying to click web element [[EdgeDriver: MicrosoftEdge on windows (285e812e031a79c262ac64dc9533e81f)] -> xpath: //span[contains(text(), 'Region')]/ancestor::div[2]]
+2024-05-23 21:53:29 INFO  :50 - Web element [[EdgeDriver: MicrosoftEdge on windows (285e812e031a79c262ac64dc9533e81f)] -> xpath: //span[contains(text(), 'Region')]/ancestor::div[2]]clicked
+2024-05-23 21:53:29 INFO  :39 - Trying to click web element [[EdgeDriver: MicrosoftEdge on windows (285e812e031a79c262ac64dc9533e81f)] -> xpath: //span[contains(text(), 'South Carolina (us-east1)')]/ancestor::li]
+2024-05-23 21:53:29 INFO  :50 - Web element [[EdgeDriver: MicrosoftEdge on windows (285e812e031a79c262ac64dc9533e81f)] -> xpath: //span[contains(text(), 'South Carolina (us-east1)')]/ancestor::li]clicked
+2024-05-23 21:53:29 INFO  :97 - Datacenter Location 'South Carolina (us-east1)' selected
+2024-05-23 21:53:29 INFO  :39 - Trying to click web element [[EdgeDriver: MicrosoftEdge on windows (285e812e031a79c262ac64dc9533e81f)] -> xpath: //label[contains(text(), '1 year')]/ancestor::div[1]]
+2024-05-23 21:53:29 INFO  :50 - Web element [[EdgeDriver: MicrosoftEdge on windows (285e812e031a79c262ac64dc9533e81f)] -> xpath: //label[contains(text(), '1 year')]/ancestor::div[1]]clicked
+2024-05-23 21:53:29 INFO  :101 - Committed usage '1 year' selected
+2024-05-23 21:53:31 INFO  :127 - Waited for cost '$3,535.70' evaluated
+2024-05-23 21:53:31 INFO  :39 - Trying to click web element [[EdgeDriver: MicrosoftEdge on windows (285e812e031a79c262ac64dc9533e81f)] -> xpath: //button[contains(@aria-label, 'Open Share Estimate dialog')]]
+2024-05-23 21:53:31 INFO  :50 - Web element [[EdgeDriver: MicrosoftEdge on windows (285e812e031a79c262ac64dc9533e81f)] -> xpath: //button[contains(@aria-label, 'Open Share Estimate dialog')]]clicked
+2024-05-23 21:53:31 INFO  :136 - Open share estimate clicked
+2024-05-23 21:53:32 INFO  :39 - Trying to click web element [[EdgeDriver: MicrosoftEdge on windows (285e812e031a79c262ac64dc9533e81f)] -> xpath: //a[contains(@track-name, 'open estimate summary')]]
+2024-05-23 21:53:32 INFO  :50 - Web element [[EdgeDriver: MicrosoftEdge on windows (285e812e031a79c262ac64dc9533e81f)] -> xpath: //a[contains(@track-name, 'open estimate summary')]]clicked
+2024-05-23 21:53:32 INFO  :143 - Open estimate summary clicked
+2024-05-23 21:53:32 INFO  :45 - WebDriver switched to last window
+2024-05-23 21:53:32 INFO  :92 - Checking committed usage
+2024-05-23 21:53:34 INFO  :50 - Checking total estimated cost
+2024-05-23 21:53:34 INFO  :86 - Checking datacenter Location
+2024-05-23 21:53:34 INFO  :104 - Checking GPU model
+2024-05-23 21:53:34 INFO  :80 - Checking local SSD
+2024-05-23 21:53:34 INFO  :74 - Checking machine type
+2024-05-23 21:53:34 INFO  :98 - Checking number of GPUs
+2024-05-23 21:53:34 INFO  :62 - Checking provisioning model
+2024-05-23 21:53:34 INFO  :68 - Checking operation system software
+2024-05-23 23:58:13 INFO  :24 - Google Cloud homepage opened
+2024-05-23 23:58:17 INFO  :39 - Trying to click web element 
+2024-05-23 23:58:17 INFO  :50 - Web element search_spark
+send_sparkclicked
+2024-05-23 23:58:17 INFO  :37 - Search request + 'Google Cloud Pricing Calculator' sent
+2024-05-23 23:58:18 INFO  :39 - Trying to click web element Google Cloud Pricing Calculator
+2024-05-23 23:59:14 INFO  :24 - Google Cloud homepage opened
+2024-05-23 23:59:26 INFO  :39 - Trying to click web element 
+2024-05-23 23:59:26 INFO  :50 - Web element search_spark
+send_sparkclicked
+2024-05-23 23:59:26 INFO  :37 - Search request + 'Google Cloud Pricing Calculator' sent
+2024-05-23 23:59:28 INFO  :39 - Trying to click web element Google Cloud Pricing Calculator
+2024-05-24 00:01:13 INFO  :24 - Google Cloud homepage opened
+2024-05-24 00:01:16 INFO  :39 - Trying to click web element [[ChromeDriver: chrome on windows (4b9e456f44fd3a1b5cb7a1638dc3d297)] -> xpath: //div[@jsname='Ohx1pb']]
+2024-05-24 00:01:16 INFO  :50 - Web element [[ChromeDriver: chrome on windows (4b9e456f44fd3a1b5cb7a1638dc3d297)] -> xpath: //div[@jsname='Ohx1pb']]clicked
+2024-05-24 00:01:16 INFO  :37 - Search request + 'Google Cloud Pricing Calculator' sent
+2024-05-24 00:01:17 INFO  :39 - Trying to click web element [[ChromeDriver: chrome on windows (4b9e456f44fd3a1b5cb7a1638dc3d297)] -> xpath: //a[contains(text(), 'Google Cloud Pricing Calculator')]]
+2024-05-24 00:01:19 INFO  :50 - Web element Proxy element for: DefaultElementLocator 'By.xpath: //a[contains(text(), 'Google Cloud Pricing Calculator')]'clicked
+2024-05-24 00:01:19 INFO  :26 - Google Cloud Pricing Calculator page opened
+2024-05-24 00:01:19 INFO  :35 - [[ChromeDriver: chrome on windows (4b9e456f44fd3a1b5cb7a1638dc3d297)] -> xpath: //c-wiz[1]//button] clicked
+2024-05-24 00:01:20 INFO  :35 - [[ChromeDriver: chrome on windows (4b9e456f44fd3a1b5cb7a1638dc3d297)] -> xpath: //div[h2/text()='Compute Engine']] clicked
+2024-05-24 00:01:21 INFO  :56 - Number of instances '4' selected
+2024-05-24 00:01:21 INFO  :39 - Trying to click web element [[ChromeDriver: chrome on windows (4b9e456f44fd3a1b5cb7a1638dc3d297)] -> xpath: //span[contains(text(), 'Operating System / Software')]/ancestor::div[2]]
+2024-05-24 00:01:21 INFO  :50 - Web element [[ChromeDriver: chrome on windows (4b9e456f44fd3a1b5cb7a1638dc3d297)] -> xpath: //span[contains(text(), 'Operating System / Software')]/ancestor::div[2]]clicked
+2024-05-24 00:01:21 INFO  :39 - Trying to click web element [[ChromeDriver: chrome on windows (4b9e456f44fd3a1b5cb7a1638dc3d297)] -> xpath: //span[contains(text(), 'Free: Debian, CentOS, CoreOS, Ubuntu or BYOL (Bring Your Own License)')]/ancestor::li]
+2024-05-24 00:01:21 INFO  :50 - Web element [[ChromeDriver: chrome on windows (4b9e456f44fd3a1b5cb7a1638dc3d297)] -> xpath: //span[contains(text(), 'Free: Debian, CentOS, CoreOS, Ubuntu or BYOL (Bring Your Own License)')]/ancestor::li]clicked
+2024-05-24 00:01:21 INFO  :60 - Operation system software 'Free: Debian, CentOS, CoreOS, Ubuntu or BYOL (Bring Your Own License)' selected
+2024-05-24 00:01:21 INFO  :39 - Trying to click web element [[ChromeDriver: chrome on windows (4b9e456f44fd3a1b5cb7a1638dc3d297)] -> xpath: //label[contains(text(), 'Regular')]/parent::*]
+2024-05-24 00:01:22 INFO  :50 - Web element [[ChromeDriver: chrome on windows (4b9e456f44fd3a1b5cb7a1638dc3d297)] -> xpath: //label[contains(text(), 'Regular')]/parent::*]clicked
+2024-05-24 00:01:22 INFO  :63 - Provision model 'Regular' selected
+2024-05-24 00:01:22 INFO  :39 - Trying to click web element [[ChromeDriver: chrome on windows (4b9e456f44fd3a1b5cb7a1638dc3d297)] -> xpath: //span[contains(text(), 'Machine Family')]/ancestor::div[2]]
+2024-05-24 00:01:22 INFO  :50 - Web element [[ChromeDriver: chrome on windows (4b9e456f44fd3a1b5cb7a1638dc3d297)] -> xpath: //span[contains(text(), 'Machine Family')]/ancestor::div[2]]clicked
+2024-05-24 00:01:22 INFO  :39 - Trying to click web element [[ChromeDriver: chrome on windows (4b9e456f44fd3a1b5cb7a1638dc3d297)] -> xpath: //span[contains(text(), 'General Purpose')]/ancestor::li]
+2024-05-24 00:01:22 INFO  :50 - Web element [[ChromeDriver: chrome on windows (4b9e456f44fd3a1b5cb7a1638dc3d297)] -> xpath: //span[contains(text(), 'General Purpose')]/ancestor::li]clicked
+2024-05-24 00:01:22 INFO  :67 - Machine family 'General Purpose' selected
+2024-05-24 00:01:22 INFO  :39 - Trying to click web element [[ChromeDriver: chrome on windows (4b9e456f44fd3a1b5cb7a1638dc3d297)] -> xpath: //span[contains(text(), 'Series')]/ancestor::div[2]]
+2024-05-24 00:01:22 INFO  :50 - Web element [[ChromeDriver: chrome on windows (4b9e456f44fd3a1b5cb7a1638dc3d297)] -> xpath: //span[contains(text(), 'Series')]/ancestor::div[2]]clicked
+2024-05-24 00:01:22 INFO  :39 - Trying to click web element [[ChromeDriver: chrome on windows (4b9e456f44fd3a1b5cb7a1638dc3d297)] -> xpath: //span[contains(text(), 'N1')]/ancestor::li]
+2024-05-24 00:01:23 INFO  :50 - Web element [[ChromeDriver: chrome on windows (4b9e456f44fd3a1b5cb7a1638dc3d297)] -> xpath: //span[contains(text(), 'N1')]/ancestor::li]clicked
+2024-05-24 00:01:23 INFO  :71 - Series 'N1' selected
+2024-05-24 00:01:23 INFO  :39 - Trying to click web element [[ChromeDriver: chrome on windows (4b9e456f44fd3a1b5cb7a1638dc3d297)] -> xpath: //span[contains(text(), 'Machine type')]/ancestor::div[2]]
+2024-05-24 00:01:23 INFO  :50 - Web element [[ChromeDriver: chrome on windows (4b9e456f44fd3a1b5cb7a1638dc3d297)] -> xpath: //span[contains(text(), 'Machine type')]/ancestor::div[2]]clicked
+2024-05-24 00:01:23 INFO  :39 - Trying to click web element [[ChromeDriver: chrome on windows (4b9e456f44fd3a1b5cb7a1638dc3d297)] -> xpath: //span[contains(text(), 'n1-standard-8')]/ancestor::li]
+2024-05-24 00:01:23 INFO  :50 - Web element [[ChromeDriver: chrome on windows (4b9e456f44fd3a1b5cb7a1638dc3d297)] -> xpath: //span[contains(text(), 'n1-standard-8')]/ancestor::li]clicked
+2024-05-24 00:01:23 INFO  :75 - machine type 'n1-standard-8' selected
+2024-05-24 00:01:23 INFO  :39 - Trying to click web element [[ChromeDriver: chrome on windows (4b9e456f44fd3a1b5cb7a1638dc3d297)] -> xpath: //button[contains(@aria-label, 'Add GPUs')]/ancestor::div[4]]
+2024-05-24 00:01:23 INFO  :50 - Web element [[ChromeDriver: chrome on windows (4b9e456f44fd3a1b5cb7a1638dc3d297)] -> xpath: //button[contains(@aria-label, 'Add GPUs')]/ancestor::div[4]]clicked
+2024-05-24 00:01:23 INFO  :80 - Added GPUS 'true' selected
+2024-05-24 00:01:23 INFO  :39 - Trying to click web element Proxy element for: DefaultElementLocator 'By.xpath: //span[contains(text(), 'GPU Model')]/ancestor::div[2]'
+2024-05-24 00:01:24 INFO  :50 - Web element [[ChromeDriver: chrome on windows (4b9e456f44fd3a1b5cb7a1638dc3d297)] -> xpath: //span[contains(text(), 'GPU Model')]/ancestor::div[2]]clicked
+2024-05-24 00:01:24 INFO  :39 - Trying to click web element [[ChromeDriver: chrome on windows (4b9e456f44fd3a1b5cb7a1638dc3d297)] -> xpath: //span[contains(text(), 'NVIDIA TESLA P100')]/ancestor::li]
+2024-05-24 00:01:24 INFO  :50 - Web element [[ChromeDriver: chrome on windows (4b9e456f44fd3a1b5cb7a1638dc3d297)] -> xpath: //span[contains(text(), 'NVIDIA TESLA P100')]/ancestor::li]clicked
+2024-05-24 00:01:24 INFO  :84 - GPU type 'NVIDIA TESLA P100' selected
+2024-05-24 00:01:25 INFO  :39 - Trying to click web element [[ChromeDriver: chrome on windows (4b9e456f44fd3a1b5cb7a1638dc3d297)] -> xpath: //span[contains(text(), 'Number of GPUs')]/ancestor::div[2]]
+2024-05-24 00:01:25 INFO  :50 - Web element [[ChromeDriver: chrome on windows (4b9e456f44fd3a1b5cb7a1638dc3d297)] -> xpath: //span[contains(text(), 'Number of GPUs')]/ancestor::div[2]]clicked
+2024-05-24 00:01:25 INFO  :39 - Trying to click web element [[ChromeDriver: chrome on windows (4b9e456f44fd3a1b5cb7a1638dc3d297)] -> xpath: //ul[contains(@aria-label, 'Number of GPUs')]//li[contains(@data-value, '1')]]
+2024-05-24 00:01:25 INFO  :50 - Web element [[ChromeDriver: chrome on windows (4b9e456f44fd3a1b5cb7a1638dc3d297)] -> xpath: //ul[contains(@aria-label, 'Number of GPUs')]//li[contains(@data-value, '1')]]clicked
+2024-05-24 00:01:25 INFO  :88 - Number of GPUs '1' selected
+2024-05-24 00:01:25 INFO  :39 - Trying to click web element [[ChromeDriver: chrome on windows (4b9e456f44fd3a1b5cb7a1638dc3d297)] -> xpath: //span[contains(text(), 'Local SSD')]/ancestor::div[2]]
+2024-05-24 00:01:25 INFO  :50 - Web element [[ChromeDriver: chrome on windows (4b9e456f44fd3a1b5cb7a1638dc3d297)] -> xpath: //span[contains(text(), 'Local SSD')]/ancestor::div[2]]clicked
+2024-05-24 00:01:25 INFO  :39 - Trying to click web element [[ChromeDriver: chrome on windows (4b9e456f44fd3a1b5cb7a1638dc3d297)] -> xpath: //span[contains(text(), '2x375 GB')]/ancestor::li]
+2024-05-24 00:01:26 INFO  :50 - Web element [[ChromeDriver: chrome on windows (4b9e456f44fd3a1b5cb7a1638dc3d297)] -> xpath: //span[contains(text(), '2x375 GB')]/ancestor::li]clicked
+2024-05-24 00:01:26 INFO  :93 - Local SSD '2x375 GB' selected
+2024-05-24 00:01:26 INFO  :39 - Trying to click web element [[ChromeDriver: chrome on windows (4b9e456f44fd3a1b5cb7a1638dc3d297)] -> xpath: //span[contains(text(), 'Region')]/ancestor::div[2]]
+2024-05-24 00:01:26 INFO  :50 - Web element [[ChromeDriver: chrome on windows (4b9e456f44fd3a1b5cb7a1638dc3d297)] -> xpath: //span[contains(text(), 'Region')]/ancestor::div[2]]clicked
+2024-05-24 00:01:26 INFO  :39 - Trying to click web element [[ChromeDriver: chrome on windows (4b9e456f44fd3a1b5cb7a1638dc3d297)] -> xpath: //span[contains(text(), 'South Carolina (us-east1)')]/ancestor::li]
+2024-05-24 00:01:26 INFO  :50 - Web element [[ChromeDriver: chrome on windows (4b9e456f44fd3a1b5cb7a1638dc3d297)] -> xpath: //span[contains(text(), 'South Carolina (us-east1)')]/ancestor::li]clicked
+2024-05-24 00:01:26 INFO  :97 - Datacenter Location 'South Carolina (us-east1)' selected
+2024-05-24 00:01:26 INFO  :39 - Trying to click web element [[ChromeDriver: chrome on windows (4b9e456f44fd3a1b5cb7a1638dc3d297)] -> xpath: //label[contains(text(), '1 year')]/ancestor::div[1]]
+2024-05-24 00:01:26 INFO  :50 - Web element [[ChromeDriver: chrome on windows (4b9e456f44fd3a1b5cb7a1638dc3d297)] -> xpath: //label[contains(text(), '1 year')]/ancestor::div[1]]clicked
+2024-05-24 00:01:26 INFO  :101 - Committed usage '1 year' selected
+2024-05-24 00:01:27 INFO  :127 - Waited for cost '$3,535.70' evaluated
+2024-05-24 00:01:28 INFO  :39 - Trying to click web element [[ChromeDriver: chrome on windows (4b9e456f44fd3a1b5cb7a1638dc3d297)] -> xpath: //button[contains(@aria-label, 'Open Share Estimate dialog')]]
+2024-05-24 00:01:28 INFO  :50 - Web element [[ChromeDriver: chrome on windows (4b9e456f44fd3a1b5cb7a1638dc3d297)] -> xpath: //button[contains(@aria-label, 'Open Share Estimate dialog')]]clicked
+2024-05-24 00:01:28 INFO  :136 - Open share estimate clicked
+2024-05-24 00:01:28 INFO  :39 - Trying to click web element [[ChromeDriver: chrome on windows (4b9e456f44fd3a1b5cb7a1638dc3d297)] -> xpath: //a[contains(@track-name, 'open estimate summary')]]
+2024-05-24 00:01:28 INFO  :50 - Web element [[ChromeDriver: chrome on windows (4b9e456f44fd3a1b5cb7a1638dc3d297)] -> xpath: //a[contains(@track-name, 'open estimate summary')]]clicked
+2024-05-24 00:01:28 INFO  :143 - Open estimate summary clicked
+2024-05-24 00:01:28 INFO  :45 - WebDriver switched to last window
+2024-05-24 00:01:28 INFO  :92 - Checking committed usage
+2024-05-24 00:01:30 INFO  :50 - Checking total estimated cost
+2024-05-24 00:01:30 INFO  :86 - Checking datacenter Location
+2024-05-24 00:01:30 INFO  :104 - Checking GPU model
+2024-05-24 00:01:30 INFO  :80 - Checking local SSD
+2024-05-24 00:01:30 INFO  :74 - Checking machine type
+2024-05-24 00:01:30 INFO  :98 - Checking number of GPUs
+2024-05-24 00:01:30 INFO  :62 - Checking provisioning model
+2024-05-24 00:01:30 INFO  :68 - Checking operation system software
+2024-05-24 00:01:54 INFO  :24 - Google Cloud homepage opened
+2024-05-24 00:01:57 INFO  :39 - Trying to click web element [[ChromeDriver: chrome on windows (ea45b0678b36ce49437ee8d689997756)] -> xpath: //div[@jsname='Ohx1pb']]
+2024-05-24 00:01:57 INFO  :50 - Web element [[ChromeDriver: chrome on windows (ea45b0678b36ce49437ee8d689997756)] -> xpath: //div[@jsname='Ohx1pb']]clicked
+2024-05-24 00:01:58 INFO  :37 - Search request + 'Google Cloud Pricing Calculator' sent
+2024-05-24 00:01:58 INFO  :39 - Trying to click web element [[ChromeDriver: chrome on windows (ea45b0678b36ce49437ee8d689997756)] -> xpath: //a[contains(text(), 'Google Cloud Pricing Calculator')]]
+2024-05-24 00:02:00 INFO  :50 - Web element Proxy element for: DefaultElementLocator 'By.xpath: //a[contains(text(), 'Google Cloud Pricing Calculator')]'clicked
+2024-05-24 00:02:00 INFO  :26 - Google Cloud Pricing Calculator page opened
+2024-05-24 00:02:01 INFO  :35 - [[ChromeDriver: chrome on windows (ea45b0678b36ce49437ee8d689997756)] -> xpath: //c-wiz[1]//button] clicked
+2024-05-24 00:02:02 INFO  :35 - [[ChromeDriver: chrome on windows (ea45b0678b36ce49437ee8d689997756)] -> xpath: //div[h2/text()='Compute Engine']] clicked
+2024-05-24 00:02:03 INFO  :56 - Number of instances '4' selected
+2024-05-24 00:02:03 INFO  :39 - Trying to click web element [[ChromeDriver: chrome on windows (ea45b0678b36ce49437ee8d689997756)] -> xpath: //span[contains(text(), 'Operating System / Software')]/ancestor::div[2]]
+2024-05-24 00:02:03 INFO  :50 - Web element [[ChromeDriver: chrome on windows (ea45b0678b36ce49437ee8d689997756)] -> xpath: //span[contains(text(), 'Operating System / Software')]/ancestor::div[2]]clicked
+2024-05-24 00:02:03 INFO  :39 - Trying to click web element [[ChromeDriver: chrome on windows (ea45b0678b36ce49437ee8d689997756)] -> xpath: //span[contains(text(), 'Free: Debian, CentOS, CoreOS, Ubuntu or BYOL (Bring Your Own License)')]/ancestor::li]
+2024-05-24 00:02:03 INFO  :50 - Web element [[ChromeDriver: chrome on windows (ea45b0678b36ce49437ee8d689997756)] -> xpath: //span[contains(text(), 'Free: Debian, CentOS, CoreOS, Ubuntu or BYOL (Bring Your Own License)')]/ancestor::li]clicked
+2024-05-24 00:02:03 INFO  :60 - Operation system software 'Free: Debian, CentOS, CoreOS, Ubuntu or BYOL (Bring Your Own License)' selected
+2024-05-24 00:02:03 INFO  :39 - Trying to click web element [[ChromeDriver: chrome on windows (ea45b0678b36ce49437ee8d689997756)] -> xpath: //label[contains(text(), 'Regular')]/parent::*]
+2024-05-24 00:02:03 INFO  :50 - Web element [[ChromeDriver: chrome on windows (ea45b0678b36ce49437ee8d689997756)] -> xpath: //label[contains(text(), 'Regular')]/parent::*]clicked
+2024-05-24 00:02:03 INFO  :63 - Provision model 'Regular' selected
+2024-05-24 00:02:03 INFO  :39 - Trying to click web element [[ChromeDriver: chrome on windows (ea45b0678b36ce49437ee8d689997756)] -> xpath: //span[contains(text(), 'Machine Family')]/ancestor::div[2]]
+2024-05-24 00:02:04 INFO  :50 - Web element [[ChromeDriver: chrome on windows (ea45b0678b36ce49437ee8d689997756)] -> xpath: //span[contains(text(), 'Machine Family')]/ancestor::div[2]]clicked
+2024-05-24 00:02:04 INFO  :39 - Trying to click web element [[ChromeDriver: chrome on windows (ea45b0678b36ce49437ee8d689997756)] -> xpath: //span[contains(text(), 'General Purpose')]/ancestor::li]
+2024-05-24 00:02:04 INFO  :50 - Web element [[ChromeDriver: chrome on windows (ea45b0678b36ce49437ee8d689997756)] -> xpath: //span[contains(text(), 'General Purpose')]/ancestor::li]clicked
+2024-05-24 00:02:04 INFO  :67 - Machine family 'General Purpose' selected
+2024-05-24 00:02:04 INFO  :39 - Trying to click web element [[ChromeDriver: chrome on windows (ea45b0678b36ce49437ee8d689997756)] -> xpath: //span[contains(text(), 'Series')]/ancestor::div[2]]
+2024-05-24 00:02:04 INFO  :50 - Web element [[ChromeDriver: chrome on windows (ea45b0678b36ce49437ee8d689997756)] -> xpath: //span[contains(text(), 'Series')]/ancestor::div[2]]clicked
+2024-05-24 00:02:04 INFO  :39 - Trying to click web element [[ChromeDriver: chrome on windows (ea45b0678b36ce49437ee8d689997756)] -> xpath: //span[contains(text(), 'N1')]/ancestor::li]
+2024-05-24 00:02:05 INFO  :50 - Web element [[ChromeDriver: chrome on windows (ea45b0678b36ce49437ee8d689997756)] -> xpath: //span[contains(text(), 'N1')]/ancestor::li]clicked
+2024-05-24 00:02:05 INFO  :71 - Series 'N1' selected
+2024-05-24 00:02:05 INFO  :39 - Trying to click web element [[ChromeDriver: chrome on windows (ea45b0678b36ce49437ee8d689997756)] -> xpath: //span[contains(text(), 'Machine type')]/ancestor::div[2]]
+2024-05-24 00:02:05 INFO  :50 - Web element [[ChromeDriver: chrome on windows (ea45b0678b36ce49437ee8d689997756)] -> xpath: //span[contains(text(), 'Machine type')]/ancestor::div[2]]clicked
+2024-05-24 00:02:05 INFO  :39 - Trying to click web element [[ChromeDriver: chrome on windows (ea45b0678b36ce49437ee8d689997756)] -> xpath: //span[contains(text(), 'n1-standard-8')]/ancestor::li]
+2024-05-24 00:02:05 INFO  :50 - Web element [[ChromeDriver: chrome on windows (ea45b0678b36ce49437ee8d689997756)] -> xpath: //span[contains(text(), 'n1-standard-8')]/ancestor::li]clicked
+2024-05-24 00:02:05 INFO  :75 - machine type 'n1-standard-8' selected
+2024-05-24 00:02:05 INFO  :39 - Trying to click web element [[ChromeDriver: chrome on windows (ea45b0678b36ce49437ee8d689997756)] -> xpath: //button[contains(@aria-label, 'Add GPUs')]/ancestor::div[4]]
+2024-05-24 00:02:06 INFO  :50 - Web element [[ChromeDriver: chrome on windows (ea45b0678b36ce49437ee8d689997756)] -> xpath: //button[contains(@aria-label, 'Add GPUs')]/ancestor::div[4]]clicked
+2024-05-24 00:02:06 INFO  :80 - Added GPUS 'true' selected
+2024-05-24 00:02:06 INFO  :39 - Trying to click web element Proxy element for: DefaultElementLocator 'By.xpath: //span[contains(text(), 'GPU Model')]/ancestor::div[2]'
+2024-05-24 00:02:06 INFO  :50 - Web element [[ChromeDriver: chrome on windows (ea45b0678b36ce49437ee8d689997756)] -> xpath: //span[contains(text(), 'GPU Model')]/ancestor::div[2]]clicked
+2024-05-24 00:02:06 INFO  :39 - Trying to click web element [[ChromeDriver: chrome on windows (ea45b0678b36ce49437ee8d689997756)] -> xpath: //span[contains(text(), 'NVIDIA TESLA P100')]/ancestor::li]
+2024-05-24 00:02:07 INFO  :50 - Web element [[ChromeDriver: chrome on windows (ea45b0678b36ce49437ee8d689997756)] -> xpath: //span[contains(text(), 'NVIDIA TESLA P100')]/ancestor::li]clicked
+2024-05-24 00:02:07 INFO  :84 - GPU type 'NVIDIA TESLA P100' selected
+2024-05-24 00:02:07 INFO  :39 - Trying to click web element [[ChromeDriver: chrome on windows (ea45b0678b36ce49437ee8d689997756)] -> xpath: //span[contains(text(), 'Number of GPUs')]/ancestor::div[2]]
+2024-05-24 00:02:07 INFO  :50 - Web element [[ChromeDriver: chrome on windows (ea45b0678b36ce49437ee8d689997756)] -> xpath: //span[contains(text(), 'Number of GPUs')]/ancestor::div[2]]clicked
+2024-05-24 00:02:07 INFO  :39 - Trying to click web element [[ChromeDriver: chrome on windows (ea45b0678b36ce49437ee8d689997756)] -> xpath: //ul[contains(@aria-label, 'Number of GPUs')]//li[contains(@data-value, '1')]]
+2024-05-24 00:02:07 INFO  :50 - Web element [[ChromeDriver: chrome on windows (ea45b0678b36ce49437ee8d689997756)] -> xpath: //ul[contains(@aria-label, 'Number of GPUs')]//li[contains(@data-value, '1')]]clicked
+2024-05-24 00:02:07 INFO  :88 - Number of GPUs '1' selected
+2024-05-24 00:02:07 INFO  :39 - Trying to click web element [[ChromeDriver: chrome on windows (ea45b0678b36ce49437ee8d689997756)] -> xpath: //span[contains(text(), 'Local SSD')]/ancestor::div[2]]
+2024-05-24 00:02:08 INFO  :50 - Web element [[ChromeDriver: chrome on windows (ea45b0678b36ce49437ee8d689997756)] -> xpath: //span[contains(text(), 'Local SSD')]/ancestor::div[2]]clicked
+2024-05-24 00:02:08 INFO  :39 - Trying to click web element [[ChromeDriver: chrome on windows (ea45b0678b36ce49437ee8d689997756)] -> xpath: //span[contains(text(), '2x375 GB')]/ancestor::li]
+2024-05-24 00:02:08 INFO  :50 - Web element [[ChromeDriver: chrome on windows (ea45b0678b36ce49437ee8d689997756)] -> xpath: //span[contains(text(), '2x375 GB')]/ancestor::li]clicked
+2024-05-24 00:02:08 INFO  :93 - Local SSD '2x375 GB' selected
+2024-05-24 00:02:08 INFO  :39 - Trying to click web element [[ChromeDriver: chrome on windows (ea45b0678b36ce49437ee8d689997756)] -> xpath: //span[contains(text(), 'Region')]/ancestor::div[2]]
+2024-05-24 00:02:08 INFO  :50 - Web element [[ChromeDriver: chrome on windows (ea45b0678b36ce49437ee8d689997756)] -> xpath: //span[contains(text(), 'Region')]/ancestor::div[2]]clicked
+2024-05-24 00:02:08 INFO  :39 - Trying to click web element [[ChromeDriver: chrome on windows (ea45b0678b36ce49437ee8d689997756)] -> xpath: //span[contains(text(), 'South Carolina (us-east1)')]/ancestor::li]
+2024-05-24 00:02:09 INFO  :50 - Web element [[ChromeDriver: chrome on windows (ea45b0678b36ce49437ee8d689997756)] -> xpath: //span[contains(text(), 'South Carolina (us-east1)')]/ancestor::li]clicked
+2024-05-24 00:02:09 INFO  :97 - Datacenter Location 'South Carolina (us-east1)' selected
+2024-05-24 00:02:09 INFO  :39 - Trying to click web element [[ChromeDriver: chrome on windows (ea45b0678b36ce49437ee8d689997756)] -> xpath: //label[contains(text(), '1 year')]/ancestor::div[1]]
+2024-05-24 00:02:09 INFO  :50 - Web element [[ChromeDriver: chrome on windows (ea45b0678b36ce49437ee8d689997756)] -> xpath: //label[contains(text(), '1 year')]/ancestor::div[1]]clicked
+2024-05-24 00:02:09 INFO  :101 - Committed usage '1 year' selected
+2024-05-24 00:09:44 INFO  :24 - Google Cloud homepage opened
+2024-05-24 00:09:54 INFO  :41 - Trying to click web element [[ChromeDriver: chrome on windows (a55d84fa3f93c0d2e0fca5eefca950eb)] -> xpath: //div[@jsname='Ohx1pb']]
+2024-05-24 00:09:55 INFO  :52 - Web element [[ChromeDriver: chrome on windows (a55d84fa3f93c0d2e0fca5eefca950eb)] -> xpath: //div[@jsname='Ohx1pb']]clicked
+2024-05-24 00:09:56 INFO  :38 - Search request + 'Google Cloud Pricing Calculator' sent
+2024-05-24 00:09:57 INFO  :41 - Trying to click web element [[ChromeDriver: chrome on windows (a55d84fa3f93c0d2e0fca5eefca950eb)] -> xpath: //a[contains(text(), 'Google Cloud Pricing Calculator')]]
+2024-05-24 00:10:02 INFO  :52 - Web element Proxy element for: DefaultElementLocator 'By.xpath: //a[contains(text(), 'Google Cloud Pricing Calculator')]'clicked
+2024-05-24 00:10:02 INFO  :26 - Google Cloud Pricing Calculator page opened
+2024-05-24 00:10:03 INFO  :35 - [[ChromeDriver: chrome on windows (a55d84fa3f93c0d2e0fca5eefca950eb)] -> xpath: //c-wiz[1]//button] clicked
+2024-05-24 00:10:06 INFO  :35 - Proxy element for: DefaultElementLocator 'By.xpath: //div[h2/text()='Compute Engine']' clicked
+2024-05-24 00:10:07 INFO  :56 - Number of instances '4' selected
+2024-05-24 00:10:07 INFO  :41 - Trying to click web element [[ChromeDriver: chrome on windows (a55d84fa3f93c0d2e0fca5eefca950eb)] -> xpath: //span[contains(text(), 'Operating System / Software')]/ancestor::div[2]]
+2024-05-24 00:10:08 INFO  :52 - Web element [[ChromeDriver: chrome on windows (a55d84fa3f93c0d2e0fca5eefca950eb)] -> xpath: //span[contains(text(), 'Operating System / Software')]/ancestor::div[2]]clicked
+2024-05-24 00:10:08 INFO  :41 - Trying to click web element [[ChromeDriver: chrome on windows (a55d84fa3f93c0d2e0fca5eefca950eb)] -> xpath: //span[contains(text(), 'Free: Debian, CentOS, CoreOS, Ubuntu or BYOL (Bring Your Own License)')]/ancestor::li]
+2024-05-24 00:10:09 INFO  :52 - Web element [[ChromeDriver: chrome on windows (a55d84fa3f93c0d2e0fca5eefca950eb)] -> xpath: //span[contains(text(), 'Free: Debian, CentOS, CoreOS, Ubuntu or BYOL (Bring Your Own License)')]/ancestor::li]clicked
+2024-05-24 00:10:09 INFO  :60 - Operation system software 'Free: Debian, CentOS, CoreOS, Ubuntu or BYOL (Bring Your Own License)' selected
+2024-05-24 00:10:09 INFO  :41 - Trying to click web element [[ChromeDriver: chrome on windows (a55d84fa3f93c0d2e0fca5eefca950eb)] -> xpath: //label[contains(text(), 'Regular')]/parent::*]
+2024-05-24 00:10:09 INFO  :52 - Web element [[ChromeDriver: chrome on windows (a55d84fa3f93c0d2e0fca5eefca950eb)] -> xpath: //label[contains(text(), 'Regular')]/parent::*]clicked
+2024-05-24 00:10:09 INFO  :63 - Provision model 'Regular' selected
+2024-05-24 00:10:10 INFO  :41 - Trying to click web element [[ChromeDriver: chrome on windows (a55d84fa3f93c0d2e0fca5eefca950eb)] -> xpath: //span[contains(text(), 'Machine Family')]/ancestor::div[2]]
+2024-05-24 00:10:10 INFO  :52 - Web element [[ChromeDriver: chrome on windows (a55d84fa3f93c0d2e0fca5eefca950eb)] -> xpath: //span[contains(text(), 'Machine Family')]/ancestor::div[2]]clicked
+2024-05-24 00:10:10 INFO  :41 - Trying to click web element [[ChromeDriver: chrome on windows (a55d84fa3f93c0d2e0fca5eefca950eb)] -> xpath: //span[contains(text(), 'General Purpose')]/ancestor::li]
+2024-05-24 00:10:11 INFO  :52 - Web element [[ChromeDriver: chrome on windows (a55d84fa3f93c0d2e0fca5eefca950eb)] -> xpath: //span[contains(text(), 'General Purpose')]/ancestor::li]clicked
+2024-05-24 00:10:11 INFO  :67 - Machine family 'General Purpose' selected
+2024-05-24 00:10:11 INFO  :41 - Trying to click web element [[ChromeDriver: chrome on windows (a55d84fa3f93c0d2e0fca5eefca950eb)] -> xpath: //span[contains(text(), 'Series')]/ancestor::div[2]]
+2024-05-24 00:10:11 INFO  :52 - Web element [[ChromeDriver: chrome on windows (a55d84fa3f93c0d2e0fca5eefca950eb)] -> xpath: //span[contains(text(), 'Series')]/ancestor::div[2]]clicked
+2024-05-24 00:10:11 INFO  :41 - Trying to click web element [[ChromeDriver: chrome on windows (a55d84fa3f93c0d2e0fca5eefca950eb)] -> xpath: //span[contains(text(), 'N1')]/ancestor::li]
+2024-05-24 00:10:12 INFO  :52 - Web element [[ChromeDriver: chrome on windows (a55d84fa3f93c0d2e0fca5eefca950eb)] -> xpath: //span[contains(text(), 'N1')]/ancestor::li]clicked
+2024-05-24 00:10:12 INFO  :71 - Series 'N1' selected
+2024-05-24 00:10:12 INFO  :41 - Trying to click web element [[ChromeDriver: chrome on windows (a55d84fa3f93c0d2e0fca5eefca950eb)] -> xpath: //span[contains(text(), 'Machine type')]/ancestor::div[2]]
+2024-05-24 00:10:13 INFO  :52 - Web element [[ChromeDriver: chrome on windows (a55d84fa3f93c0d2e0fca5eefca950eb)] -> xpath: //span[contains(text(), 'Machine type')]/ancestor::div[2]]clicked
+2024-05-24 00:10:13 INFO  :41 - Trying to click web element [[ChromeDriver: chrome on windows (a55d84fa3f93c0d2e0fca5eefca950eb)] -> xpath: //span[contains(text(), 'n1-standard-8')]/ancestor::li]
+2024-05-24 00:10:13 INFO  :52 - Web element [[ChromeDriver: chrome on windows (a55d84fa3f93c0d2e0fca5eefca950eb)] -> xpath: //span[contains(text(), 'n1-standard-8')]/ancestor::li]clicked
+2024-05-24 00:10:13 INFO  :75 - machine type 'n1-standard-8' selected
+2024-05-24 00:10:14 INFO  :41 - Trying to click web element [[ChromeDriver: chrome on windows (a55d84fa3f93c0d2e0fca5eefca950eb)] -> xpath: //button[contains(@aria-label, 'Add GPUs')]/ancestor::div[4]]
+2024-05-24 00:10:14 INFO  :52 - Web element [[ChromeDriver: chrome on windows (a55d84fa3f93c0d2e0fca5eefca950eb)] -> xpath: //button[contains(@aria-label, 'Add GPUs')]/ancestor::div[4]]clicked
+2024-05-24 00:10:14 INFO  :80 - Added GPUS 'true' selected
+2024-05-24 00:10:15 INFO  :41 - Trying to click web element [[ChromeDriver: chrome on windows (a55d84fa3f93c0d2e0fca5eefca950eb)] -> xpath: //span[contains(text(), 'GPU Model')]/ancestor::div[2]]
+2024-05-24 00:10:15 INFO  :52 - Web element [[ChromeDriver: chrome on windows (a55d84fa3f93c0d2e0fca5eefca950eb)] -> xpath: //span[contains(text(), 'GPU Model')]/ancestor::div[2]]clicked
+2024-05-24 00:10:15 INFO  :41 - Trying to click web element [[ChromeDriver: chrome on windows (a55d84fa3f93c0d2e0fca5eefca950eb)] -> xpath: //span[contains(text(), 'NVIDIA TESLA P100')]/ancestor::li]
+2024-05-24 00:10:16 INFO  :52 - Web element [[ChromeDriver: chrome on windows (a55d84fa3f93c0d2e0fca5eefca950eb)] -> xpath: //span[contains(text(), 'NVIDIA TESLA P100')]/ancestor::li]clicked
+2024-05-24 00:10:16 INFO  :84 - GPU type 'NVIDIA TESLA P100' selected
+2024-05-24 00:10:16 INFO  :41 - Trying to click web element [[ChromeDriver: chrome on windows (a55d84fa3f93c0d2e0fca5eefca950eb)] -> xpath: //span[contains(text(), 'Number of GPUs')]/ancestor::div[2]]
+2024-05-24 00:10:17 INFO  :52 - Web element [[ChromeDriver: chrome on windows (a55d84fa3f93c0d2e0fca5eefca950eb)] -> xpath: //span[contains(text(), 'Number of GPUs')]/ancestor::div[2]]clicked
+2024-05-24 00:10:17 INFO  :41 - Trying to click web element [[ChromeDriver: chrome on windows (a55d84fa3f93c0d2e0fca5eefca950eb)] -> xpath: //ul[contains(@aria-label, 'Number of GPUs')]//li[contains(@data-value, '1')]]
+2024-05-24 00:10:17 INFO  :52 - Web element [[ChromeDriver: chrome on windows (a55d84fa3f93c0d2e0fca5eefca950eb)] -> xpath: //ul[contains(@aria-label, 'Number of GPUs')]//li[contains(@data-value, '1')]]clicked
+2024-05-24 00:10:17 INFO  :88 - Number of GPUs '1' selected
+2024-05-24 00:10:17 INFO  :41 - Trying to click web element [[ChromeDriver: chrome on windows (a55d84fa3f93c0d2e0fca5eefca950eb)] -> xpath: //span[contains(text(), 'Local SSD')]/ancestor::div[2]]
+2024-05-24 00:10:18 INFO  :52 - Web element [[ChromeDriver: chrome on windows (a55d84fa3f93c0d2e0fca5eefca950eb)] -> xpath: //span[contains(text(), 'Local SSD')]/ancestor::div[2]]clicked
+2024-05-24 00:10:18 INFO  :41 - Trying to click web element [[ChromeDriver: chrome on windows (a55d84fa3f93c0d2e0fca5eefca950eb)] -> xpath: //span[contains(text(), '2x375 GB')]/ancestor::li]
+2024-05-24 00:10:19 INFO  :52 - Web element [[ChromeDriver: chrome on windows (a55d84fa3f93c0d2e0fca5eefca950eb)] -> xpath: //span[contains(text(), '2x375 GB')]/ancestor::li]clicked
+2024-05-24 00:10:19 INFO  :93 - Local SSD '2x375 GB' selected
+2024-05-24 00:10:19 INFO  :41 - Trying to click web element [[ChromeDriver: chrome on windows (a55d84fa3f93c0d2e0fca5eefca950eb)] -> xpath: //span[contains(text(), 'Region')]/ancestor::div[2]]
+2024-05-24 00:10:20 INFO  :52 - Web element [[ChromeDriver: chrome on windows (a55d84fa3f93c0d2e0fca5eefca950eb)] -> xpath: //span[contains(text(), 'Region')]/ancestor::div[2]]clicked
+2024-05-24 00:10:20 INFO  :41 - Trying to click web element [[ChromeDriver: chrome on windows (a55d84fa3f93c0d2e0fca5eefca950eb)] -> xpath: //span[contains(text(), 'South Carolina (us-east1)')]/ancestor::li]
+2024-05-24 00:10:20 INFO  :52 - Web element [[ChromeDriver: chrome on windows (a55d84fa3f93c0d2e0fca5eefca950eb)] -> xpath: //span[contains(text(), 'South Carolina (us-east1)')]/ancestor::li]clicked
+2024-05-24 00:10:20 INFO  :97 - Datacenter Location 'South Carolina (us-east1)' selected
+2024-05-24 00:10:21 INFO  :41 - Trying to click web element [[ChromeDriver: chrome on windows (a55d84fa3f93c0d2e0fca5eefca950eb)] -> xpath: //label[contains(text(), '1 year')]/ancestor::div[1]]
+2024-05-24 00:10:21 INFO  :52 - Web element [[ChromeDriver: chrome on windows (a55d84fa3f93c0d2e0fca5eefca950eb)] -> xpath: //label[contains(text(), '1 year')]/ancestor::div[1]]clicked
+2024-05-24 00:10:21 INFO  :101 - Committed usage '1 year' selected
+2024-05-24 00:10:22 INFO  :127 - Waited for cost '$3,535.70' evaluated
+2024-05-24 00:10:23 INFO  :41 - Trying to click web element [[ChromeDriver: chrome on windows (a55d84fa3f93c0d2e0fca5eefca950eb)] -> xpath: //button[contains(@aria-label, 'Open Share Estimate dialog')]]
+2024-05-24 00:10:23 INFO  :52 - Web element [[ChromeDriver: chrome on windows (a55d84fa3f93c0d2e0fca5eefca950eb)] -> xpath: //button[contains(@aria-label, 'Open Share Estimate dialog')]]clicked
+2024-05-24 00:10:23 INFO  :136 - Open share estimate clicked
+2024-05-24 00:10:23 INFO  :41 - Trying to click web element [[ChromeDriver: chrome on windows (a55d84fa3f93c0d2e0fca5eefca950eb)] -> xpath: //a[contains(@track-name, 'open estimate summary')]]
+2024-05-24 00:10:24 INFO  :52 - Web element [[ChromeDriver: chrome on windows (a55d84fa3f93c0d2e0fca5eefca950eb)] -> xpath: //a[contains(@track-name, 'open estimate summary')]]clicked
+2024-05-24 00:10:24 INFO  :143 - Open estimate summary clicked
+2024-05-24 00:10:24 INFO  :45 - WebDriver switched to last window
+2024-05-24 00:10:24 INFO  :92 - Checking committed usage
+2024-05-24 00:10:28 INFO  :50 - Checking total estimated cost
+2024-05-24 00:10:28 INFO  :86 - Checking datacenter Location
+2024-05-24 00:10:28 INFO  :104 - Checking GPU model
+2024-05-24 00:10:28 INFO  :80 - Checking local SSD
+2024-05-24 00:10:28 INFO  :74 - Checking machine type
+2024-05-24 00:10:28 INFO  :98 - Checking number of GPUs
+2024-05-24 00:10:28 INFO  :62 - Checking provisioning model
+2024-05-24 00:10:29 INFO  :68 - Checking operation system software
+2024-05-24 00:11:42 INFO  :24 - Google Cloud homepage opened
+2024-05-24 00:11:50 INFO  :41 - Trying to click web element [[FirefoxDriver: firefox on windows (667cdf17-9961-40e2-8000-18599db684ee)] -> xpath: //div[@jsname='Ohx1pb']]
+2024-05-24 00:11:52 INFO  :52 - Web element [[FirefoxDriver: firefox on windows (667cdf17-9961-40e2-8000-18599db684ee)] -> xpath: //div[@jsname='Ohx1pb']]clicked
+2024-05-24 00:11:52 INFO  :38 - Search request + 'Google Cloud Pricing Calculator' sent
+2024-05-24 00:11:54 INFO  :41 - Trying to click web element [[FirefoxDriver: firefox on windows (667cdf17-9961-40e2-8000-18599db684ee)] -> xpath: //a[contains(text(), 'Google Cloud Pricing Calculator')]]
+2024-05-24 00:11:58 INFO  :52 - Web element Proxy element for: DefaultElementLocator 'By.xpath: //a[contains(text(), 'Google Cloud Pricing Calculator')]'clicked
+2024-05-24 00:11:58 INFO  :26 - Google Cloud Pricing Calculator page opened
+2024-05-24 00:11:59 INFO  :35 - [[FirefoxDriver: firefox on windows (667cdf17-9961-40e2-8000-18599db684ee)] -> xpath: //c-wiz[1]//button] clicked
+2024-05-24 00:12:02 INFO  :35 - [[FirefoxDriver: firefox on windows (667cdf17-9961-40e2-8000-18599db684ee)] -> xpath: //div[h2/text()='Compute Engine']] clicked
+2024-05-24 00:12:05 INFO  :56 - Number of instances '4' selected
+2024-05-24 00:12:06 INFO  :41 - Trying to click web element [[FirefoxDriver: firefox on windows (667cdf17-9961-40e2-8000-18599db684ee)] -> xpath: //span[contains(text(), 'Operating System / Software')]/ancestor::div[2]]
+2024-05-24 00:12:07 INFO  :52 - Web element [[FirefoxDriver: firefox on windows (667cdf17-9961-40e2-8000-18599db684ee)] -> xpath: //span[contains(text(), 'Operating System / Software')]/ancestor::div[2]]clicked
+2024-05-24 00:12:07 INFO  :41 - Trying to click web element [[FirefoxDriver: firefox on windows (667cdf17-9961-40e2-8000-18599db684ee)] -> xpath: //span[contains(text(), 'Free: Debian, CentOS, CoreOS, Ubuntu or BYOL (Bring Your Own License)')]/ancestor::li]
+2024-05-24 00:12:08 INFO  :52 - Web element [[FirefoxDriver: firefox on windows (667cdf17-9961-40e2-8000-18599db684ee)] -> xpath: //span[contains(text(), 'Free: Debian, CentOS, CoreOS, Ubuntu or BYOL (Bring Your Own License)')]/ancestor::li]clicked
+2024-05-24 00:12:08 INFO  :60 - Operation system software 'Free: Debian, CentOS, CoreOS, Ubuntu or BYOL (Bring Your Own License)' selected
+2024-05-24 00:12:08 INFO  :41 - Trying to click web element [[FirefoxDriver: firefox on windows (667cdf17-9961-40e2-8000-18599db684ee)] -> xpath: //label[contains(text(), 'Regular')]/parent::*]
+2024-05-24 00:12:09 INFO  :52 - Web element [[FirefoxDriver: firefox on windows (667cdf17-9961-40e2-8000-18599db684ee)] -> xpath: //label[contains(text(), 'Regular')]/parent::*]clicked
+2024-05-24 00:12:09 INFO  :63 - Provision model 'Regular' selected
+2024-05-24 00:12:09 INFO  :41 - Trying to click web element [[FirefoxDriver: firefox on windows (667cdf17-9961-40e2-8000-18599db684ee)] -> xpath: //span[contains(text(), 'Machine Family')]/ancestor::div[2]]
+2024-05-24 00:12:09 INFO  :52 - Web element [[FirefoxDriver: firefox on windows (667cdf17-9961-40e2-8000-18599db684ee)] -> xpath: //span[contains(text(), 'Machine Family')]/ancestor::div[2]]clicked
+2024-05-24 00:12:09 INFO  :41 - Trying to click web element [[FirefoxDriver: firefox on windows (667cdf17-9961-40e2-8000-18599db684ee)] -> xpath: //span[contains(text(), 'General Purpose')]/ancestor::li]
+2024-05-24 00:12:10 INFO  :52 - Web element [[FirefoxDriver: firefox on windows (667cdf17-9961-40e2-8000-18599db684ee)] -> xpath: //span[contains(text(), 'General Purpose')]/ancestor::li]clicked
+2024-05-24 00:12:10 INFO  :67 - Machine family 'General Purpose' selected
+2024-05-24 00:12:10 INFO  :41 - Trying to click web element [[FirefoxDriver: firefox on windows (667cdf17-9961-40e2-8000-18599db684ee)] -> xpath: //span[contains(text(), 'Series')]/ancestor::div[2]]
+2024-05-24 00:12:11 INFO  :52 - Web element [[FirefoxDriver: firefox on windows (667cdf17-9961-40e2-8000-18599db684ee)] -> xpath: //span[contains(text(), 'Series')]/ancestor::div[2]]clicked
+2024-05-24 00:12:11 INFO  :41 - Trying to click web element [[FirefoxDriver: firefox on windows (667cdf17-9961-40e2-8000-18599db684ee)] -> xpath: //span[contains(text(), 'N1')]/ancestor::li]
+2024-05-24 00:12:12 INFO  :52 - Web element [[FirefoxDriver: firefox on windows (667cdf17-9961-40e2-8000-18599db684ee)] -> xpath: //span[contains(text(), 'N1')]/ancestor::li]clicked
+2024-05-24 00:12:12 INFO  :71 - Series 'N1' selected
+2024-05-24 00:12:12 INFO  :41 - Trying to click web element [[FirefoxDriver: firefox on windows (667cdf17-9961-40e2-8000-18599db684ee)] -> xpath: //span[contains(text(), 'Machine type')]/ancestor::div[2]]
+2024-05-24 00:12:13 INFO  :52 - Web element [[FirefoxDriver: firefox on windows (667cdf17-9961-40e2-8000-18599db684ee)] -> xpath: //span[contains(text(), 'Machine type')]/ancestor::div[2]]clicked
+2024-05-24 00:12:13 INFO  :41 - Trying to click web element [[FirefoxDriver: firefox on windows (667cdf17-9961-40e2-8000-18599db684ee)] -> xpath: //span[contains(text(), 'n1-standard-8')]/ancestor::li]
+2024-05-24 00:12:14 INFO  :52 - Web element [[FirefoxDriver: firefox on windows (667cdf17-9961-40e2-8000-18599db684ee)] -> xpath: //span[contains(text(), 'n1-standard-8')]/ancestor::li]clicked
+2024-05-24 00:12:14 INFO  :75 - machine type 'n1-standard-8' selected
+2024-05-24 00:12:14 INFO  :41 - Trying to click web element [[FirefoxDriver: firefox on windows (667cdf17-9961-40e2-8000-18599db684ee)] -> xpath: //button[contains(@aria-label, 'Add GPUs')]/ancestor::div[4]]
+2024-05-24 00:12:15 INFO  :52 - Web element [[FirefoxDriver: firefox on windows (667cdf17-9961-40e2-8000-18599db684ee)] -> xpath: //button[contains(@aria-label, 'Add GPUs')]/ancestor::div[4]]clicked
+2024-05-24 00:12:15 INFO  :80 - Added GPUS 'true' selected
+2024-05-24 00:12:16 INFO  :41 - Trying to click web element [[FirefoxDriver: firefox on windows (667cdf17-9961-40e2-8000-18599db684ee)] -> xpath: //span[contains(text(), 'GPU Model')]/ancestor::div[2]]
+2024-05-24 00:12:17 INFO  :52 - Web element [[FirefoxDriver: firefox on windows (667cdf17-9961-40e2-8000-18599db684ee)] -> xpath: //span[contains(text(), 'GPU Model')]/ancestor::div[2]]clicked
+2024-05-24 00:12:17 INFO  :41 - Trying to click web element [[FirefoxDriver: firefox on windows (667cdf17-9961-40e2-8000-18599db684ee)] -> xpath: //span[contains(text(), 'NVIDIA TESLA P100')]/ancestor::li]
+2024-05-24 00:12:17 INFO  :52 - Web element [[FirefoxDriver: firefox on windows (667cdf17-9961-40e2-8000-18599db684ee)] -> xpath: //span[contains(text(), 'NVIDIA TESLA P100')]/ancestor::li]clicked
+2024-05-24 00:12:17 INFO  :84 - GPU type 'NVIDIA TESLA P100' selected
+2024-05-24 00:12:17 INFO  :41 - Trying to click web element [[FirefoxDriver: firefox on windows (667cdf17-9961-40e2-8000-18599db684ee)] -> xpath: //span[contains(text(), 'Number of GPUs')]/ancestor::div[2]]
+2024-05-24 00:12:18 INFO  :52 - Web element [[FirefoxDriver: firefox on windows (667cdf17-9961-40e2-8000-18599db684ee)] -> xpath: //span[contains(text(), 'Number of GPUs')]/ancestor::div[2]]clicked
+2024-05-24 00:12:18 INFO  :41 - Trying to click web element [[FirefoxDriver: firefox on windows (667cdf17-9961-40e2-8000-18599db684ee)] -> xpath: //ul[contains(@aria-label, 'Number of GPUs')]//li[contains(@data-value, '1')]]
+2024-05-24 00:12:19 INFO  :52 - Web element [[FirefoxDriver: firefox on windows (667cdf17-9961-40e2-8000-18599db684ee)] -> xpath: //ul[contains(@aria-label, 'Number of GPUs')]//li[contains(@data-value, '1')]]clicked
+2024-05-24 00:12:19 INFO  :88 - Number of GPUs '1' selected
+2024-05-24 00:12:19 INFO  :41 - Trying to click web element [[FirefoxDriver: firefox on windows (667cdf17-9961-40e2-8000-18599db684ee)] -> xpath: //span[contains(text(), 'Local SSD')]/ancestor::div[2]]
+2024-05-24 00:12:19 INFO  :52 - Web element [[FirefoxDriver: firefox on windows (667cdf17-9961-40e2-8000-18599db684ee)] -> xpath: //span[contains(text(), 'Local SSD')]/ancestor::div[2]]clicked
+2024-05-24 00:12:19 INFO  :41 - Trying to click web element [[FirefoxDriver: firefox on windows (667cdf17-9961-40e2-8000-18599db684ee)] -> xpath: //span[contains(text(), '2x375 GB')]/ancestor::li]
+2024-05-24 00:12:20 INFO  :52 - Web element [[FirefoxDriver: firefox on windows (667cdf17-9961-40e2-8000-18599db684ee)] -> xpath: //span[contains(text(), '2x375 GB')]/ancestor::li]clicked
+2024-05-24 00:12:20 INFO  :93 - Local SSD '2x375 GB' selected
+2024-05-24 00:12:20 INFO  :41 - Trying to click web element [[FirefoxDriver: firefox on windows (667cdf17-9961-40e2-8000-18599db684ee)] -> xpath: //span[contains(text(), 'Region')]/ancestor::div[2]]
+2024-05-24 00:12:21 INFO  :52 - Web element [[FirefoxDriver: firefox on windows (667cdf17-9961-40e2-8000-18599db684ee)] -> xpath: //span[contains(text(), 'Region')]/ancestor::div[2]]clicked
+2024-05-24 00:12:21 INFO  :41 - Trying to click web element [[FirefoxDriver: firefox on windows (667cdf17-9961-40e2-8000-18599db684ee)] -> xpath: //span[contains(text(), 'South Carolina (us-east1)')]/ancestor::li]
+2024-05-24 00:12:22 INFO  :52 - Web element [[FirefoxDriver: firefox on windows (667cdf17-9961-40e2-8000-18599db684ee)] -> xpath: //span[contains(text(), 'South Carolina (us-east1)')]/ancestor::li]clicked
+2024-05-24 00:12:22 INFO  :97 - Datacenter Location 'South Carolina (us-east1)' selected
+2024-05-24 00:12:22 INFO  :41 - Trying to click web element [[FirefoxDriver: firefox on windows (667cdf17-9961-40e2-8000-18599db684ee)] -> xpath: //label[contains(text(), '1 year')]/ancestor::div[1]]
+2024-05-24 00:12:23 INFO  :52 - Web element [[FirefoxDriver: firefox on windows (667cdf17-9961-40e2-8000-18599db684ee)] -> xpath: //label[contains(text(), '1 year')]/ancestor::div[1]]clicked
+2024-05-24 00:12:23 INFO  :101 - Committed usage '1 year' selected
+2024-05-24 00:12:24 INFO  :127 - Waited for cost '$3,535.70' evaluated
+2024-05-24 00:12:24 INFO  :41 - Trying to click web element [[FirefoxDriver: firefox on windows (667cdf17-9961-40e2-8000-18599db684ee)] -> xpath: //button[contains(@aria-label, 'Open Share Estimate dialog')]]
+2024-05-24 00:12:24 INFO  :52 - Web element [[FirefoxDriver: firefox on windows (667cdf17-9961-40e2-8000-18599db684ee)] -> xpath: //button[contains(@aria-label, 'Open Share Estimate dialog')]]clicked
+2024-05-24 00:12:24 INFO  :136 - Open share estimate clicked
+2024-05-24 00:12:25 INFO  :41 - Trying to click web element [[FirefoxDriver: firefox on windows (667cdf17-9961-40e2-8000-18599db684ee)] -> xpath: //a[contains(@track-name, 'open estimate summary')]]
+2024-05-24 00:12:26 INFO  :52 - Web element [[FirefoxDriver: firefox on windows (667cdf17-9961-40e2-8000-18599db684ee)] -> xpath: //a[contains(@track-name, 'open estimate summary')]]clicked
+2024-05-24 00:12:26 INFO  :143 - Open estimate summary clicked
+2024-05-24 00:12:26 INFO  :45 - WebDriver switched to last window
+2024-05-24 00:12:26 INFO  :92 - Checking committed usage
+2024-05-24 00:12:27 INFO  :50 - Checking total estimated cost
+2024-05-24 00:12:27 INFO  :86 - Checking datacenter Location
+2024-05-24 00:12:27 INFO  :104 - Checking GPU model
+2024-05-24 00:12:28 INFO  :80 - Checking local SSD
+2024-05-24 00:12:28 INFO  :74 - Checking machine type
+2024-05-24 00:12:28 INFO  :98 - Checking number of GPUs
+2024-05-24 00:12:28 INFO  :62 - Checking provisioning model
+2024-05-24 00:12:29 INFO  :68 - Checking operation system software
+2024-05-24 00:13:34 INFO  :24 - Google Cloud homepage opened
+2024-05-24 00:13:41 INFO  :41 - Trying to click web element [[FirefoxDriver: firefox on windows (48199667-b29d-45ce-aece-ca1ff6a57416)] -> xpath: //div[@jsname='Ohx1pb']]
+2024-05-24 00:13:42 INFO  :52 - Web element [[FirefoxDriver: firefox on windows (48199667-b29d-45ce-aece-ca1ff6a57416)] -> xpath: //div[@jsname='Ohx1pb']]clicked
+2024-05-24 00:13:43 INFO  :38 - Search request + 'Google Cloud Pricing Calculator' sent
+2024-05-24 00:13:45 INFO  :41 - Trying to click web element [[FirefoxDriver: firefox on windows (48199667-b29d-45ce-aece-ca1ff6a57416)] -> xpath: //a[contains(text(), 'Google Cloud Pricing Calculator')]]
+2024-05-24 00:13:49 INFO  :52 - Web element Proxy element for: DefaultElementLocator 'By.xpath: //a[contains(text(), 'Google Cloud Pricing Calculator')]'clicked
+2024-05-24 00:13:49 INFO  :26 - Google Cloud Pricing Calculator page opened
+2024-05-24 00:13:51 INFO  :35 - [[FirefoxDriver: firefox on windows (48199667-b29d-45ce-aece-ca1ff6a57416)] -> xpath: //c-wiz[1]//button] clicked
+2024-05-24 00:13:55 INFO  :35 - [[FirefoxDriver: firefox on windows (48199667-b29d-45ce-aece-ca1ff6a57416)] -> xpath: //div[h2/text()='Compute Engine']] clicked
+2024-05-24 00:13:57 INFO  :56 - Number of instances '4' selected
+2024-05-24 00:13:58 INFO  :41 - Trying to click web element [[FirefoxDriver: firefox on windows (48199667-b29d-45ce-aece-ca1ff6a57416)] -> xpath: //span[contains(text(), 'Operating System / Software')]/ancestor::div[2]]
+2024-05-24 00:13:59 INFO  :52 - Web element [[FirefoxDriver: firefox on windows (48199667-b29d-45ce-aece-ca1ff6a57416)] -> xpath: //span[contains(text(), 'Operating System / Software')]/ancestor::div[2]]clicked
+2024-05-24 00:13:59 INFO  :41 - Trying to click web element [[FirefoxDriver: firefox on windows (48199667-b29d-45ce-aece-ca1ff6a57416)] -> xpath: //span[contains(text(), 'Free: Debian, CentOS, CoreOS, Ubuntu or BYOL (Bring Your Own License)')]/ancestor::li]
+2024-05-24 00:14:00 INFO  :52 - Web element [[FirefoxDriver: firefox on windows (48199667-b29d-45ce-aece-ca1ff6a57416)] -> xpath: //span[contains(text(), 'Free: Debian, CentOS, CoreOS, Ubuntu or BYOL (Bring Your Own License)')]/ancestor::li]clicked
+2024-05-24 00:14:00 INFO  :60 - Operation system software 'Free: Debian, CentOS, CoreOS, Ubuntu or BYOL (Bring Your Own License)' selected
+2024-05-24 00:14:00 INFO  :41 - Trying to click web element [[FirefoxDriver: firefox on windows (48199667-b29d-45ce-aece-ca1ff6a57416)] -> xpath: //label[contains(text(), 'Regular')]/parent::*]
+2024-05-24 00:14:01 INFO  :52 - Web element [[FirefoxDriver: firefox on windows (48199667-b29d-45ce-aece-ca1ff6a57416)] -> xpath: //label[contains(text(), 'Regular')]/parent::*]clicked
+2024-05-24 00:14:01 INFO  :63 - Provision model 'Regular' selected
+2024-05-24 00:14:01 INFO  :41 - Trying to click web element [[FirefoxDriver: firefox on windows (48199667-b29d-45ce-aece-ca1ff6a57416)] -> xpath: //span[contains(text(), 'Machine Family')]/ancestor::div[2]]
+2024-05-24 00:14:02 INFO  :52 - Web element [[FirefoxDriver: firefox on windows (48199667-b29d-45ce-aece-ca1ff6a57416)] -> xpath: //span[contains(text(), 'Machine Family')]/ancestor::div[2]]clicked
+2024-05-24 00:14:02 INFO  :41 - Trying to click web element [[FirefoxDriver: firefox on windows (48199667-b29d-45ce-aece-ca1ff6a57416)] -> xpath: //span[contains(text(), 'General Purpose')]/ancestor::li]
+2024-05-24 00:14:03 INFO  :52 - Web element [[FirefoxDriver: firefox on windows (48199667-b29d-45ce-aece-ca1ff6a57416)] -> xpath: //span[contains(text(), 'General Purpose')]/ancestor::li]clicked
+2024-05-24 00:14:03 INFO  :67 - Machine family 'General Purpose' selected
+2024-05-24 00:14:03 INFO  :41 - Trying to click web element [[FirefoxDriver: firefox on windows (48199667-b29d-45ce-aece-ca1ff6a57416)] -> xpath: //span[contains(text(), 'Series')]/ancestor::div[2]]
+2024-05-24 00:14:04 INFO  :52 - Web element [[FirefoxDriver: firefox on windows (48199667-b29d-45ce-aece-ca1ff6a57416)] -> xpath: //span[contains(text(), 'Series')]/ancestor::div[2]]clicked
+2024-05-24 00:14:04 INFO  :41 - Trying to click web element [[FirefoxDriver: firefox on windows (48199667-b29d-45ce-aece-ca1ff6a57416)] -> xpath: //span[contains(text(), 'N1')]/ancestor::li]
+2024-05-24 00:14:04 INFO  :52 - Web element [[FirefoxDriver: firefox on windows (48199667-b29d-45ce-aece-ca1ff6a57416)] -> xpath: //span[contains(text(), 'N1')]/ancestor::li]clicked
+2024-05-24 00:14:04 INFO  :71 - Series 'N1' selected
+2024-05-24 00:14:04 INFO  :41 - Trying to click web element [[FirefoxDriver: firefox on windows (48199667-b29d-45ce-aece-ca1ff6a57416)] -> xpath: //span[contains(text(), 'Machine type')]/ancestor::div[2]]
+2024-05-24 00:14:05 INFO  :52 - Web element [[FirefoxDriver: firefox on windows (48199667-b29d-45ce-aece-ca1ff6a57416)] -> xpath: //span[contains(text(), 'Machine type')]/ancestor::div[2]]clicked
+2024-05-24 00:14:06 INFO  :41 - Trying to click web element [[FirefoxDriver: firefox on windows (48199667-b29d-45ce-aece-ca1ff6a57416)] -> xpath: //span[contains(text(), 'n1-standard-8')]/ancestor::li]
+2024-05-24 00:14:07 INFO  :52 - Web element [[FirefoxDriver: firefox on windows (48199667-b29d-45ce-aece-ca1ff6a57416)] -> xpath: //span[contains(text(), 'n1-standard-8')]/ancestor::li]clicked
+2024-05-24 00:14:07 INFO  :75 - machine type 'n1-standard-8' selected
+2024-05-24 00:14:07 INFO  :41 - Trying to click web element [[FirefoxDriver: firefox on windows (48199667-b29d-45ce-aece-ca1ff6a57416)] -> xpath: //button[contains(@aria-label, 'Add GPUs')]/ancestor::div[4]]
+2024-05-24 00:14:09 INFO  :52 - Web element [[FirefoxDriver: firefox on windows (48199667-b29d-45ce-aece-ca1ff6a57416)] -> xpath: //button[contains(@aria-label, 'Add GPUs')]/ancestor::div[4]]clicked
+2024-05-24 00:14:09 INFO  :80 - Added GPUS 'true' selected
+2024-05-24 00:14:09 INFO  :41 - Trying to click web element [[FirefoxDriver: firefox on windows (48199667-b29d-45ce-aece-ca1ff6a57416)] -> xpath: //span[contains(text(), 'GPU Model')]/ancestor::div[2]]
+2024-05-24 00:14:10 INFO  :52 - Web element [[FirefoxDriver: firefox on windows (48199667-b29d-45ce-aece-ca1ff6a57416)] -> xpath: //span[contains(text(), 'GPU Model')]/ancestor::div[2]]clicked
+2024-05-24 00:14:10 INFO  :41 - Trying to click web element [[FirefoxDriver: firefox on windows (48199667-b29d-45ce-aece-ca1ff6a57416)] -> xpath: //span[contains(text(), 'NVIDIA TESLA P100')]/ancestor::li]
+2024-05-24 00:14:11 INFO  :52 - Web element [[FirefoxDriver: firefox on windows (48199667-b29d-45ce-aece-ca1ff6a57416)] -> xpath: //span[contains(text(), 'NVIDIA TESLA P100')]/ancestor::li]clicked
+2024-05-24 00:14:11 INFO  :84 - GPU type 'NVIDIA TESLA P100' selected
+2024-05-24 00:14:11 INFO  :41 - Trying to click web element [[FirefoxDriver: firefox on windows (48199667-b29d-45ce-aece-ca1ff6a57416)] -> xpath: //span[contains(text(), 'Number of GPUs')]/ancestor::div[2]]
+2024-05-24 00:14:12 INFO  :52 - Web element [[FirefoxDriver: firefox on windows (48199667-b29d-45ce-aece-ca1ff6a57416)] -> xpath: //span[contains(text(), 'Number of GPUs')]/ancestor::div[2]]clicked
+2024-05-24 00:14:12 INFO  :41 - Trying to click web element [[FirefoxDriver: firefox on windows (48199667-b29d-45ce-aece-ca1ff6a57416)] -> xpath: //ul[contains(@aria-label, 'Number of GPUs')]//li[contains(@data-value, '1')]]
+2024-05-24 00:14:13 INFO  :52 - Web element [[FirefoxDriver: firefox on windows (48199667-b29d-45ce-aece-ca1ff6a57416)] -> xpath: //ul[contains(@aria-label, 'Number of GPUs')]//li[contains(@data-value, '1')]]clicked
+2024-05-24 00:14:13 INFO  :88 - Number of GPUs '1' selected
+2024-05-24 00:14:13 INFO  :41 - Trying to click web element [[FirefoxDriver: firefox on windows (48199667-b29d-45ce-aece-ca1ff6a57416)] -> xpath: //span[contains(text(), 'Local SSD')]/ancestor::div[2]]
+2024-05-24 00:14:14 INFO  :52 - Web element [[FirefoxDriver: firefox on windows (48199667-b29d-45ce-aece-ca1ff6a57416)] -> xpath: //span[contains(text(), 'Local SSD')]/ancestor::div[2]]clicked
+2024-05-24 00:14:14 INFO  :41 - Trying to click web element [[FirefoxDriver: firefox on windows (48199667-b29d-45ce-aece-ca1ff6a57416)] -> xpath: //span[contains(text(), '2x375 GB')]/ancestor::li]
+2024-05-24 00:14:15 INFO  :52 - Web element [[FirefoxDriver: firefox on windows (48199667-b29d-45ce-aece-ca1ff6a57416)] -> xpath: //span[contains(text(), '2x375 GB')]/ancestor::li]clicked
+2024-05-24 00:14:15 INFO  :93 - Local SSD '2x375 GB' selected
+2024-05-24 00:14:15 INFO  :41 - Trying to click web element [[FirefoxDriver: firefox on windows (48199667-b29d-45ce-aece-ca1ff6a57416)] -> xpath: //span[contains(text(), 'Region')]/ancestor::div[2]]
+2024-05-24 00:14:16 INFO  :52 - Web element [[FirefoxDriver: firefox on windows (48199667-b29d-45ce-aece-ca1ff6a57416)] -> xpath: //span[contains(text(), 'Region')]/ancestor::div[2]]clicked
+2024-05-24 00:14:16 INFO  :41 - Trying to click web element [[FirefoxDriver: firefox on windows (48199667-b29d-45ce-aece-ca1ff6a57416)] -> xpath: //span[contains(text(), 'South Carolina (us-east1)')]/ancestor::li]
+2024-05-24 00:14:17 INFO  :52 - Web element [[FirefoxDriver: firefox on windows (48199667-b29d-45ce-aece-ca1ff6a57416)] -> xpath: //span[contains(text(), 'South Carolina (us-east1)')]/ancestor::li]clicked
+2024-05-24 00:14:17 INFO  :97 - Datacenter Location 'South Carolina (us-east1)' selected
+2024-05-24 00:14:18 INFO  :41 - Trying to click web element [[FirefoxDriver: firefox on windows (48199667-b29d-45ce-aece-ca1ff6a57416)] -> xpath: //label[contains(text(), '1 year')]/ancestor::div[1]]
+2024-05-24 00:14:18 INFO  :52 - Web element [[FirefoxDriver: firefox on windows (48199667-b29d-45ce-aece-ca1ff6a57416)] -> xpath: //label[contains(text(), '1 year')]/ancestor::div[1]]clicked
+2024-05-24 00:14:18 INFO  :101 - Committed usage '1 year' selected
+2024-05-24 00:21:53 INFO  :24 - Google Cloud homepage opened
+2024-05-24 00:21:56 INFO  :41 - Trying to click web element [[FirefoxDriver: firefox on windows (a2103232-098a-4d2c-81dc-8368688e6051)] -> xpath: //div[@jsname='Ohx1pb']]
+2024-05-24 00:21:57 INFO  :52 - Web element [[FirefoxDriver: firefox on windows (a2103232-098a-4d2c-81dc-8368688e6051)] -> xpath: //div[@jsname='Ohx1pb']]clicked
+2024-05-24 00:21:57 INFO  :38 - Search request + 'Google Cloud Pricing Calculator' sent
+2024-05-24 00:21:59 INFO  :41 - Trying to click web element [[FirefoxDriver: firefox on windows (a2103232-098a-4d2c-81dc-8368688e6051)] -> xpath: //a[contains(text(), 'Google Cloud Pricing Calculator')]]
+2024-05-24 00:22:00 INFO  :52 - Web element Proxy element for: DefaultElementLocator 'By.xpath: //a[contains(text(), 'Google Cloud Pricing Calculator')]'clicked
+2024-05-24 00:22:00 INFO  :26 - Google Cloud Pricing Calculator page opened
+2024-05-24 00:22:01 INFO  :35 - [[FirefoxDriver: firefox on windows (a2103232-098a-4d2c-81dc-8368688e6051)] -> xpath: //c-wiz[1]//button] clicked
+2024-05-24 00:22:01 INFO  :35 - [[FirefoxDriver: firefox on windows (a2103232-098a-4d2c-81dc-8368688e6051)] -> xpath: //div[h2/text()='Compute Engine']] clicked
+2024-05-24 00:22:34 INFO  :24 - Google Cloud homepage opened
+2024-05-24 00:22:38 INFO  :41 - Trying to click web element [[ChromeDriver: chrome on windows (e48cf7a128ba75b4dc73f4ded7ad2dd9)] -> xpath: //div[@jsname='Ohx1pb']]
+2024-05-24 00:22:38 INFO  :52 - Web element [[ChromeDriver: chrome on windows (e48cf7a128ba75b4dc73f4ded7ad2dd9)] -> xpath: //div[@jsname='Ohx1pb']]clicked
+2024-05-24 00:22:38 INFO  :38 - Search request + 'Google Cloud Pricing Calculator' sent
+2024-05-24 00:22:40 INFO  :41 - Trying to click web element [[ChromeDriver: chrome on windows (e48cf7a128ba75b4dc73f4ded7ad2dd9)] -> xpath: //a[contains(text(), 'Google Cloud Pricing Calculator')]]
+2024-05-24 00:22:41 INFO  :52 - Web element Proxy element for: DefaultElementLocator 'By.xpath: //a[contains(text(), 'Google Cloud Pricing Calculator')]'clicked
+2024-05-24 00:22:41 INFO  :26 - Google Cloud Pricing Calculator page opened
+2024-05-24 00:22:42 INFO  :35 - [[ChromeDriver: chrome on windows (e48cf7a128ba75b4dc73f4ded7ad2dd9)] -> xpath: //c-wiz[1]//button] clicked
+2024-05-24 00:22:43 INFO  :35 - [[ChromeDriver: chrome on windows (e48cf7a128ba75b4dc73f4ded7ad2dd9)] -> xpath: //div[h2/text()='Compute Engine']] clicked
+2024-05-24 00:22:44 INFO  :56 - Number of instances '4' selected
+2024-05-24 00:22:44 INFO  :41 - Trying to click web element [[ChromeDriver: chrome on windows (e48cf7a128ba75b4dc73f4ded7ad2dd9)] -> xpath: //span[contains(text(), 'Operating System / Software')]/ancestor::div[2]]
+2024-05-24 00:22:44 INFO  :52 - Web element [[ChromeDriver: chrome on windows (e48cf7a128ba75b4dc73f4ded7ad2dd9)] -> xpath: //span[contains(text(), 'Operating System / Software')]/ancestor::div[2]]clicked
+2024-05-24 00:22:45 INFO  :41 - Trying to click web element [[ChromeDriver: chrome on windows (e48cf7a128ba75b4dc73f4ded7ad2dd9)] -> xpath: //span[contains(text(), 'Free: Debian, CentOS, CoreOS, Ubuntu or BYOL (Bring Your Own License)')]/ancestor::li]
+2024-05-24 00:22:45 INFO  :52 - Web element [[ChromeDriver: chrome on windows (e48cf7a128ba75b4dc73f4ded7ad2dd9)] -> xpath: //span[contains(text(), 'Free: Debian, CentOS, CoreOS, Ubuntu or BYOL (Bring Your Own License)')]/ancestor::li]clicked
+2024-05-24 00:22:45 INFO  :60 - Operation system software 'Free: Debian, CentOS, CoreOS, Ubuntu or BYOL (Bring Your Own License)' selected
+2024-05-24 00:22:45 INFO  :41 - Trying to click web element [[ChromeDriver: chrome on windows (e48cf7a128ba75b4dc73f4ded7ad2dd9)] -> xpath: //label[contains(text(), 'Regular')]/parent::*]
+2024-05-24 00:22:45 INFO  :52 - Web element [[ChromeDriver: chrome on windows (e48cf7a128ba75b4dc73f4ded7ad2dd9)] -> xpath: //label[contains(text(), 'Regular')]/parent::*]clicked
+2024-05-24 00:22:45 INFO  :63 - Provision model 'Regular' selected
+2024-05-24 00:22:45 INFO  :41 - Trying to click web element [[ChromeDriver: chrome on windows (e48cf7a128ba75b4dc73f4ded7ad2dd9)] -> xpath: //span[contains(text(), 'Machine Family')]/ancestor::div[2]]
+2024-05-24 00:22:45 INFO  :52 - Web element [[ChromeDriver: chrome on windows (e48cf7a128ba75b4dc73f4ded7ad2dd9)] -> xpath: //span[contains(text(), 'Machine Family')]/ancestor::div[2]]clicked
+2024-05-24 00:22:45 INFO  :41 - Trying to click web element [[ChromeDriver: chrome on windows (e48cf7a128ba75b4dc73f4ded7ad2dd9)] -> xpath: //span[contains(text(), 'General Purpose')]/ancestor::li]
+2024-05-24 00:22:46 INFO  :52 - Web element [[ChromeDriver: chrome on windows (e48cf7a128ba75b4dc73f4ded7ad2dd9)] -> xpath: //span[contains(text(), 'General Purpose')]/ancestor::li]clicked
+2024-05-24 00:22:46 INFO  :67 - Machine family 'General Purpose' selected
+2024-05-24 00:22:46 INFO  :41 - Trying to click web element [[ChromeDriver: chrome on windows (e48cf7a128ba75b4dc73f4ded7ad2dd9)] -> xpath: //span[contains(text(), 'Series')]/ancestor::div[2]]
+2024-05-24 00:22:46 INFO  :52 - Web element [[ChromeDriver: chrome on windows (e48cf7a128ba75b4dc73f4ded7ad2dd9)] -> xpath: //span[contains(text(), 'Series')]/ancestor::div[2]]clicked
+2024-05-24 00:22:46 INFO  :41 - Trying to click web element [[ChromeDriver: chrome on windows (e48cf7a128ba75b4dc73f4ded7ad2dd9)] -> xpath: //span[contains(text(), 'N1')]/ancestor::li]
+2024-05-24 00:22:46 INFO  :52 - Web element [[ChromeDriver: chrome on windows (e48cf7a128ba75b4dc73f4ded7ad2dd9)] -> xpath: //span[contains(text(), 'N1')]/ancestor::li]clicked
+2024-05-24 00:22:46 INFO  :71 - Series 'N1' selected
+2024-05-24 00:22:46 INFO  :41 - Trying to click web element [[ChromeDriver: chrome on windows (e48cf7a128ba75b4dc73f4ded7ad2dd9)] -> xpath: //span[contains(text(), 'Machine type')]/ancestor::div[2]]
+2024-05-24 00:22:47 INFO  :52 - Web element [[ChromeDriver: chrome on windows (e48cf7a128ba75b4dc73f4ded7ad2dd9)] -> xpath: //span[contains(text(), 'Machine type')]/ancestor::div[2]]clicked
+2024-05-24 00:22:47 INFO  :41 - Trying to click web element [[ChromeDriver: chrome on windows (e48cf7a128ba75b4dc73f4ded7ad2dd9)] -> xpath: //span[contains(text(), 'n1-standard-8')]/ancestor::li]
+2024-05-24 00:22:47 INFO  :52 - Web element [[ChromeDriver: chrome on windows (e48cf7a128ba75b4dc73f4ded7ad2dd9)] -> xpath: //span[contains(text(), 'n1-standard-8')]/ancestor::li]clicked
+2024-05-24 00:22:47 INFO  :75 - machine type 'n1-standard-8' selected
+2024-05-24 00:22:47 INFO  :41 - Trying to click web element [[ChromeDriver: chrome on windows (e48cf7a128ba75b4dc73f4ded7ad2dd9)] -> xpath: //button[contains(@aria-label, 'Add GPUs')]/ancestor::div[4]]
+2024-05-24 00:22:48 INFO  :52 - Web element [[ChromeDriver: chrome on windows (e48cf7a128ba75b4dc73f4ded7ad2dd9)] -> xpath: //button[contains(@aria-label, 'Add GPUs')]/ancestor::div[4]]clicked
+2024-05-24 00:22:48 INFO  :80 - Added GPUS 'true' selected
+2024-05-24 00:22:48 INFO  :41 - Trying to click web element Proxy element for: DefaultElementLocator 'By.xpath: //span[contains(text(), 'GPU Model')]/ancestor::div[2]'
+2024-05-24 00:22:48 INFO  :52 - Web element [[ChromeDriver: chrome on windows (e48cf7a128ba75b4dc73f4ded7ad2dd9)] -> xpath: //span[contains(text(), 'GPU Model')]/ancestor::div[2]]clicked
+2024-05-24 00:22:48 INFO  :41 - Trying to click web element [[ChromeDriver: chrome on windows (e48cf7a128ba75b4dc73f4ded7ad2dd9)] -> xpath: //span[contains(text(), 'NVIDIA TESLA P100')]/ancestor::li]
+2024-05-24 00:22:49 INFO  :52 - Web element [[ChromeDriver: chrome on windows (e48cf7a128ba75b4dc73f4ded7ad2dd9)] -> xpath: //span[contains(text(), 'NVIDIA TESLA P100')]/ancestor::li]clicked
+2024-05-24 00:22:49 INFO  :84 - GPU type 'NVIDIA TESLA P100' selected
+2024-05-24 00:22:49 INFO  :41 - Trying to click web element [[ChromeDriver: chrome on windows (e48cf7a128ba75b4dc73f4ded7ad2dd9)] -> xpath: //span[contains(text(), 'Number of GPUs')]/ancestor::div[2]]
+2024-05-24 00:22:49 INFO  :52 - Web element [[ChromeDriver: chrome on windows (e48cf7a128ba75b4dc73f4ded7ad2dd9)] -> xpath: //span[contains(text(), 'Number of GPUs')]/ancestor::div[2]]clicked
+2024-05-24 00:22:49 INFO  :41 - Trying to click web element [[ChromeDriver: chrome on windows (e48cf7a128ba75b4dc73f4ded7ad2dd9)] -> xpath: //ul[contains(@aria-label, 'Number of GPUs')]//li[contains(@data-value, '1')]]
+2024-05-24 00:22:50 INFO  :52 - Web element [[ChromeDriver: chrome on windows (e48cf7a128ba75b4dc73f4ded7ad2dd9)] -> xpath: //ul[contains(@aria-label, 'Number of GPUs')]//li[contains(@data-value, '1')]]clicked
+2024-05-24 00:22:50 INFO  :88 - Number of GPUs '1' selected
+2024-05-24 00:22:50 INFO  :41 - Trying to click web element [[ChromeDriver: chrome on windows (e48cf7a128ba75b4dc73f4ded7ad2dd9)] -> xpath: //span[contains(text(), 'Local SSD')]/ancestor::div[2]]
+2024-05-24 00:22:50 INFO  :52 - Web element [[ChromeDriver: chrome on windows (e48cf7a128ba75b4dc73f4ded7ad2dd9)] -> xpath: //span[contains(text(), 'Local SSD')]/ancestor::div[2]]clicked
+2024-05-24 00:22:50 INFO  :41 - Trying to click web element [[ChromeDriver: chrome on windows (e48cf7a128ba75b4dc73f4ded7ad2dd9)] -> xpath: //span[contains(text(), '2x375 GB')]/ancestor::li]
+2024-05-24 00:22:50 INFO  :52 - Web element [[ChromeDriver: chrome on windows (e48cf7a128ba75b4dc73f4ded7ad2dd9)] -> xpath: //span[contains(text(), '2x375 GB')]/ancestor::li]clicked
+2024-05-24 00:22:50 INFO  :93 - Local SSD '2x375 GB' selected
+2024-05-24 00:22:51 INFO  :41 - Trying to click web element [[ChromeDriver: chrome on windows (e48cf7a128ba75b4dc73f4ded7ad2dd9)] -> xpath: //span[contains(text(), 'Region')]/ancestor::div[2]]
+2024-05-24 00:22:51 INFO  :52 - Web element [[ChromeDriver: chrome on windows (e48cf7a128ba75b4dc73f4ded7ad2dd9)] -> xpath: //span[contains(text(), 'Region')]/ancestor::div[2]]clicked
+2024-05-24 00:22:51 INFO  :41 - Trying to click web element [[ChromeDriver: chrome on windows (e48cf7a128ba75b4dc73f4ded7ad2dd9)] -> xpath: //span[contains(text(), 'South Carolina (us-east1)')]/ancestor::li]
+2024-05-24 00:22:51 INFO  :52 - Web element [[ChromeDriver: chrome on windows (e48cf7a128ba75b4dc73f4ded7ad2dd9)] -> xpath: //span[contains(text(), 'South Carolina (us-east1)')]/ancestor::li]clicked
+2024-05-24 00:22:51 INFO  :97 - Datacenter Location 'South Carolina (us-east1)' selected
+2024-05-24 00:22:52 INFO  :41 - Trying to click web element [[ChromeDriver: chrome on windows (e48cf7a128ba75b4dc73f4ded7ad2dd9)] -> xpath: //label[contains(text(), '1 year')]/ancestor::div[1]]
+2024-05-24 00:22:52 INFO  :52 - Web element [[ChromeDriver: chrome on windows (e48cf7a128ba75b4dc73f4ded7ad2dd9)] -> xpath: //label[contains(text(), '1 year')]/ancestor::div[1]]clicked
+2024-05-24 00:22:52 INFO  :101 - Committed usage '1 year' selected
+2024-05-24 00:27:30 INFO  :20 - Google Cloud homepage opened
+2024-05-24 00:27:33 INFO  :41 - Trying to click web element [[ChromeDriver: chrome on windows (8874f249613a7709bf04ab3e984bf2d4)] -> xpath: //div[@jsname='Ohx1pb']]
+2024-05-24 00:27:33 INFO  :52 - Web element [[ChromeDriver: chrome on windows (8874f249613a7709bf04ab3e984bf2d4)] -> xpath: //div[@jsname='Ohx1pb']]clicked
+2024-05-24 00:27:34 INFO  :34 - Search request + 'Google Cloud Pricing Calculator' sent
+2024-05-24 00:27:35 INFO  :41 - Trying to click web element [[ChromeDriver: chrome on windows (8874f249613a7709bf04ab3e984bf2d4)] -> xpath: //a[contains(text(), 'Google Cloud Pricing Calculator')]]
+2024-05-24 00:27:36 INFO  :52 - Web element Proxy element for: DefaultElementLocator 'By.xpath: //a[contains(text(), 'Google Cloud Pricing Calculator')]'clicked
+2024-05-24 00:27:36 INFO  :21 - Google Cloud Pricing Calculator page opened
+2024-05-24 00:27:37 INFO  :35 - [[ChromeDriver: chrome on windows (8874f249613a7709bf04ab3e984bf2d4)] -> xpath: //c-wiz[1]//button] clicked
+2024-05-24 00:27:37 INFO  :35 - [[ChromeDriver: chrome on windows (8874f249613a7709bf04ab3e984bf2d4)] -> xpath: //div[h2/text()='Compute Engine']] clicked
+2024-05-24 00:27:38 INFO  :56 - Number of instances '4' selected
+2024-05-24 00:27:38 INFO  :41 - Trying to click web element [[ChromeDriver: chrome on windows (8874f249613a7709bf04ab3e984bf2d4)] -> xpath: //span[contains(text(), 'Operating System / Software')]/ancestor::div[2]]
+2024-05-24 00:27:39 INFO  :52 - Web element [[ChromeDriver: chrome on windows (8874f249613a7709bf04ab3e984bf2d4)] -> xpath: //span[contains(text(), 'Operating System / Software')]/ancestor::div[2]]clicked
+2024-05-24 00:27:39 INFO  :41 - Trying to click web element [[ChromeDriver: chrome on windows (8874f249613a7709bf04ab3e984bf2d4)] -> xpath: //span[contains(text(), 'Free: Debian, CentOS, CoreOS, Ubuntu or BYOL (Bring Your Own License)')]/ancestor::li]
+2024-05-24 00:27:39 INFO  :52 - Web element [[ChromeDriver: chrome on windows (8874f249613a7709bf04ab3e984bf2d4)] -> xpath: //span[contains(text(), 'Free: Debian, CentOS, CoreOS, Ubuntu or BYOL (Bring Your Own License)')]/ancestor::li]clicked
+2024-05-24 00:27:39 INFO  :60 - Operation system software 'Free: Debian, CentOS, CoreOS, Ubuntu or BYOL (Bring Your Own License)' selected
+2024-05-24 00:27:39 INFO  :41 - Trying to click web element [[ChromeDriver: chrome on windows (8874f249613a7709bf04ab3e984bf2d4)] -> xpath: //label[contains(text(), 'Regular')]/parent::*]
+2024-05-24 00:27:39 INFO  :52 - Web element [[ChromeDriver: chrome on windows (8874f249613a7709bf04ab3e984bf2d4)] -> xpath: //label[contains(text(), 'Regular')]/parent::*]clicked
+2024-05-24 00:27:39 INFO  :63 - Provision model 'Regular' selected
+2024-05-24 00:27:39 INFO  :41 - Trying to click web element [[ChromeDriver: chrome on windows (8874f249613a7709bf04ab3e984bf2d4)] -> xpath: //span[contains(text(), 'Machine Family')]/ancestor::div[2]]
+2024-05-24 00:27:39 INFO  :52 - Web element [[ChromeDriver: chrome on windows (8874f249613a7709bf04ab3e984bf2d4)] -> xpath: //span[contains(text(), 'Machine Family')]/ancestor::div[2]]clicked
+2024-05-24 00:27:39 INFO  :41 - Trying to click web element [[ChromeDriver: chrome on windows (8874f249613a7709bf04ab3e984bf2d4)] -> xpath: //span[contains(text(), 'General Purpose')]/ancestor::li]
+2024-05-24 00:27:40 INFO  :52 - Web element [[ChromeDriver: chrome on windows (8874f249613a7709bf04ab3e984bf2d4)] -> xpath: //span[contains(text(), 'General Purpose')]/ancestor::li]clicked
+2024-05-24 00:27:40 INFO  :67 - Machine family 'General Purpose' selected
+2024-05-24 00:27:40 INFO  :41 - Trying to click web element [[ChromeDriver: chrome on windows (8874f249613a7709bf04ab3e984bf2d4)] -> xpath: //span[contains(text(), 'Series')]/ancestor::div[2]]
+2024-05-24 00:27:40 INFO  :52 - Web element [[ChromeDriver: chrome on windows (8874f249613a7709bf04ab3e984bf2d4)] -> xpath: //span[contains(text(), 'Series')]/ancestor::div[2]]clicked
+2024-05-24 00:27:40 INFO  :41 - Trying to click web element [[ChromeDriver: chrome on windows (8874f249613a7709bf04ab3e984bf2d4)] -> xpath: //span[contains(text(), 'N1')]/ancestor::li]
+2024-05-24 00:27:40 INFO  :52 - Web element [[ChromeDriver: chrome on windows (8874f249613a7709bf04ab3e984bf2d4)] -> xpath: //span[contains(text(), 'N1')]/ancestor::li]clicked
+2024-05-24 00:27:40 INFO  :71 - Series 'N1' selected
+2024-05-24 00:27:40 INFO  :41 - Trying to click web element [[ChromeDriver: chrome on windows (8874f249613a7709bf04ab3e984bf2d4)] -> xpath: //span[contains(text(), 'Machine type')]/ancestor::div[2]]
+2024-05-24 00:27:41 INFO  :52 - Web element [[ChromeDriver: chrome on windows (8874f249613a7709bf04ab3e984bf2d4)] -> xpath: //span[contains(text(), 'Machine type')]/ancestor::div[2]]clicked
+2024-05-24 00:27:41 INFO  :41 - Trying to click web element [[ChromeDriver: chrome on windows (8874f249613a7709bf04ab3e984bf2d4)] -> xpath: //span[contains(text(), 'n1-standard-8')]/ancestor::li]
+2024-05-24 00:27:41 INFO  :52 - Web element [[ChromeDriver: chrome on windows (8874f249613a7709bf04ab3e984bf2d4)] -> xpath: //span[contains(text(), 'n1-standard-8')]/ancestor::li]clicked
+2024-05-24 00:27:41 INFO  :75 - machine type 'n1-standard-8' selected
+2024-05-24 00:27:41 INFO  :41 - Trying to click web element [[ChromeDriver: chrome on windows (8874f249613a7709bf04ab3e984bf2d4)] -> xpath: //button[contains(@aria-label, 'Add GPUs')]/ancestor::div[4]]
+2024-05-24 00:27:41 INFO  :52 - Web element [[ChromeDriver: chrome on windows (8874f249613a7709bf04ab3e984bf2d4)] -> xpath: //button[contains(@aria-label, 'Add GPUs')]/ancestor::div[4]]clicked
+2024-05-24 00:27:41 INFO  :80 - Added GPUS 'true' selected
+2024-05-24 00:27:41 INFO  :41 - Trying to click web element Proxy element for: DefaultElementLocator 'By.xpath: //span[contains(text(), 'GPU Model')]/ancestor::div[2]'
+2024-05-24 00:27:42 INFO  :52 - Web element [[ChromeDriver: chrome on windows (8874f249613a7709bf04ab3e984bf2d4)] -> xpath: //span[contains(text(), 'GPU Model')]/ancestor::div[2]]clicked
+2024-05-24 00:27:42 INFO  :41 - Trying to click web element [[ChromeDriver: chrome on windows (8874f249613a7709bf04ab3e984bf2d4)] -> xpath: //span[contains(text(), 'NVIDIA TESLA P100')]/ancestor::li]
+2024-05-24 00:27:42 INFO  :52 - Web element [[ChromeDriver: chrome on windows (8874f249613a7709bf04ab3e984bf2d4)] -> xpath: //span[contains(text(), 'NVIDIA TESLA P100')]/ancestor::li]clicked
+2024-05-24 00:27:42 INFO  :84 - GPU type 'NVIDIA TESLA P100' selected
+2024-05-24 00:27:43 INFO  :41 - Trying to click web element [[ChromeDriver: chrome on windows (8874f249613a7709bf04ab3e984bf2d4)] -> xpath: //span[contains(text(), 'Number of GPUs')]/ancestor::div[2]]
+2024-05-24 00:27:43 INFO  :52 - Web element [[ChromeDriver: chrome on windows (8874f249613a7709bf04ab3e984bf2d4)] -> xpath: //span[contains(text(), 'Number of GPUs')]/ancestor::div[2]]clicked
+2024-05-24 00:27:43 INFO  :41 - Trying to click web element [[ChromeDriver: chrome on windows (8874f249613a7709bf04ab3e984bf2d4)] -> xpath: //ul[contains(@aria-label, 'Number of GPUs')]//li[contains(@data-value, '1')]]
+2024-05-24 00:27:43 INFO  :52 - Web element [[ChromeDriver: chrome on windows (8874f249613a7709bf04ab3e984bf2d4)] -> xpath: //ul[contains(@aria-label, 'Number of GPUs')]//li[contains(@data-value, '1')]]clicked
+2024-05-24 00:27:43 INFO  :88 - Number of GPUs '1' selected
+2024-05-24 00:27:43 INFO  :41 - Trying to click web element [[ChromeDriver: chrome on windows (8874f249613a7709bf04ab3e984bf2d4)] -> xpath: //span[contains(text(), 'Local SSD')]/ancestor::div[2]]
+2024-05-24 00:27:44 INFO  :52 - Web element [[ChromeDriver: chrome on windows (8874f249613a7709bf04ab3e984bf2d4)] -> xpath: //span[contains(text(), 'Local SSD')]/ancestor::div[2]]clicked
+2024-05-24 00:27:44 INFO  :41 - Trying to click web element [[ChromeDriver: chrome on windows (8874f249613a7709bf04ab3e984bf2d4)] -> xpath: //span[contains(text(), '2x375 GB')]/ancestor::li]
+2024-05-24 00:27:44 INFO  :52 - Web element [[ChromeDriver: chrome on windows (8874f249613a7709bf04ab3e984bf2d4)] -> xpath: //span[contains(text(), '2x375 GB')]/ancestor::li]clicked
+2024-05-24 00:27:44 INFO  :93 - Local SSD '2x375 GB' selected
+2024-05-24 00:27:44 INFO  :41 - Trying to click web element [[ChromeDriver: chrome on windows (8874f249613a7709bf04ab3e984bf2d4)] -> xpath: //span[contains(text(), 'Region')]/ancestor::div[2]]
+2024-05-24 00:27:44 INFO  :52 - Web element [[ChromeDriver: chrome on windows (8874f249613a7709bf04ab3e984bf2d4)] -> xpath: //span[contains(text(), 'Region')]/ancestor::div[2]]clicked
+2024-05-24 00:27:44 INFO  :41 - Trying to click web element [[ChromeDriver: chrome on windows (8874f249613a7709bf04ab3e984bf2d4)] -> xpath: //span[contains(text(), 'South Carolina (us-east1)')]/ancestor::li]
+2024-05-24 00:27:44 INFO  :52 - Web element [[ChromeDriver: chrome on windows (8874f249613a7709bf04ab3e984bf2d4)] -> xpath: //span[contains(text(), 'South Carolina (us-east1)')]/ancestor::li]clicked
+2024-05-24 00:27:44 INFO  :97 - Datacenter Location 'South Carolina (us-east1)' selected
+2024-05-24 00:27:44 INFO  :41 - Trying to click web element [[ChromeDriver: chrome on windows (8874f249613a7709bf04ab3e984bf2d4)] -> xpath: //label[contains(text(), '1 year')]/ancestor::div[1]]
+2024-05-24 00:27:45 INFO  :52 - Web element [[ChromeDriver: chrome on windows (8874f249613a7709bf04ab3e984bf2d4)] -> xpath: //label[contains(text(), '1 year')]/ancestor::div[1]]clicked
+2024-05-24 00:27:45 INFO  :101 - Committed usage '1 year' selected
+2024-05-24 00:27:46 INFO  :110 - Waited for cost '$3,535.70' evaluated
+2024-05-24 00:27:46 INFO  :41 - Trying to click web element [[ChromeDriver: chrome on windows (8874f249613a7709bf04ab3e984bf2d4)] -> xpath: //button[contains(@aria-label, 'Open Share Estimate dialog')]]
+2024-05-24 00:27:46 INFO  :52 - Web element [[ChromeDriver: chrome on windows (8874f249613a7709bf04ab3e984bf2d4)] -> xpath: //button[contains(@aria-label, 'Open Share Estimate dialog')]]clicked
+2024-05-24 00:27:46 INFO  :119 - Open share estimate clicked
+2024-05-24 00:27:47 INFO  :41 - Trying to click web element [[ChromeDriver: chrome on windows (8874f249613a7709bf04ab3e984bf2d4)] -> xpath: //a[contains(@track-name, 'open estimate summary')]]
+2024-05-24 00:27:47 INFO  :52 - Web element [[ChromeDriver: chrome on windows (8874f249613a7709bf04ab3e984bf2d4)] -> xpath: //a[contains(@track-name, 'open estimate summary')]]clicked
+2024-05-24 00:27:47 INFO  :126 - Open estimate summary clicked
+2024-05-24 00:27:47 INFO  :39 - WebDriver switched to last window
+2024-05-24 00:27:47 INFO  :86 - Checking committed usage
+2024-05-24 00:27:49 INFO  :44 - Checking total estimated cost
+2024-05-24 00:27:49 INFO  :80 - Checking datacenter Location
+2024-05-24 00:27:49 INFO  :98 - Checking GPU model
+2024-05-24 00:27:49 INFO  :74 - Checking local SSD
+2024-05-24 00:27:49 INFO  :68 - Checking machine type
+2024-05-24 00:27:49 INFO  :92 - Checking number of GPUs
+2024-05-24 00:27:49 INFO  :56 - Checking provisioning model
+2024-05-24 00:27:49 INFO  :62 - Checking operation system software
+2024-05-24 00:27:49 INFO  :50 - Checking number of instances
+2024-05-24 00:32:15 INFO  :20 - Google Cloud homepage opened
+2024-05-24 00:32:18 INFO  :41 - Trying to click web element [[ChromeDriver: chrome on windows (c1c7b70eacaae4f870cdf59f83f0982d)] -> xpath: //div[@jsname='Ohx1pb']]
+2024-05-24 00:32:18 INFO  :52 - Web element [[ChromeDriver: chrome on windows (c1c7b70eacaae4f870cdf59f83f0982d)] -> xpath: //div[@jsname='Ohx1pb']]clicked
+2024-05-24 00:32:19 INFO  :34 - Search request + 'Google Cloud Pricing Calculator' sent
+2024-05-24 00:32:20 INFO  :41 - Trying to click web element [[ChromeDriver: chrome on windows (c1c7b70eacaae4f870cdf59f83f0982d)] -> xpath: //a[contains(text(), 'Google Cloud Pricing Calculator')]]
+2024-05-24 00:32:22 INFO  :52 - Web element Proxy element for: DefaultElementLocator 'By.xpath: //a[contains(text(), 'Google Cloud Pricing Calculator')]'clicked
+2024-05-24 00:32:22 INFO  :21 - Google Cloud Pricing Calculator page opened
+2024-05-24 00:32:22 INFO  :35 - [[ChromeDriver: chrome on windows (c1c7b70eacaae4f870cdf59f83f0982d)] -> xpath: //c-wiz[1]//button] clicked
+2024-05-24 00:32:23 INFO  :35 - [[ChromeDriver: chrome on windows (c1c7b70eacaae4f870cdf59f83f0982d)] -> xpath: //div[h2/text()='Compute Engine']] clicked
+2024-05-24 00:32:24 INFO  :56 - Number of instances '4' selected
+2024-05-24 00:32:24 INFO  :41 - Trying to click web element [[ChromeDriver: chrome on windows (c1c7b70eacaae4f870cdf59f83f0982d)] -> xpath: //span[contains(text(), 'Operating System / Software')]/ancestor::div[2]]
+2024-05-24 00:32:25 INFO  :52 - Web element [[ChromeDriver: chrome on windows (c1c7b70eacaae4f870cdf59f83f0982d)] -> xpath: //span[contains(text(), 'Operating System / Software')]/ancestor::div[2]]clicked
+2024-05-24 00:32:25 INFO  :41 - Trying to click web element [[ChromeDriver: chrome on windows (c1c7b70eacaae4f870cdf59f83f0982d)] -> xpath: //span[contains(text(), 'Free: Debian, CentOS, CoreOS, Ubuntu or BYOL (Bring Your Own License)')]/ancestor::li]
+2024-05-24 00:32:25 INFO  :52 - Web element [[ChromeDriver: chrome on windows (c1c7b70eacaae4f870cdf59f83f0982d)] -> xpath: //span[contains(text(), 'Free: Debian, CentOS, CoreOS, Ubuntu or BYOL (Bring Your Own License)')]/ancestor::li]clicked
+2024-05-24 00:32:25 INFO  :60 - Operation system software 'Free: Debian, CentOS, CoreOS, Ubuntu or BYOL (Bring Your Own License)' selected
+2024-05-24 00:32:25 INFO  :41 - Trying to click web element [[ChromeDriver: chrome on windows (c1c7b70eacaae4f870cdf59f83f0982d)] -> xpath: //label[contains(text(), 'Regular')]/parent::*]
+2024-05-24 00:32:25 INFO  :52 - Web element [[ChromeDriver: chrome on windows (c1c7b70eacaae4f870cdf59f83f0982d)] -> xpath: //label[contains(text(), 'Regular')]/parent::*]clicked
+2024-05-24 00:32:25 INFO  :63 - Provision model 'Regular' selected
+2024-05-24 00:32:25 INFO  :41 - Trying to click web element [[ChromeDriver: chrome on windows (c1c7b70eacaae4f870cdf59f83f0982d)] -> xpath: //span[contains(text(), 'Machine Family')]/ancestor::div[2]]
+2024-05-24 00:32:25 INFO  :52 - Web element [[ChromeDriver: chrome on windows (c1c7b70eacaae4f870cdf59f83f0982d)] -> xpath: //span[contains(text(), 'Machine Family')]/ancestor::div[2]]clicked
+2024-05-24 00:32:26 INFO  :41 - Trying to click web element [[ChromeDriver: chrome on windows (c1c7b70eacaae4f870cdf59f83f0982d)] -> xpath: //span[contains(text(), 'General Purpose')]/ancestor::li]
+2024-05-24 00:32:26 INFO  :52 - Web element [[ChromeDriver: chrome on windows (c1c7b70eacaae4f870cdf59f83f0982d)] -> xpath: //span[contains(text(), 'General Purpose')]/ancestor::li]clicked
+2024-05-24 00:32:26 INFO  :67 - Machine family 'General Purpose' selected
+2024-05-24 00:32:26 INFO  :41 - Trying to click web element [[ChromeDriver: chrome on windows (c1c7b70eacaae4f870cdf59f83f0982d)] -> xpath: //span[contains(text(), 'Series')]/ancestor::div[2]]
+2024-05-24 00:32:26 INFO  :52 - Web element [[ChromeDriver: chrome on windows (c1c7b70eacaae4f870cdf59f83f0982d)] -> xpath: //span[contains(text(), 'Series')]/ancestor::div[2]]clicked
+2024-05-24 00:32:26 INFO  :41 - Trying to click web element [[ChromeDriver: chrome on windows (c1c7b70eacaae4f870cdf59f83f0982d)] -> xpath: //span[contains(text(), 'N1')]/ancestor::li]
+2024-05-24 00:32:26 INFO  :52 - Web element [[ChromeDriver: chrome on windows (c1c7b70eacaae4f870cdf59f83f0982d)] -> xpath: //span[contains(text(), 'N1')]/ancestor::li]clicked
+2024-05-24 00:32:26 INFO  :71 - Series 'N1' selected
+2024-05-24 00:32:26 INFO  :41 - Trying to click web element [[ChromeDriver: chrome on windows (c1c7b70eacaae4f870cdf59f83f0982d)] -> xpath: //span[contains(text(), 'Machine type')]/ancestor::div[2]]
+2024-05-24 00:32:27 INFO  :52 - Web element [[ChromeDriver: chrome on windows (c1c7b70eacaae4f870cdf59f83f0982d)] -> xpath: //span[contains(text(), 'Machine type')]/ancestor::div[2]]clicked
+2024-05-24 00:32:27 INFO  :41 - Trying to click web element [[ChromeDriver: chrome on windows (c1c7b70eacaae4f870cdf59f83f0982d)] -> xpath: //span[contains(text(), 'n1-standard-8')]/ancestor::li]
+2024-05-24 00:32:27 INFO  :52 - Web element [[ChromeDriver: chrome on windows (c1c7b70eacaae4f870cdf59f83f0982d)] -> xpath: //span[contains(text(), 'n1-standard-8')]/ancestor::li]clicked
+2024-05-24 00:32:27 INFO  :75 - machine type 'n1-standard-8' selected
+2024-05-24 00:32:27 INFO  :41 - Trying to click web element [[ChromeDriver: chrome on windows (c1c7b70eacaae4f870cdf59f83f0982d)] -> xpath: //button[contains(@aria-label, 'Add GPUs')]/ancestor::div[4]]
+2024-05-24 00:32:27 INFO  :52 - Web element [[ChromeDriver: chrome on windows (c1c7b70eacaae4f870cdf59f83f0982d)] -> xpath: //button[contains(@aria-label, 'Add GPUs')]/ancestor::div[4]]clicked
+2024-05-24 00:32:27 INFO  :80 - Added GPUS 'true' selected
+2024-05-24 00:32:27 INFO  :41 - Trying to click web element Proxy element for: DefaultElementLocator 'By.xpath: //span[contains(text(), 'GPU Model')]/ancestor::div[2]'
+2024-05-24 00:32:28 INFO  :52 - Web element [[ChromeDriver: chrome on windows (c1c7b70eacaae4f870cdf59f83f0982d)] -> xpath: //span[contains(text(), 'GPU Model')]/ancestor::div[2]]clicked
+2024-05-24 00:32:28 INFO  :41 - Trying to click web element [[ChromeDriver: chrome on windows (c1c7b70eacaae4f870cdf59f83f0982d)] -> xpath: //span[contains(text(), 'NVIDIA TESLA P100')]/ancestor::li]
+2024-05-24 00:32:28 INFO  :52 - Web element [[ChromeDriver: chrome on windows (c1c7b70eacaae4f870cdf59f83f0982d)] -> xpath: //span[contains(text(), 'NVIDIA TESLA P100')]/ancestor::li]clicked
+2024-05-24 00:32:28 INFO  :84 - GPU type 'NVIDIA TESLA P100' selected
+2024-05-24 00:32:29 INFO  :41 - Trying to click web element [[ChromeDriver: chrome on windows (c1c7b70eacaae4f870cdf59f83f0982d)] -> xpath: //span[contains(text(), 'Number of GPUs')]/ancestor::div[2]]
+2024-05-24 00:32:29 INFO  :52 - Web element [[ChromeDriver: chrome on windows (c1c7b70eacaae4f870cdf59f83f0982d)] -> xpath: //span[contains(text(), 'Number of GPUs')]/ancestor::div[2]]clicked
+2024-05-24 00:32:29 INFO  :41 - Trying to click web element [[ChromeDriver: chrome on windows (c1c7b70eacaae4f870cdf59f83f0982d)] -> xpath: //ul[contains(@aria-label, 'Number of GPUs')]//li[contains(@data-value, '1')]]
+2024-05-24 00:32:29 INFO  :52 - Web element [[ChromeDriver: chrome on windows (c1c7b70eacaae4f870cdf59f83f0982d)] -> xpath: //ul[contains(@aria-label, 'Number of GPUs')]//li[contains(@data-value, '1')]]clicked
+2024-05-24 00:32:29 INFO  :88 - Number of GPUs '1' selected
+2024-05-24 00:32:29 INFO  :41 - Trying to click web element [[ChromeDriver: chrome on windows (c1c7b70eacaae4f870cdf59f83f0982d)] -> xpath: //span[contains(text(), 'Local SSD')]/ancestor::div[2]]
+2024-05-24 00:32:29 INFO  :52 - Web element [[ChromeDriver: chrome on windows (c1c7b70eacaae4f870cdf59f83f0982d)] -> xpath: //span[contains(text(), 'Local SSD')]/ancestor::div[2]]clicked
+2024-05-24 00:32:29 INFO  :41 - Trying to click web element [[ChromeDriver: chrome on windows (c1c7b70eacaae4f870cdf59f83f0982d)] -> xpath: //span[contains(text(), '2x375 GB')]/ancestor::li]
+2024-05-24 00:32:30 INFO  :52 - Web element [[ChromeDriver: chrome on windows (c1c7b70eacaae4f870cdf59f83f0982d)] -> xpath: //span[contains(text(), '2x375 GB')]/ancestor::li]clicked
+2024-05-24 00:32:30 INFO  :93 - Local SSD '2x375 GB' selected
+2024-05-24 00:32:30 INFO  :41 - Trying to click web element [[ChromeDriver: chrome on windows (c1c7b70eacaae4f870cdf59f83f0982d)] -> xpath: //span[contains(text(), 'Region')]/ancestor::div[2]]
+2024-05-24 00:32:30 INFO  :52 - Web element [[ChromeDriver: chrome on windows (c1c7b70eacaae4f870cdf59f83f0982d)] -> xpath: //span[contains(text(), 'Region')]/ancestor::div[2]]clicked
+2024-05-24 00:32:30 INFO  :41 - Trying to click web element [[ChromeDriver: chrome on windows (c1c7b70eacaae4f870cdf59f83f0982d)] -> xpath: //span[contains(text(), 'South Carolina (us-east1)')]/ancestor::li]
+2024-05-24 00:32:30 INFO  :52 - Web element [[ChromeDriver: chrome on windows (c1c7b70eacaae4f870cdf59f83f0982d)] -> xpath: //span[contains(text(), 'South Carolina (us-east1)')]/ancestor::li]clicked
+2024-05-24 00:32:30 INFO  :97 - Datacenter Location 'South Carolina (us-east1)' selected
+2024-05-24 00:32:30 INFO  :41 - Trying to click web element [[ChromeDriver: chrome on windows (c1c7b70eacaae4f870cdf59f83f0982d)] -> xpath: //label[contains(text(), '1 year')]/ancestor::div[1]]
+2024-05-24 00:32:31 INFO  :52 - Web element [[ChromeDriver: chrome on windows (c1c7b70eacaae4f870cdf59f83f0982d)] -> xpath: //label[contains(text(), '1 year')]/ancestor::div[1]]clicked
+2024-05-24 00:32:31 INFO  :101 - Committed usage '1 year' selected
+2024-05-24 00:32:32 INFO  :110 - Waited for cost '$3,535.70' evaluated
+2024-05-24 00:32:32 INFO  :41 - Trying to click web element [[ChromeDriver: chrome on windows (c1c7b70eacaae4f870cdf59f83f0982d)] -> xpath: //button[contains(@aria-label, 'Open Share Estimate dialog')]]
+2024-05-24 00:32:32 INFO  :52 - Web element [[ChromeDriver: chrome on windows (c1c7b70eacaae4f870cdf59f83f0982d)] -> xpath: //button[contains(@aria-label, 'Open Share Estimate dialog')]]clicked
+2024-05-24 00:32:32 INFO  :119 - Open share estimate clicked
+2024-05-24 00:32:32 INFO  :41 - Trying to click web element [[ChromeDriver: chrome on windows (c1c7b70eacaae4f870cdf59f83f0982d)] -> xpath: //a[contains(@track-name, 'open estimate summary')]]
+2024-05-24 00:32:33 INFO  :52 - Web element [[ChromeDriver: chrome on windows (c1c7b70eacaae4f870cdf59f83f0982d)] -> xpath: //a[contains(@track-name, 'open estimate summary')]]clicked
+2024-05-24 00:32:33 INFO  :126 - Open estimate summary clicked
+2024-05-24 00:32:33 INFO  :39 - WebDriver switched to last window
+2024-05-24 00:32:33 INFO  :86 - Checking committed usage
+2024-05-24 00:32:34 INFO  :44 - Checking total estimated cost
+2024-05-24 00:32:34 INFO  :80 - Checking datacenter Location
+2024-05-24 00:32:34 INFO  :98 - Checking GPU model
+2024-05-24 00:32:34 INFO  :74 - Checking local SSD
+2024-05-24 00:32:35 INFO  :68 - Checking machine type
+2024-05-24 00:32:35 INFO  :92 - Checking number of GPUs
+2024-05-24 00:32:35 INFO  :56 - Checking provisioning model
+2024-05-24 00:32:35 INFO  :62 - Checking operation system software
+2024-05-24 00:32:35 INFO  :50 - Checking number of instances
