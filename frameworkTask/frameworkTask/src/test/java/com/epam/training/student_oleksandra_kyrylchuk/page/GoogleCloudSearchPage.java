@@ -12,7 +12,7 @@ public class GoogleCloudSearchPage extends AbstractPage {
         super(webDriver);
     }
 
-    public WelcomePricingCalculatorPage openPricingCalculatorPage(String query) {
+    public WelcomePricingCalculatorPage openPricingCalculatorPage() {
 
         JavascriptExecutor js = (JavascriptExecutor) webDriver;
         js.executeScript("arguments[0].scrollIntoView(true);" + "window.scrollBy(0,-300);", visibilityOf(pricingCalculatorLink));

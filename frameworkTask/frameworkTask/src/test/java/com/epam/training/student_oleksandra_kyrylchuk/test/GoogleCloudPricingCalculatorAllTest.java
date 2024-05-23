@@ -16,7 +16,7 @@ public class GoogleCloudPricingCalculatorAllTest extends CommonConditions {
                 .openPage()
                 .clickSearchIcon()
                 .searchQuery(SEARCH_TERM)
-                .openPricingCalculatorPage(SEARCH_TERM)
+                .openPricingCalculatorPage()
                 .addToEstimateClick()
                 .computeEngineClick()
                 .fillComputeEngineForm(computeEngine.getNumberOfInstances(), computeEngine.getOperationSystemSoftware(),

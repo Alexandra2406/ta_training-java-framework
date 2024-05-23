@@ -13,7 +13,7 @@ public class SmokeTest extends CommonConditions {
                 .openPage()
                 .clickSearchIcon()
                 .searchQuery(SEARCH_TERM)
-                .openPricingCalculatorPage(SEARCH_TERM)
+                .openPricingCalculatorPage()
                 .addToEstimateClick()
                 .computeEngineClick();
         Assert.assertTrue(driver.getCurrentUrl().contains(PricingCalculatorPage.getHOMEPAGE_URL()),
